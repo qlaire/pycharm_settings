@@ -3,14 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/schemas/test_accounts_schemas.py" timestamp="1544125423727">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
+        <mark key="'" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
-        <mark key="'" line="12" column="16" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_save_and_rerate_service.py" timestamp="1544643964375">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="57" column="86" />
+        <mark key="]" line="57" column="86" />
+        <mark key="^" line="57" column="86" />
+        <mark key="." line="57" column="86" />
       </file>
       <file name="/Python Console" timestamp="1547665722983">
         <mark key="[" line="0" column="0" />
@@ -23,14 +24,39 @@
       <file name="/a.dummy" timestamp="1544124513441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" timestamp="1544125731209">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/lib/iqos_client/serializers/test_account_serializer.py" timestamp="1544114533998">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
-        <mark key="'" line="73" column="4" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/account_query_result.py" timestamp="1544125381301">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="11" />
+        <mark key="." line="86" column="11" />
+        <mark key="^" line="86" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_transaction_service.py" timestamp="1544116989063">
+        <mark key="'" line="682" column="67" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="403" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_lob_views.py" timestamp="1547667145020">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
+        <mark key="'" line="95" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/.env" timestamp="1545338871110">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/endpoints/test_accounts_endpoints.py" timestamp="1544117849772">
         <mark key="'" line="120" column="8" />
@@ -46,6 +72,13 @@
         <mark key="^" line="103" column="7" />
         <mark key="." line="103" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_flag_views.py" timestamp="1543248804217">
+        <mark key="'" line="0" column="90" />
+        <mark key="[" line="0" column="72" />
+        <mark key="]" line="0" column="90" />
+        <mark key="." line="0" column="90" />
+        <mark key="^" line="0" column="90" />
+      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_views.py" timestamp="1544125160122">
         <mark key="'" line="33" column="15" />
         <mark key="[" line="8" column="0" />
@@ -53,11 +86,8 @@
         <mark key="^" line="8" column="56" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/lib/iqos_client/serializers/account_serializer.py" timestamp="1544114428574">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
+        <mark key="'" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/endpoints/test_flags_endpoints.py" timestamp="1542646107243">
         <mark key="'" line="43" column="113" />
@@ -66,73 +96,26 @@
         <mark key="^" line="44" column="117" />
         <mark key="." line="44" column="117" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_save_and_rerate_service.py" timestamp="1544643964375">
-        <mark key="'" line="33" column="27" />
-        <mark key="[" line="57" column="86" />
-        <mark key="]" line="57" column="86" />
-        <mark key="^" line="57" column="86" />
-        <mark key="." line="57" column="86" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_flag_views.py" timestamp="1543248804217">
-        <mark key="'" line="0" column="90" />
-        <mark key="[" line="0" column="72" />
-        <mark key="]" line="0" column="90" />
-        <mark key="." line="0" column="90" />
-        <mark key="^" line="0" column="90" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/endpoints/test_account_endorsement_view.py" timestamp="1544117777319">
-        <mark key="'" line="24" column="97" />
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="19" column="101" />
-        <mark key="^" line="19" column="101" />
-        <mark key="." line="19" column="101" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_policy_context_manager.py" timestamp="1544117040218">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="30" column="75" />
-        <mark key="." line="30" column="75" />
-        <mark key="^" line="30" column="75" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/broker_submissions/views.py" timestamp="1544112470931">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/schemas/account_schema.py" timestamp="1544125196337">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_execute_views.py" timestamp="1542387907249">
-        <mark key="'" line="50" column="12" />
-        <mark key="[" line="50" column="19" />
-        <mark key="]" line="50" column="24" />
-        <mark key="." line="50" column="24" />
-        <mark key="^" line="50" column="24" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/account_query_handler.py" timestamp="1545171234394">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/policy_context_manager.py" timestamp="1544116079204">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/lib/iqos_client/serializers/test_account_serializer.py" timestamp="1544114533998">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
-        <mark key="'" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
-        <mark key="'" line="68" column="8" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/queries/test_account_query_result.py" timestamp="1544125322092">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/repositories/test_iqos_gateway.py" timestamp="1544117361325">
         <mark key="'" line="14" column="0" />
@@ -141,26 +124,39 @@
         <mark key="^" line="567" column="39" />
         <mark key="." line="567" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/queries/test_account_query_result.py" timestamp="1544125322092">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/policy_context_manager.py" timestamp="1544116079204">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/account_query_result.py" timestamp="1544125381301">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="86" column="11" />
-        <mark key="." line="86" column="11" />
-        <mark key="^" line="86" column="11" />
+      <file name="/Dummy.txt" timestamp="1553621996848">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
-        <mark key="'" line="39" column="16" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
+        <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_lob_views.py" timestamp="1547667145020">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/schemas/test_accounts_schemas.py" timestamp="1544125423727">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/endpoints/test_account_endorsement_view.py" timestamp="1544117777319">
+        <mark key="'" line="24" column="97" />
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="101" />
+        <mark key="^" line="19" column="101" />
+        <mark key="." line="19" column="101" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
+        <mark key="'" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/lib/iqos_client/serializers/account_serializer.py" timestamp="1544114428574">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" timestamp="1547666510824">
         <mark key="'" line="272" column="68" />
@@ -168,30 +164,37 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/.env" timestamp="1545338871110">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
+        <mark key="'" line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_transaction_service.py" timestamp="1544116989063">
-        <mark key="'" line="682" column="67" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="403" column="72" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_execute_views.py" timestamp="1542387907249">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
+        <mark key="'" line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/account_query_handler.py" timestamp="1545171234394">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_policy_context_manager.py" timestamp="1544117040218">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="75" />
+        <mark key="." line="30" column="75" />
+        <mark key="^" line="30" column="75" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
-        <mark key="'" line="95" column="8" />
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" timestamp="1544125731209">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/broker_submissions/views.py" timestamp="1544112470931">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
