@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.local/share/virtualenvs/blackboard-slate-api-py-hpJx4-Qj/" />
     </exec>
   </tool>
+  <tool name="pylint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Development/api/scripts/lint_changes.py" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
 </toolSet>
