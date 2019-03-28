@@ -144,10 +144,10 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1553782489930">
-        <mark key="'" line="691" column="11" />
-        <mark key="[" line="1786" column="43" />
-        <mark key="]" line="1786" column="93" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1553792351873">
+        <mark key="'" line="1675" column="8" />
+        <mark key="[" line="674" column="44" />
+        <mark key="]" line="674" column="44" />
         <mark key="." line="674" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1553635839759">
@@ -179,16 +179,15 @@
         <mark key="." line="50" column="24" />
         <mark key="^" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553786889850">
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553792659191">
         <mark key="'" line="589" column="25" />
-        <mark key="[" line="597" column="43" />
-        <mark key="]" line="597" column="69" />
-        <mark key="." line="597" column="69" />
-        <mark key="^" line="597" column="69" />
+        <mark key="[" line="614" column="63" />
+        <mark key="]" line="614" column="66" />
+        <mark key="^" line="614" column="66" />
+        <mark key="." line="614" column="66" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="104" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="126" column="43" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="128" column="15" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="137" column="35" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
@@ -236,7 +235,6 @@
       <jump line="1814" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="656" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="677" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1675" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1468" column="48" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1791" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1589" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -267,7 +265,6 @@
       <jump line="24" column="4" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="37" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="96" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
-      <jump line="1784" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="691" column="11" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="565" column="13" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="580" column="44" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
@@ -288,55 +285,58 @@
       <jump line="596" column="47" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="595" column="15" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="588" column="25" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="1784" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="667" column="22" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1675" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>can_pause</text>
+        <text>minutes=1</text>
       </register>
       <register name="-" type="4">
-        <text>can_pause</text>
+        <text>minutes=1</text>
       </register>
       <register name="/" type="4">
-        <text>pause</text>
+        <text>is_active(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCB0aGUgaGVjaycsIHNlbGYuc3Vic2NyaXB0aW9uLnVucGF1c2VkX29uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5leHRfd2VlayA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHN1YnNjcmlwdGlvbi5pc19wYXVzZWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
+        <text encoding="base64">ICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXJyb3cuZ2V0KHNlbGYudHdvX3dlZWtzX2Fnbykuc2hpZnQobW9udGhzPTEpLAogICAgICAgICAgICAgICAgICAgICBhcnJvdy5nZXQoc2VsZi5zdWIucGF1c2VkX29uKSkKICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXJyb3cuZ2V0KHNlbGYudHdvX3dlZWtzX2Fnbykuc2hpZnQobW9udGhzPTIpLAogICAgICAgICAgICAgICAgICAgICBhcnJvdy5nZXQoc2VsZi5zdWIudW5wYXVzZWRfb24pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgaXQgYWN0aXZlICcsIHNlbGYuc3Vic2NyaXB0aW9uLmlzX2FjdGl2ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdChtb250aF9jb3VudD0xKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9wYXVzZV9lbmRwb2ludF91cGRhdGVzX2RiKHNlbGYpOgojICAgICByZXNwID0gc2VsZi5ib3R0bGUucG9zdF9qc29uKAojICAgICAgICAgJy9zdWJzY3JpcHRpb24ve3N1Yl9pZH0vcGF1c2UnLmZvcm1hdChzdWJfaWQ9c2VsZi5zdWIuaWQpLAojICAgICAgICAgZGljdChtb250aF9jb3VudD0xKSwKIyAgICAgICAgIGhlYWRlcnM9c2VsZi5jb29raWVzLAojICAgICAgICAgc3RhdHVzPTIwMCkKIwojICAgICBzZWxmLnN1Yi5sb2FkKCkKIwojCiMgc2VsZi5hc3NlcnRFcXVhbChhcnJvdy5nZXQoc2VsZi50d29fd2Vla3NfYWdvKS5zaGlmdChtb250aHM9MSksCiMgICAgICAgICAgICAgICAgICBhcnJvdy5nZXQoc2VsZi5zdWIucGF1c2VkX29uKSkKIyBzZWxmLmFzc2VydEVxdWFsKGFycm93LmdldChzZWxmLnR3b193ZWVrc19hZ28pLnNoaWZ0KG1vbnRocz0yKSwKIyAgICAgICAgICAgICAgICAgIGFycm93LmdldChzZWxmLnN1Yi51bnBhdXNlZF9vbikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5TdWJzY3JpcHRpb24ubWFuYWdlci5nZXQoc3Vic2NyaXB0aW9uLmlkKQoKICAgICAgICBzZWxmLnN1YnNjcmlwdGlvbiA9IHN1YnNjcmlwdGlvbgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnbmV3IHVucGF1c2VkIG9uJywgYXJyb3cuZ2V0KHJlc3AuanNvblsndW5wYXVzZWRfb24nXSkpCiAgICAgICAgcHJpbnQoJ2hlcmVzIHRoZSByZXNwb25zZScsIHJlc3AuanNvbikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfbmV3X3RpbWUgPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPTEpLnRpbWVzdGFtcAoKICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9X25ld190aW1lKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncGF1c2VkIG9uJywgYXJyb3cuZ2V0KHNlbGYuc3Vic2NyaXB0aW9uLnBhdXNlZF9vbikpCiAgICAgICAgcHJpbnQoJ3doYXQgdGhlIGhlY2snLCBhcnJvdy5nZXQoc2VsZi5zdWJzY3JpcHRpb24udW5wYXVzZWRfb24pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5leHRfd2VlayA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcC5qc29uWydjYW5fcGF1c2UnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>pause</last-search>
+      <last-search>is_active(</last-search>
       <last-offset />
-      <last-pattern>pause</last-pattern>
+      <last-pattern>is_active(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -344,12 +344,9 @@
     </search>
     <history>
       <history-search>
-        <entry>un_pause</entry>
-        <entry>cancel_pause</entry>
         <entry>find_by_id</entry>
         <entry>is_paused</entry>
         <entry>pause(</entry>
-        <entry>is_paused(</entry>
         <entry>get(</entry>
         <entry encoding="base64">XDxQYXJhbWV0ZXJWYWxpZGF0aW9uRXJyb3JcPg==</entry>
         <entry>make(</entry>
@@ -364,6 +361,9 @@
         <entry>active(</entry>
         <entry encoding="base64">XDx5ZXN0ZXJkYXlcPg==</entry>
         <entry>pause</entry>
+        <entry>is_paused(</entry>
+        <entry>can_pause</entry>
+        <entry>is_active(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
