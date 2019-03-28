@@ -81,6 +81,20 @@
         <mark key="^" line="567" column="39" />
         <mark key="." line="567" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" timestamp="1553801230353">
+        <mark key="'" line="20" column="27" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="148" column="37" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/rest_api/app/server/controllers/__init__.py" timestamp="1553801677883">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/endpoints/test_account_endorsement_view.py" timestamp="1544117777319">
         <mark key="'" line="24" column="97" />
         <mark key="[" line="19" column="50" />
@@ -98,12 +112,16 @@
         <mark key="." line="30" column="75" />
         <mark key="^" line="30" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/commands/unpause_subscription.py" timestamp="1553723057225">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/commands/unpause_subscription.py" timestamp="1553802210862">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/api/mq/app/queues/users.py" timestamp="1553801605253">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_save_and_rerate_service.py" timestamp="1544643964375">
         <mark key="'" line="33" column="27" />
@@ -134,11 +152,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="403" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_lob_views.py" timestamp="1547667145020">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="/test_subscription.py" timestamp="1553795296920">
         <mark key="[" line="2" column="11" />
       </file>
@@ -151,12 +164,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1553782889890">
-        <mark key="'" line="63" column="40" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="44" />
-        <mark key="." line="69" column="66" />
-        <mark key="^" line="69" column="66" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1553802274352">
+        <mark key="'" line="64" column="40" />
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
@@ -174,21 +187,15 @@
         <mark key="." line="50" column="24" />
         <mark key="^" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553795307749">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553801190880">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="664" column="38" />
+        <mark key="]" line="664" column="38" />
+        <mark key="." line="664" column="45" />
+        <mark key="^" line="656" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="15" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="137" column="35" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="147" column="15" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="72" column="13" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="81" column="13" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="84" column="8" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="141" column="35" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="143" column="44" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="144" column="41" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
@@ -264,7 +271,6 @@
       <jump line="562" column="20" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="559" column="12" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="640" column="34" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="638" column="11" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="630" column="34" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="628" column="11" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="625" column="40" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
@@ -281,55 +287,64 @@
       <jump line="667" column="22" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1675" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="629" column="0" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="667" column="7" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="2" column="5" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/__init__.py" />
+      <jump line="12" column="48" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/__init__.py" />
+      <jump line="638" column="13" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="659" column="0" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="20" column="27" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
+      <jump line="39" column="39" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>is_active(</text>
+        <text encoding="base64">XDxuZXh0X3dlZWtcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHJlc3AuanNvblsndW5wYXVzZWRfb24nXSwgc2VsZi5uZXh0X3dlZWspCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUodXBkYXRlZF9zdWJzY3JpcHRpb24uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjYW4gcGF1c2UnLCBzdWJzY3JpcHRpb24uY2FuX3BhdXNlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CgoKCgoKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdChtb250aF9jb3VudD0zKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IwojCiMgZGVmIHRlc3RfcGF1c2VfZW5kcG9pbnRfaW52YWxpZF9tb250aChzZWxmKToKIyAgICAgcmVzcCA9IHNlbGYuYm90dGxlLnBvc3RfanNvbigKIyAgICAgICAgICcvc3Vic2NyaXB0aW9uL3tzdWJfaWR9L3BhdXNlJy5mb3JtYXQoc3ViX2lkPXNlbGYuc3ViLmlkKSwKIyAgICAgICAgIGRpY3QobW9udGhfY291bnQ9NSksCiMgICAgICAgICBoZWFkZXJzPXNlbGYuY29va2llcywKIyAgICAgICAgIHN0YXR1cz00MDApCiMKIyAgICAgc2VsZi5hc3NlcnRFcXVhbCgiJ21vbnRoX2NvdW50JyBkb2VzIG5vdCB2YWxpZGF0ZS4iLCByZXNwLmpzb25bJ21lc3NhZ2UnXSkKIwojCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9wYXVzZV9lbmRwb2ludF9pbnZhbGlkX3N1YnNjcmlwdGlvbl9pZChzZWxmKToKIyAgICAgcmVzcCA9IHNlbGYuYm90dGxlLnBvc3RfanNvbigKIyAgICAgICAgICcvc3Vic2NyaXB0aW9uL3tzdWJfaWR9L3BhdXNlJy5mb3JtYXQoc3ViX2lkPSdmb28nKSwKIyAgICAgICAgIGRpY3QobW9udGhfY291bnQ9MyksCiMgICAgICAgICBoZWFkZXJzPXNlbGYuY29va2llcywKIyAgICAgICAgIHN0YXR1cz00MDQpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhaXJlZHJhbmdpbmlzLlNVUy0xMDguYWRkX3VucGF1c2VfdG9fY29udHJvbGxlcmp1eXV1dQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdzdWJzY3JpcHRpb24nLCBzdWJzY3JpcHRpb24pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX2Rpc3BhdGNoLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKCJ1cGRhdGVkX3N1YnNjcmlwdGlvbiIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgndHJ5aW5nIHRvIG1vY2snLCBtb2NrX2Rpc3BhdGNoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBwYXRjaCgncmVzdF9hcGkuYXBwLnNlcnZlci5jb250cm9sbGVycy5zdWJzY3JpcHRpb24uZGlzcGF0Y2gnKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bnBhdXNlZF9vbiA9IHJlc3AuanNvblsndW5wYXVzZWRfb24nXQoKICAgICAgICBfbmV3X3RpbWUgPSBhcnJvdy51dGNub3coKS5zaGlmdChhcnJvdy5nZXQodW5wYXVzZWRfb24pICsgMSkudGltZXN0YW1wCgogICAgICAgIHdpdGggc2VsZi5wYXRjaF90aW1lKG5vdz1fbmV3X3RpbWUpOgogICAgICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5TdWJzY3JpcHRpb24uZ2V0KHNlbGYuc3Vic2NyaXB0aW9uLmlkKQoKICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZShzdWJzY3JpcHRpb24uaXNfcGF1c2VkKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3VucGF1c2UucmV0dXJuX3ZhbHVlLnJldHVybl92YWx1ZSA9ICJ1cGRhdGVkX3N1YnNjcmlwdGlvbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHN1YnNjcmlwdGlvbi5pc19wYXVzZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>is_active(</last-search>
+      <last-search encoding="base64">XDxuZXh0X3dlZWtcPg==</last-search>
       <last-offset />
-      <last-pattern>is_active(</last-pattern>
+      <last-pattern encoding="base64">XDxuZXh0X3dlZWtcPg==</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -337,8 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>find_by_id</entry>
-        <entry>is_paused</entry>
         <entry>pause(</entry>
         <entry>get(</entry>
         <entry encoding="base64">XDxQYXJhbWV0ZXJWYWxpZGF0aW9uRXJyb3JcPg==</entry>
@@ -357,6 +370,8 @@
         <entry>is_paused(</entry>
         <entry>can_pause</entry>
         <entry>is_active(</entry>
+        <entry>subscription</entry>
+        <entry encoding="base64">XDxuZXh0X3dlZWtcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
