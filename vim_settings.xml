@@ -144,8 +144,8 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1553724115252">
-        <mark key="'" line="766" column="26" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1553782489930">
+        <mark key="'" line="691" column="11" />
         <mark key="[" line="1786" column="43" />
         <mark key="]" line="1786" column="93" />
         <mark key="." line="674" column="44" />
@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1553778826432">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1553782889890">
         <mark key="'" line="63" column="40" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="64" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="44" />
         <mark key="." line="69" column="66" />
         <mark key="^" line="69" column="66" />
       </file>
@@ -179,17 +179,15 @@
         <mark key="." line="50" column="24" />
         <mark key="^" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553781326690">
-        <mark key="'" line="606" column="23" />
-        <mark key="[" line="600" column="14" />
-        <mark key="]" line="600" column="31" />
-        <mark key="^" line="600" column="31" />
-        <mark key="." line="600" column="31" />
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553783314543">
+        <mark key="'" line="612" column="23" />
+        <mark key="[" line="604" column="0" />
+        <mark key="]" line="604" column="12" />
+        <mark key="." line="604" column="12" />
+        <mark key="^" line="603" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/schemas/test_accounts_schemas.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" />
       <jump line="34" column="4" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" />
       <jump line="35" column="6" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" />
       <jump line="59" column="27" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_save_and_rerate_service.py" />
@@ -288,56 +286,58 @@
       <jump line="24" column="4" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="37" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="96" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
+      <jump line="1784" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="691" column="11" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>subscrtipion</text>
+        <text>minutes</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaFw+</text>
+        <text>active(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc3RlcmRheSA9IGFycm93LnV0Y25vdygpLnNoaWZ0KGRheXM9LTEpLnRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgICAgICBfbmV3X3RpbWUgPSBhcnJvdy51dGNub3coKS5zaGlmdChtaW51dGVzPTEpLnRpbWVzdGFtcAoKICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9X25ld190aW1lKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcC5qc29uWydjYW5fcGF1c2UnXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFycm93LmdldChzZWxmLnR3b193ZWVrc19hZ28pLnNoaWZ0KG1vbnRocz0yKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGFycm93LmdldChyZXNwLmpzb25bJ3VucGF1c2VkX29uJ10pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>arrow.get(self.two_weeks_ago).shift(months=1),
-                         arrow.get(resp.json['paused_on'])</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgaXQgYWN0aXZlICcsIHNlbGYuc3Vic2NyaXB0aW9uLmlzX2FjdGl2ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdChtb250aF9jb3VudD0xKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFycm93LmdldChzZWxmLnR3b193ZWVrc19hZ28pLnNoaWZ0KG1vbnRocz0yKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGFycm93LmdldChyZXNwLmpzb25bJ3VucGF1c2VkX29uJ10pKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>arrow.get(self.two_weeks_ago).shift(months=1),
+                         arrow.get(resp.json['paused_on'])</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ub3cgPSBhcnJvdy51dGNub3coKQoKICAgIHNlbGYubm93ID0gc2VsZi5fbm93LnRpbWVzdGFtcAogICAgc2VsZi50d29fd2Vla3NfYWdvID0gc2VsZi5fbm93LnNoaWZ0KHdlZWtzPS0yKS50aW1lc3RhbXAKICAgIHNlbGYuaW5fdHdvX3dlZWtzID0gc2VsZi5fbm93LnNoaWZ0KHdlZWtzPTIpLnRpbWVzdGFtcAogICAgc2VsZi50aHJlZV9kYXlzX2FnbyA9IHNlbGYuX25vdy5zaGlmdChkYXlzPS0zKS50aW1lc3RhbXAKICAgIHNlbGYubGFzdF9tb250aCA9IHNlbGYuX25vdy5zaGlmdChtb250aHM9LTEpLnRpbWVzdGFtcAogICAgc2VsZi5sYXN0X3llYXIgPSBzZWxmLl9ub3cuc2hpZnQoeWVhcnM9LTEpLnRpbWVzdGFtcAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdChtb250aF9jb3VudD0xKSwK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaFw+</last-search>
+      <last-search>active(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaFw+</last-pattern>
+      <last-pattern>active(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -345,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb2xpY3lfaGlzdG9yeV9wb2xpY2llc19wYXRoXD4=</entry>
         <entry>unpause(</entry>
         <entry>un_pause</entry>
         <entry>cancel_pause</entry>
@@ -365,6 +364,7 @@
         <entry encoding="base64">XDxpc19zY2hlZHVsZWRfZm9yX3BhdXNlXD4=</entry>
         <entry>cancel_pause(</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
+        <entry>active(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
