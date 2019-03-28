@@ -179,12 +179,12 @@
         <mark key="." line="50" column="24" />
         <mark key="^" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553779427871">
-        <mark key="'" line="604" column="23" />
-        <mark key="[" line="592" column="0" />
-        <mark key="]" line="592" column="0" />
-        <mark key="^" line="594" column="7" />
-        <mark key="." line="592" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553781326690">
+        <mark key="'" line="606" column="23" />
+        <mark key="[" line="600" column="14" />
+        <mark key="]" line="600" column="31" />
+        <mark key="^" line="600" column="31" />
+        <mark key="." line="600" column="31" />
       </file>
     </filemarks>
     <jumps>
