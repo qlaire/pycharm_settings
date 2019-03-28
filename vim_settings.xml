@@ -81,12 +81,12 @@
         <mark key="^" line="567" column="39" />
         <mark key="." line="567" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" timestamp="1553780415601">
+      <file name="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" timestamp="1553786343445">
         <mark key="'" line="96" column="11" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="0" />
+        <mark key="[" line="127" column="58" />
+        <mark key="]" line="128" column="44" />
+        <mark key="." line="128" column="44" />
+        <mark key="^" line="128" column="44" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/endpoints/test_account_endorsement_view.py" timestamp="1544117777319">
         <mark key="'" line="24" column="97" />
@@ -179,32 +179,15 @@
         <mark key="." line="50" column="24" />
         <mark key="^" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553783314543">
-        <mark key="'" line="612" column="23" />
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="12" />
-        <mark key="." line="604" column="12" />
-        <mark key="^" line="603" column="11" />
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1553786889850">
+        <mark key="'" line="589" column="25" />
+        <mark key="[" line="597" column="43" />
+        <mark key="]" line="597" column="69" />
+        <mark key="." line="597" column="69" />
+        <mark key="^" line="597" column="69" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" />
-      <jump line="35" column="6" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/README.md" />
-      <jump line="59" column="27" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_save_and_rerate_service.py" />
-      <jump line="33" column="27" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/bb_slate_api/services/test_save_and_rerate_service.py" />
-      <jump line="9" column="8" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_gateway.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" />
-      <jump line="188" column="44" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="175" column="7" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="166" column="18" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="20" column="4" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="13" column="24" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/account_query_handler.py" />
-      <jump line="94" column="61" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="101" column="12" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="103" column="15" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="110" column="65" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="116" column="52" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
-      <jump line="118" column="62" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="125" column="104" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="126" column="43" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
       <jump line="128" column="15" filename="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_service.py" />
@@ -280,64 +263,80 @@
       <jump line="26" column="0" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="124" column="5" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="565" column="25" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="595" column="23" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="129" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="24" column="4" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="37" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="96" column="11" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="1784" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="691" column="11" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="565" column="13" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="580" column="44" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="399" column="14" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="562" column="20" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="559" column="12" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="640" column="34" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="638" column="11" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="630" column="34" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="628" column="11" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="625" column="40" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="623" column="38" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="614" column="34" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="612" column="11" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="606" column="39" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="600" column="38" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="597" column="51" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="596" column="47" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="595" column="15" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="588" column="25" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>can_pause</text>
       </register>
       <register name="-" type="4">
-        <text>minutes</text>
+        <text>can_pause</text>
       </register>
       <register name="/" type="4">
-        <text>active(</text>
+        <text>pause</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfbmV3X3RpbWUgPSBhcnJvdy51dGNub3coKS5zaGlmdChtaW51dGVzPTEpLnRpbWVzdGFtcAoKICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9X25ld190aW1lKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCB0aGUgaGVjaycsIHNlbGYuc3Vic2NyaXB0aW9uLnVucGF1c2VkX29uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5leHRfd2VlayA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcC5qc29uWydjYW5fcGF1c2UnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnaXMgaXQgYWN0aXZlICcsIHNlbGYuc3Vic2NyaXB0aW9uLmlzX2FjdGl2ZSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5TdWJzY3JpcHRpb24ubWFuYWdlci5nZXQoc3Vic2NyaXB0aW9uLmlkKQoKICAgICAgICBzZWxmLnN1YnNjcmlwdGlvbiA9IHN1YnNjcmlwdGlvbgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFycm93LmdldChzZWxmLnR3b193ZWVrc19hZ28pLnNoaWZ0KG1vbnRocz0yKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGFycm93LmdldChyZXNwLmpzb25bJ3VucGF1c2VkX29uJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICBfbmV3X3RpbWUgPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPTEpLnRpbWVzdGFtcAoKICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9X25ld190aW1lKToK</text>
       </register>
-      <register name="8" type="4">
-        <text>arrow.get(self.two_weeks_ago).shift(months=1),
-                         arrow.get(resp.json['paused_on'])</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZXMgdGhlIHJlc3AiLCByZXNwLmpzb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdChtb250aF9jb3VudD0xKSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUocmVzcC5qc29uWydjYW5fcGF1c2UnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>active(</last-search>
+      <last-search>pause</last-search>
       <last-offset />
-      <last-pattern>active(</last-pattern>
+      <last-pattern>pause</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -345,10 +344,8 @@
     </search>
     <history>
       <history-search>
-        <entry>unpause(</entry>
         <entry>un_pause</entry>
         <entry>cancel_pause</entry>
-        <entry>pause</entry>
         <entry>find_by_id</entry>
         <entry>is_paused</entry>
         <entry>pause(</entry>
@@ -365,6 +362,8 @@
         <entry>cancel_pause(</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
         <entry>active(</entry>
+        <entry encoding="base64">XDx5ZXN0ZXJkYXlcPg==</entry>
+        <entry>pause</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
