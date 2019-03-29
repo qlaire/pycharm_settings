@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1544124513441">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,26 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="311" column="9" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="368" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1624" column="10" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1709" column="13" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1728" column="29" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1734" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1750" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1681" column="10" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
-      <jump line="1822" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="310" column="9" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/ecomm/subscriptions/commands/__init__.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="97" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="37" column="30" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="1685" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1697" column="17" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1698" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1705" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="13" column="6" filename="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" />
       <jump line="1814" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="656" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -308,6 +291,26 @@
       <jump line="105" column="4" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/docs/open_api/endpoints/subscription-{subscription_id}-serial.yaml" />
       <jump line="104" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="261" column="6" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="640" column="36" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="642" column="48" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="644" column="58" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="664" column="8" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="672" column="35" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="674" column="47" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="676" column="50" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="690" column="8" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="3828" column="43" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="254" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="287" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="320" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="322" column="56" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="350" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="383" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="416" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="418" column="37" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="446" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -317,7 +320,7 @@
         <text>DoesNotValidate</text>
       </register>
       <register name="/" type="4">
-        <text>add_serials</text>
+        <text>subscriptions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJzQwMyc6CiAgICAgICAgZGVzY3JpcHRpb246IFVzZXIgY2FuIG9ubHkgdmlldyB0aGVpciBvd24gc3Vic2NyaXB0aW9ucwogICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICBhcHBsaWNhdGlvbi9qc29uOgogICAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL0Vycm9yJwo=</text>
@@ -354,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add_serials</last-search>
+      <last-search>subscriptions</last-search>
       <last-offset />
-      <last-pattern>add_serials</last-pattern>
+      <last-pattern>subscriptions</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make(</entry>
         <entry>make</entry>
         <entry>a_subscription(</entry>
         <entry>unpause</entry>
@@ -384,6 +386,7 @@
         <entry>403</entry>
         <entry>activation</entry>
         <entry>add_serials</entry>
+        <entry>subscriptions</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
