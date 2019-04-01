@@ -15,10 +15,6 @@
       <file name="/a.dummy" timestamp="1544124513441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/unpause_subscription.py" timestamp="1553717435809">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="69" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
       </file>
@@ -36,12 +32,12 @@
         <mark key="^" line="103" column="7" />
         <mark key="." line="103" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554147988734">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554149340843">
         <mark key="'" line="275" column="29" />
-        <mark key="[" line="286" column="62" />
-        <mark key="]" line="286" column="62" />
-        <mark key="." line="286" column="62" />
-        <mark key="^" line="286" column="62" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
+        <mark key="^" line="285" column="74" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/backend/accounts/views/account_flag_views.py" timestamp="1543248804217">
         <mark key="'" line="0" column="90" />
@@ -126,10 +122,6 @@
         <mark key="]" line="4" column="31" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/mq/app/queues/users.py" timestamp="1553801605253">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1554147544298">
         <mark key="'" line="61" column="73" />
       </file>
@@ -140,8 +132,13 @@
         <mark key="^" line="57" column="86" />
         <mark key="." line="57" column="86" />
       </file>
-      <file name="/Python Console" timestamp="1553715776233">
+      <file name="/Python Console" timestamp="1554149041346">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1554149123093">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="$USER_HOME$/Development/api/docs/open_api/endpoints/subscription-{subscription_id}-serial.yaml" timestamp="1553804542000">
         <mark key="'" line="0" column="0" />
@@ -325,8 +322,8 @@
       <jump line="1437" column="36" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reactivated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuc2hvdWxkX2RlYml0KCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuaXNfb3ZlcmR1ZSkK</text>
       </register>
       <register name="-" type="4">
         <text>reactivated</text>
@@ -338,31 +335,31 @@
         <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhdXNlIGZvciB0d28gbW9udGhzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuc2hvdWxkX2RlYml0KCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuaXNfb3ZlcmR1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUoc3Vic2NyaXB0aW9uX3JlY29yZC51bnBhdXNlZF9vbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25fcmVjb3JkLnBhdXNlKAogICAgICAgICAgICBzdGFydF9kYXRlPWFycm93LnV0Y25vdygpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZW5kX2RhdGU9YXJyb3cudXRjbm93KCkuc2hpZnQoZGF5cz02MCkudGltZXN0YW1wCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHBhdXNlIGZvciB0d28gbW9udGhzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfd2Vla19hZ28gPSBzZWxmLl9ub3cuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19wYXVzZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25fcmVjb3JkLnBhdXNlKAogICAgICAgICAgICBzdGFydF9kYXRlPWFycm93LnV0Y25vdygpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZW5kX2RhdGU9YXJyb3cudXRjbm93KCkuc2hpZnQoZGF5cz02MCkudGltZXN0YW1wCiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5kYXRhLmZha2Vfb2JqZWN0cyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgICAgICBvbmVfd2Vla19hZ28gPSBzZWxmLl9ub3cuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBlY29tbS5zdWJzY3JpcHRpb25zLnN1YnNjcmlwdGlvbl90eXBlIGltcG9ydCBTVUJTQ1JJUFRJT05fVFlQRQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19wYXVzZWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICByZWFzb249Tm9uZSwK</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5kYXRhLmZha2Vfb2JqZWN0cyBpbXBvcnQgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXVzZV9zdWJzY3JpcHRpb24oKQo=</text>
+        <text encoding="base64">ZnJvbSBlY29tbS5zdWJzY3JpcHRpb25zLnN1YnNjcmlwdGlvbl90eXBlIGltcG9ydCBTVUJTQ1JJUFRJT05fVFlQRQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
