@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1554149041346">
+      <file name="/Python Console" timestamp="1554303779356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554149123093">
@@ -39,6 +39,9 @@
       </file>
       <file name="/test_subscription.py" timestamp="1553795296920">
         <mark key="[" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554305020687">
+        <mark key="'" line="139" column="18" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554216196648">
         <mark key="'" line="275" column="29" />
@@ -64,7 +67,8 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554302374675">
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554305159535">
+        <mark key="'" line="1393" column="19" />
         <mark key="[" line="1808" column="0" />
         <mark key="]" line="1808" column="0" />
         <mark key="." line="1808" column="0" />
@@ -76,12 +80,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554303002646">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554304485318">
         <mark key="'" line="1" column="50" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="150" column="65" />
-        <mark key="." line="150" column="65" />
-        <mark key="^" line="150" column="65" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
+        <mark key="^" line="181" column="36" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
         <mark key="'" line="62" column="16" />
@@ -95,7 +99,7 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/peloton_digital_subscription.py" timestamp="1554153510916">
         <mark key="'" line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api/scripts/cron/send_due_subscriptions_to_charge_queue.py" timestamp="1554148346387">
+      <file name="$USER_HOME$/Development/api/scripts/cron/send_due_subscriptions_to_charge_queue.py" timestamp="1554305314698">
         <mark key="'" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/shared/consts.py" timestamp="1554216519182">
@@ -128,19 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
-      <jump line="383" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
-      <jump line="416" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
-      <jump line="418" column="37" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
-      <jump line="446" column="18" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" />
-      <jump line="1642" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="20" column="44" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
-      <jump line="67" column="48" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
-      <jump line="70" column="103" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
-      <jump line="73" column="48" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
-      <jump line="76" column="103" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
-      <jump line="402" column="17" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
       <jump line="1781" column="26" filename="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" />
       <jump line="9" column="0" filename="$USER_HOME$/Development/api/ecomm/subscriptions/commands/pause_subscription.py" />
       <jump line="143" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
@@ -228,55 +219,68 @@
       <jump line="52" column="42" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="594" column="46" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="629" column="10" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="1812" column="30" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="16" column="35" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="212" column="73" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="222" column="73" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="903" column="42" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1240" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1241" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1275" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="138" column="19" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="139" column="18" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1347" column="37" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1393" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHMKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5nZXRfYmFsYW5jZV9pbl9tb250aHMoKSkKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5zaG91bGRfZGViaXQoKSkKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19vdmVyZHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX3JlY29yZCA9IE1vZGVsLlN1YnNjcmlwdGlvbi5tYW5hZ2VyLmdldChzdWJzY3JpcHRpb25fcmVjb3JkLmlkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>reactivated</text>
       </register>
       <register name="/" type="4">
-        <text>unpause</text>
+        <text>is_overdue(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHMKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5nZXRfYmFsYW5jZV9pbl9tb250aHMoKSkKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5zaG91bGRfZGViaXQoKSkKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19vdmVyZHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX3JlY29yZCA9IE1vZGVsLlN1YnNjcmlwdGlvbi5tYW5hZ2VyLmdldChzdWJzY3JpcHRpb25fcmVjb3JkLmlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuc2hvdWxkX2RlYml0KCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuaXNfb3ZlcmR1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHMKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5nZXRfYmFsYW5jZV9pbl9tb250aHMoKSkKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5zaG91bGRfZGViaXQoKSkKICAgICAgICAgICAgcHJpbnQoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19vdmVyZHVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUoc3Vic2NyaXB0aW9uX3JlY29yZC51bnBhdXNlZF9vbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1YnNjcmlwdGlvbl9yZWNvcmQubGFzdF9kZWJpdF9hdCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuc2hvdWxkX2RlYml0KCkpCiAgICAgICAgICAgIHByaW50KHN1YnNjcmlwdGlvbl9yZWNvcmQuaXNfb3ZlcmR1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhdXNlIGZvciB0d28gbW9udGhzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUoc3Vic2NyaXB0aW9uX3JlY29yZC51bnBhdXNlZF9vbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBhdXNlIGZvciB0d28gbW9udGhzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25fcmVjb3JkLnBhdXNlKAogICAgICAgICAgICBzdGFydF9kYXRlPWFycm93LnV0Y25vdygpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZW5kX2RhdGU9YXJyb3cudXRjbm93KCkuc2hpZnQoZGF5cz02MCkudGltZXN0YW1wCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfd2Vla19hZ28gPSBzZWxmLl9ub3cuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25fcmVjb3JkLnBhdXNlKAogICAgICAgICAgICBzdGFydF9kYXRlPWFycm93LnV0Y25vdygpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZW5kX2RhdGU9YXJyb3cudXRjbm93KCkuc2hpZnQoZGF5cz02MCkudGltZXN0YW1wCiAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19wYXVzZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfd2Vla19hZ28gPSBzZWxmLl9ub3cuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5kYXRhLmZha2Vfb2JqZWN0cyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc3Vic2NyaXB0aW9uX3JlY29yZC5pc19wYXVzZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>unpause</last-search>
+      <last-search>is_overdue(</last-search>
       <last-offset />
-      <last-pattern>unpause</last-pattern>
+      <last-pattern>is_overdue(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -284,13 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFyZ2Vfc3Vic2NyaXB0aW9uXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVfY2hhcmdlX3RyYW5zYWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxiaWxsaW5nX3BhcnRuZXJfZmxhZ1w+</entry>
-        <entry encoding="base64">XDxnZXRfd3JhcHBlclw+</entry>
-        <entry encoding="base64">XDxjbHNcPg==</entry>
-        <entry encoding="base64">XDxiaWxsaW5nX3BhcnRuZXJfY2hhcmdlXD4=</entry>
-        <entry encoding="base64">XDxCaWxsaW5nUGFydG5lckNoYXJnZVw+</entry>
         <entry encoding="base64">XDxMQVNUX0JJTExJTkdfQVRURU1QVEVEX0FUXD4=</entry>
         <entry>last_billing_attempted_at</entry>
         <entry encoding="base64">XDxzdWNjZXNzZnVsXD4=</entry>
@@ -304,6 +301,13 @@
         <entry>get_balance</entry>
         <entry>get_balance_in_months</entry>
         <entry>unpause</entry>
+        <entry>delta</entry>
+        <entry encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</entry>
+        <entry>current_billing_period</entry>
+        <entry encoding="base64">XDxnZXRfYmlsbGluZ19wZXJpb2Rfc3RhcnRcPg==</entry>
+        <entry>billing_period_start</entry>
+        <entry>overdue</entry>
+        <entry>is_overdue(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
