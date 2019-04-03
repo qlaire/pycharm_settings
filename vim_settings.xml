@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1554320025762">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/commands/pause_subscription.py" timestamp="1554144814067">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="5" column="0" />
@@ -132,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="8" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
       <jump line="1149" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1160" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1161" column="22" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -232,6 +234,7 @@
       <jump line="1896" column="58" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="763" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1806" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -241,7 +244,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>is_paused(</text>
+        <text>risk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
@@ -278,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_paused(</last-search>
+      <last-search>risk</last-search>
       <last-offset />
-      <last-pattern>is_paused(</last-pattern>
+      <last-pattern>risk</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -288,7 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_charde</entry>
         <entry encoding="base64">XDxuZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0XD4=</entry>
         <entry>next_billing_date</entry>
         <entry>charge</entry>
@@ -308,6 +310,7 @@
         <entry>status(</entry>
         <entry>status_text(</entry>
         <entry>is_paused(</entry>
+        <entry>risk</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
