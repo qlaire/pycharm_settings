@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554313764083">
-        <mark key="'" line="763" column="8" />
-        <mark key="[" line="1808" column="0" />
-        <mark key="]" line="1808" column="0" />
-        <mark key="." line="1808" column="0" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554317318618">
+        <mark key="'" line="1806" column="20" />
+        <mark key="[" line="673" column="44" />
+        <mark key="]" line="673" column="44" />
+        <mark key="." line="673" column="44" />
         <mark key="^" line="1809" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
@@ -124,15 +124,14 @@
         <mark key="'" line="61" column="73" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1554300843587">
-        <mark key="'" line="629" column="10" />
-        <mark key="[" line="664" column="38" />
-        <mark key="]" line="664" column="38" />
-        <mark key="." line="664" column="45" />
-        <mark key="^" line="656" column="33" />
+        <mark key="'" line="638" column="10" />
+        <mark key="[" line="673" column="38" />
+        <mark key="]" line="673" column="38" />
+        <mark key="." line="673" column="45" />
+        <mark key="^" line="665" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
       <jump line="60" column="8" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
       <jump line="1149" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1160" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -232,16 +231,17 @@
       <jump line="1458" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1896" column="58" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="763" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1806" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX3JlY29yZCA9IE1vZGVsLlN1YnNjcmlwdGlvbi5tYW5hZ2VyLmdldChzdWJzY3JpcHRpb25fcmVjb3JkLmlkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>reactivated</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>status_text(</text>
+        <text>is_paused(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
@@ -278,9 +278,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status_text(</last-search>
+      <last-search>is_paused(</last-search>
       <last-offset />
-      <last-pattern>status_text(</last-pattern>
+      <last-pattern>is_paused(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -288,7 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXN0X2JpbGxpbmdfYXR0ZW1wdGVkX2F0XD4=</entry>
         <entry>_charde</entry>
         <entry encoding="base64">XDxuZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0XD4=</entry>
         <entry>next_billing_date</entry>
@@ -308,6 +307,7 @@
         <entry>status</entry>
         <entry>status(</entry>
         <entry>status_text(</entry>
+        <entry>is_paused(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
