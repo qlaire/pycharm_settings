@@ -18,13 +18,11 @@
       <file name="/Python Console" timestamp="1554303779356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554149123093">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-      </file>
       <file name="/a.dummy" timestamp="1544124513441">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
+        <mark key="'" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -80,11 +78,15 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554387797406">
-        <mark key="'" line="1" column="50" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554393741871">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="84" column="56" />
+        <mark key="]" line="85" column="70" />
+        <mark key="." line="85" column="70" />
+        <mark key="^" line="85" column="70" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
+        <mark key="'" line="734" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
         <mark key="'" line="62" column="16" />
@@ -116,22 +118,15 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1554147544298">
         <mark key="'" line="61" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1554327060767">
-        <mark key="'" line="638" column="10" />
-        <mark key="[" line="662" column="9" />
-        <mark key="]" line="663" column="25" />
-        <mark key="." line="663" column="25" />
-        <mark key="^" line="663" column="25" />
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1554393102066">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="679" column="21" />
+        <mark key="]" line="679" column="21" />
+        <mark key="." line="679" column="21" />
+        <mark key="^" line="679" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
-      <jump line="121" column="12" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/peloton_digital_subscription.py" />
-      <jump line="13" column="6" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" />
-      <jump line="18" column="12" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" />
-      <jump line="59" column="30" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
-      <jump line="139" column="35" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
-      <jump line="147" column="17" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
       <jump line="177" column="37" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
       <jump line="70" column="33" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
       <jump line="71" column="52" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
@@ -225,16 +220,23 @@
       <jump line="370" column="18" filename="$USER_HOME$/Development/api/rest_api/app/server/utils.py" />
       <jump line="379" column="18" filename="$USER_HOME$/Development/api/rest_api/app/server/utils.py" />
       <jump line="386" column="18" filename="$USER_HOME$/Development/api/rest_api/app/server/utils.py" />
+      <jump line="252" column="17" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" />
+      <jump line="686" column="40" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
+      <jump line="734" column="31" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
+      <jump line="25" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>one_day_after_unpause</text>
+        <text>assertRaisesWithLiteralMatch</text>
       </register>
       <register name="-" type="4">
-        <text>one_day_after_unpause</text>
+        <text>assertRaisesWithLiteralMatch</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEb2VzTm90RXhpc3RcPg==</text>
+        <text encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGYuc3ViLmlzX3BhdXNlZCkK</text>
@@ -243,37 +245,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQodXBkYXRlZF9zdWIudW5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BhdXNlX2VuZHBvaW50X2ludmFsaWRfbW9udGhfemVybyhzZWxmKToKICAgICAgICByZXNwID0gc2VsZi5ib3R0bGUucG9zdF9qc29uKAogICAgICAgICAgICAnL3N1YnNjcmlwdGlvbi97c3ViX2lkfS9wYXVzZScuZm9ybWF0KHN1Yl9pZD1zZWxmLnN1Yi5pZCksCiAgICAgICAgICAgIGRpY3QobW9udGhfY291bnQ9MCksCiAgICAgICAgICAgIGhlYWRlcnM9c2VsZi5jb29raWVzLAogICAgICAgICAgICBzdGF0dXM9NDAwKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCInbW9udGhfY291bnQnIGRvZXMgbm90IHZhbGlkYXRlLiIsIHJlc3AuanNvblsnbWVzc2FnZSddKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXlfb2ZfdW5wYXVzZSA9IGFycm93LmdldCh1cGRhdGVkX3N1Yi51bnBhdXNlZF9vbikuc2hpZnQoZGF5cz0xKS50aW1lc3RhbXAK</text>
+        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQodXBkYXRlZF9zdWIudW5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9b25lX21pbl9hZnRlcl91bnBhdXNlKToK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXlfb2ZfdW5wYXVzZSA9IGFycm93LmdldCh1cGRhdGVkX3N1Yi51bnBhdXNlZF9vbikuc2hpZnQoZGF5cz0xKS50aW1lc3RhbXAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9b25lX21pbl9hZnRlcl91bnBhdXNlKToK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCiAgICAgICAgd2l0aCBzZWxmLnBhdGNoX3RpbWUobm93PW9uZV9taW5fYWZ0ZXJfdW5wYXVzZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEb2VzTm90RXhpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEb2VzTm90RXhpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -281,9 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delta</entry>
-        <entry encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</entry>
-        <entry>current_billing_period</entry>
         <entry encoding="base64">XDxnZXRfYmlsbGluZ19wZXJpb2Rfc3RhcnRcPg==</entry>
         <entry>billing_period_start</entry>
         <entry>overdue</entry>
@@ -301,6 +300,9 @@
         <entry>DoesNotExisst</entry>
         <entry>DoesNotExist</entry>
         <entry encoding="base64">XDxEb2VzTm90RXhpc3RcPg==</entry>
+        <entry>post_json</entry>
+        <entry encoding="base64">XDxfZ2VuX3JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
