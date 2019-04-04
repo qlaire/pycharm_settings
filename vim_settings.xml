@@ -85,12 +85,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554394402405">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554398199434">
         <mark key="'" line="9" column="49" />
-        <mark key="[" line="85" column="33" />
-        <mark key="]" line="85" column="50" />
-        <mark key="." line="85" column="50" />
-        <mark key="^" line="85" column="50" />
+        <mark key="[" line="82" column="30" />
+        <mark key="]" line="82" column="61" />
+        <mark key="." line="82" column="61" />
+        <mark key="^" line="82" column="61" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -243,11 +243,11 @@
       <jump line="615" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaChzdWJzY3JpcHRpb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>123</text>
       </register>
       <register name="-" type="4">
-        <text>''),</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
         <text>nonexi</text>
