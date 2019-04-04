@@ -36,8 +36,8 @@
       <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554388824664">
         <mark key="'" line="2722" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554389761854">
-        <mark key="'" line="249" column="33" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
+        <mark key="'" line="12" column="62" />
         <mark key="[" line="301" column="33" />
         <mark key="]" line="301" column="55" />
         <mark key="." line="301" column="55" />
@@ -75,15 +75,18 @@
       <file name="$USER_HOME$/Development/api/errors/ecomm.py" timestamp="1554390553010">
         <mark key="'" line="574" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" timestamp="1554394330140">
+        <mark key="'" line="146" column="29" />
+      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554393741871">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="84" column="56" />
-        <mark key="]" line="85" column="70" />
-        <mark key="." line="85" column="70" />
-        <mark key="^" line="85" column="70" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554394402405">
+        <mark key="'" line="9" column="49" />
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="50" />
+        <mark key="." line="85" column="50" />
+        <mark key="^" line="85" column="50" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -115,25 +118,25 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/commands/unpause_subscription.py" timestamp="1554394484627">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1554147544298">
         <mark key="'" line="61" column="73" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1554393102066">
-        <mark key="'" line="25" column="19" />
-        <mark key="[" line="679" column="21" />
-        <mark key="]" line="679" column="21" />
-        <mark key="." line="679" column="21" />
-        <mark key="^" line="679" column="21" />
+      <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1554394714653">
+        <mark key="'" line="615" column="19" />
+        <mark key="[" line="692" column="59" />
+        <mark key="]" line="692" column="78" />
+        <mark key="." line="692" column="78" />
+        <mark key="^" line="692" column="78" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="37" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
-      <jump line="70" column="33" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
-      <jump line="71" column="52" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
-      <jump line="62" column="16" filename="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" />
-      <jump line="12" column="57" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
-      <jump line="132" column="31" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
-      <jump line="168" column="15" filename="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
       <jump line="554" column="0" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
       <jump line="17" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -227,19 +230,26 @@
       <jump line="734" column="31" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
       <jump line="25" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="84" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="303" column="9" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="146" column="29" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
+      <jump line="9" column="49" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="12" column="62" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="689" column="28" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="615" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assertRaisesWithLiteralMatch</text>
+        <text>''),</text>
       </register>
       <register name="-" type="4">
-        <text>assertRaisesWithLiteralMatch</text>
+        <text>''),</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</text>
+        <text>nonexi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGYuc3ViLmlzX3BhdXNlZCkK</text>
+        <text encoding="base64">ICAgICAgICBub25leGlzdGVudF9zdWJfaWQgPSAnNGFhZDNiOGY1MTQ3NDU3M2I1Y2VkMGRmNDlkZWIxMTEnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -273,9 +283,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</last-search>
+      <last-search>nonexi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</last-pattern>
+      <last-pattern>nonexi</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -283,9 +293,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfYmlsbGluZ19wZXJpb2Rfc3RhcnRcPg==</entry>
-        <entry>billing_period_start</entry>
-        <entry>overdue</entry>
         <entry>is_overdue(</entry>
         <entry>status</entry>
         <entry>status(</entry>
@@ -303,6 +310,9 @@
         <entry>post_json</entry>
         <entry encoding="base64">XDxfZ2VuX3JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxleHBlY3RfZXJyb3JzXD4=</entry>
+        <entry>exist</entry>
+        <entry encoding="base64">XDxTdWJzY3JpcHRpb25Eb2VzTm90RXhpc3RcPg==</entry>
+        <entry>nonexi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
