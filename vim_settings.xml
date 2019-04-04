@@ -38,10 +38,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
-        <mark key="[" line="301" column="33" />
-        <mark key="]" line="301" column="55" />
-        <mark key="." line="301" column="55" />
-        <mark key="^" line="301" column="55" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
@@ -85,12 +81,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554398199434">
-        <mark key="'" line="9" column="49" />
-        <mark key="[" line="82" column="30" />
-        <mark key="]" line="82" column="61" />
-        <mark key="." line="82" column="61" />
-        <mark key="^" line="82" column="61" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554410480528">
+        <mark key="'" line="151" column="48" />
+        <mark key="[" line="152" column="33" />
+        <mark key="]" line="152" column="33" />
+        <mark key="." line="152" column="52" />
+        <mark key="^" line="145" column="31" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -141,11 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
-      <jump line="554" column="0" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="215" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="216" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="913" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="886" column="11" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -233,7 +224,6 @@
       <jump line="686" column="40" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
       <jump line="734" column="31" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
       <jump line="25" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="84" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="303" column="9" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
       <jump line="146" column="29" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
@@ -241,55 +231,61 @@
       <jump line="12" column="62" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
       <jump line="689" column="28" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
       <jump line="615" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
+      <jump line="81" column="61" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="156" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="149" column="48" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="150" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="151" column="48" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123</text>
+        <text>updated_sub</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>updated_sub</text>
       </register>
       <register name="/" type="4">
-        <text>nonexi</text>
+        <text encoding="base64">XDx1cGRhdGVkX3N1Ylw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBub25leGlzdGVudF9zdWJfaWQgPSAnNGFhZDNiOGY1MTQ3NDU3M2I1Y2VkMGRmNDlkZWIxMTEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaChzdWJzY3JpcHRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaChzdWJzY3JpcHRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BhdXNlX2VuZHBvaW50X2ludmFsaWRfbW9udGhfemVybyhzZWxmKToKICAgICAgICByZXNwID0gc2VsZi5ib3R0bGUucG9zdF9qc29uKAogICAgICAgICAgICAnL3N1YnNjcmlwdGlvbi97c3ViX2lkfS9wYXVzZScuZm9ybWF0KHN1Yl9pZD1zZWxmLnN1Yi5pZCksCiAgICAgICAgICAgIGRpY3QobW9udGhfY291bnQ9MCksCiAgICAgICAgICAgIGhlYWRlcnM9c2VsZi5jb29raWVzLAogICAgICAgICAgICBzdGF0dXM9NDAwKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCInbW9udGhfY291bnQnIGRvZXMgbm90IHZhbGlkYXRlLiIsIHJlc3AuanNvblsnbWVzc2FnZSddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BhdXNlX2VuZHBvaW50X2ludmFsaWRfbW9udGhfemVybyhzZWxmKToKICAgICAgICByZXNwID0gc2VsZi5ib3R0bGUucG9zdF9qc29uKAogICAgICAgICAgICAnL3N1YnNjcmlwdGlvbi97c3ViX2lkfS9wYXVzZScuZm9ybWF0KHN1Yl9pZD1zZWxmLnN1Yi5pZCksCiAgICAgICAgICAgIGRpY3QobW9udGhfY291bnQ9MCksCiAgICAgICAgICAgIGhlYWRlcnM9c2VsZi5jb29raWVzLAogICAgICAgICAgICBzdGF0dXM9NDAwKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCInbW9udGhfY291bnQnIGRvZXMgbm90IHZhbGlkYXRlLiIsIHJlc3AuanNvblsnbWVzc2FnZSddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQodXBkYXRlZF9zdWIudW5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQodXBkYXRlZF9zdWIudW5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXlfb2ZfdW5wYXVzZSA9IGFycm93LmdldCh1cGRhdGVkX3N1Yi51bnBhdXNlZF9vbikuc2hpZnQoZGF5cz0xKS50aW1lc3RhbXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9b25lX21pbl9hZnRlcl91bnBhdXNlKToK</text>
+        <text encoding="base64">ICAgICAgICBkYXlfb2ZfdW5wYXVzZSA9IGFycm93LmdldCh1cGRhdGVkX3N1Yi51bnBhdXNlZF9vbikuc2hpZnQoZGF5cz0xKS50aW1lc3RhbXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9b25lX21pbl9hZnRlcl91bnBhdXNlKToK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>nonexi</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVkX3N1Ylw+</last-search>
       <last-offset />
-      <last-pattern>nonexi</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVkX3N1Ylw+</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -297,7 +293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_overdue(</entry>
         <entry>status</entry>
         <entry>status(</entry>
         <entry>status_text(</entry>
@@ -317,6 +312,7 @@
         <entry>exist</entry>
         <entry encoding="base64">XDxTdWJzY3JpcHRpb25Eb2VzTm90RXhpc3RcPg==</entry>
         <entry>nonexi</entry>
+        <entry encoding="base64">XDx1cGRhdGVkX3N1Ylw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
