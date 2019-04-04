@@ -47,12 +47,12 @@
         <mark key="." line="2765" column="27" />
         <mark key="^" line="2765" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554216196648">
-        <mark key="'" line="275" column="29" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-        <mark key="^" line="285" column="74" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554389761854">
+        <mark key="'" line="249" column="33" />
+        <mark key="[" line="301" column="33" />
+        <mark key="]" line="301" column="55" />
+        <mark key="." line="301" column="55" />
+        <mark key="^" line="301" column="55" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
@@ -139,7 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1210" column="15" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1219" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1221" column="55" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1437" column="36" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -239,55 +238,56 @@
       <jump line="1139" column="23" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="2057" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1112" column="41" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="249" column="33" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>one_day_after_unpause</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>one_day_after_unpause</text>
       </register>
       <register name="/" type="4">
-        <text>is_paused(</text>
+        <text>is_paused</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGYuc3ViLmlzX3BhdXNlZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9b25lX21pbl9hZnRlcl91bnBhdXNlKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQodXBkYXRlZF9zdWIudW5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCiAgICAgICAgd2l0aCBzZWxmLnBhdGNoX3RpbWUobm93PW9uZV9taW5fYWZ0ZXJfdW5wYXVzZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXlfb2ZfdW5wYXVzZSA9IGFycm93LmdldCh1cGRhdGVkX3N1Yi51bnBhdXNlZF9vbikuc2hpZnQoZGF5cz0xKS50aW1lc3RhbXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9b25lX21pbl9hZnRlcl91bnBhdXNlKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfbWluX2FmdGVyX3VucGF1c2UgPSBhcnJvdy5nZXQob25lX3dlZWtfYmVmb3JlX3NjaGVkX3VucGF1c2UpLnNoaWZ0KG1pbnV0ZXM9MSkudGltZXN0YW1wCiAgICAgICAgd2l0aCBzZWxmLnBhdGNoX3RpbWUobm93PW9uZV9taW5fYWZ0ZXJfdW5wYXVzZSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9X25ld190aW1lKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>is_paused(</last-search>
+      <last-search>is_paused</last-search>
       <last-offset />
-      <last-pattern>is_paused(</last-pattern>
+      <last-pattern>is_paused</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -311,10 +311,10 @@
         <entry>risk</entry>
         <entry>pause</entry>
         <entry>pause(</entry>
-        <entry>is_paused</entry>
         <entry>cancel_pause</entry>
         <entry>_get_current_time</entry>
         <entry>is_paused(</entry>
+        <entry>is_paused</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
