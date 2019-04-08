@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -15,10 +15,10 @@
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1554737146503">
+      <file name="/Python Console" timestamp="1554752091539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554738459379">
+      <file name="/fragment.py" timestamp="1554752416032">
         <mark key="e" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -64,12 +64,11 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554738129244">
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554742983699">
         <mark key="'" line="1112" column="41" />
-        <mark key="[" line="1146" column="52" />
-        <mark key="]" line="1146" column="52" />
-        <mark key="." line="1146" column="52" />
-        <mark key="^" line="1146" column="52" />
+        <mark key="[" line="1146" column="0" />
+        <mark key="]" line="1146" column="0" />
+        <mark key="." line="1146" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
         <mark key="[" line="0" column="0" />
@@ -93,12 +92,10 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554738320113">
-        <mark key="'" line="133" column="69" />
-        <mark key="[" line="166" column="73" />
-        <mark key="]" line="166" column="73" />
-        <mark key="." line="166" column="73" />
-        <mark key="^" line="166" column="72" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1554742575583">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -251,11 +248,11 @@
       <jump line="2437" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>weeks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiZ2V0X2JhbGFuY2UiLCBhcnJvdy5nZXQoY3VycmVudF90aW1lKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>weeks</text>
+        <text>-5</text>
       </register>
       <register name="/" type="4">
         <text>get_balance_in_months</text>
@@ -264,31 +261,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZ2V0X2JhbGFuY2UiLCBhcnJvdy5nZXQoY3VycmVudF90aW1lKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob3RoZXJfc3ViLmlzX3BhdXNlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19hY3RpdmF0ZWRfb249c2VsZi55ZXN0ZXJkYXksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob3RoZXJfc3ViLmlzX3BhdXNlZCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlzX3NjaGVkdWxlZF9mb3JfcGF1c2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19hY3RpdmF0ZWRfb249c2VsZi55ZXN0ZXJkYXksCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlzX3BhdXNlZCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlzX3NjaGVkdWxlZF9mb3JfcGF1c2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcnJvdy5nZXQoc3ViLnVucGF1c2VkX29uKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
