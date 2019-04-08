@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/api/env/lib/python2.7/site-packages/dateutil/relativedelta.py" timestamp="1554756491813" />
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
       </file>
@@ -64,8 +65,8 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554755514398">
-        <mark key="'" line="1112" column="41" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554757270828">
+        <mark key="'" line="1188" column="50" />
         <mark key="[" line="1146" column="0" />
         <mark key="]" line="1146" column="0" />
         <mark key="." line="1146" column="0" />
@@ -146,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1324" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1328" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1911" column="43" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="38" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="380" column="40" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -246,6 +245,8 @@
       <jump line="911" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="2437" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="137" column="13" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1246" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1188" column="50" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,7 +256,7 @@
         <text>-5</text>
       </register>
       <register name="/" type="4">
-        <text>balance_in_months</text>
+        <text>next_billing_date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
@@ -292,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>balance_in_months</last-search>
+      <last-search>next_billing_date</last-search>
       <last-offset />
-      <last-pattern>balance_in_months</last-pattern>
+      <last-pattern>next_billing_date</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -302,8 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cancel_pause</entry>
-        <entry>_get_current_time</entry>
         <entry>is_paused(</entry>
         <entry>is_paused</entry>
         <entry>DoesNotExisst</entry>
@@ -322,6 +321,8 @@
         <entry encoding="base64">XDxnZXRfYmFsYW5jZV9pbl9tb250aHNcPg==</entry>
         <entry>get_balance_in_months</entry>
         <entry>balance_in_months</entry>
+        <entry encoding="base64">XDxuZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0XD4=</entry>
+        <entry>next_billing_date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
