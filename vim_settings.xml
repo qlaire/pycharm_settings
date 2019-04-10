@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -40,12 +40,12 @@
       <file name="/test_subscription.py" timestamp="1553795296920">
         <mark key="[" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554918846316">
-        <mark key="'" line="2512" column="38" />
-        <mark key="[" line="756" column="60" />
-        <mark key="]" line="756" column="61" />
-        <mark key="^" line="737" column="70" />
-        <mark key="." line="756" column="61" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554923157150">
+        <mark key="'" line="792" column="88" />
+        <mark key="[" line="2409" column="18" />
+        <mark key="]" line="2409" column="35" />
+        <mark key="^" line="2409" column="35" />
+        <mark key="." line="2409" column="35" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554910570077">
-        <mark key="'" line="1019" column="20" />
-        <mark key="[" line="1147" column="20" />
-        <mark key="]" line="1148" column="7" />
-        <mark key="." line="1148" column="7" />
-        <mark key="^" line="1148" column="7" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554923044152">
+        <mark key="'" line="379" column="37" />
+        <mark key="[" line="1200" column="55" />
+        <mark key="]" line="1201" column="19" />
+        <mark key="." line="1201" column="19" />
+        <mark key="^" line="1201" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
         <mark key="[" line="0" column="0" />
@@ -112,6 +112,9 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
         <mark key="'" line="62" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1554922785288">
+        <mark key="'" line="142" column="64" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
@@ -156,39 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="686" column="40" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
-      <jump line="734" column="31" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
-      <jump line="25" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="84" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="303" column="9" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
-      <jump line="146" column="29" filename="$USER_HOME$/Development/api/rest_api/app/server/controllers/subscription.py" />
-      <jump line="9" column="49" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="12" column="62" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
-      <jump line="689" column="28" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="615" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="81" column="61" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="156" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="145" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="149" column="48" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="150" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="151" column="48" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="27" column="28" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
-      <jump line="36" column="14" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
-      <jump line="23" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="148" column="24" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="109" column="56" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="110" column="69" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="132" column="56" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="133" column="69" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
-      <jump line="2764" column="23" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="779" column="40" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="784" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="898" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="901" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="911" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="2437" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="137" column="13" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="1188" column="50" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1383" column="36" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
       <jump line="80" column="8" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
@@ -256,55 +226,88 @@
       <jump line="2283" column="12" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="2688" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="2512" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="141" column="33" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
+      <jump line="142" column="64" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
+      <jump line="354" column="84" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1304" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1204" column="37" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="792" column="88" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1183" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1336" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1335" column="46" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1315" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1170" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1098" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1097" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1036" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1035" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="969" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="968" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="904" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="903" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="896" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="226" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="227" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="233" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="234" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="237" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="244" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="245" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="248" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="293" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="703" column="26" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="379" column="37" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uc2F2ZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>debit_within_month_failed</text>
       </register>
       <register name="-" type="4">
-        <text>lf.</text>
+        <text>debit_within_month_failed</text>
       </register>
       <register name="/" type="4">
-        <text>get_balance_in_months</text>
+        <text>last_billing_failed_at</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fZmlyc3RfYWN0aXZhdGVkX29uPXNlbGYuamFuX2VpZ2h0aCwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19hY3RpdmF0ZWRfb249c2VsZi5qYW5fZWlnaHRoLAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX2xhc3RfZGViaXRfYXQ9c2VsZi5sYXN0X2RlYml0X2F0LAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX2xhc3RfYmlsbGluZ19hdHRlbXB0ZWRfYXQ9c2VsZi5sYXN0X2RlYml0X2F0LAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX3BhdXNlZF9vbj1wYXVzZWRfb25fZGF0ZSwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX191bnBhdXNlZF9vbj1hcnJvdy5nZXQoc2VsZi5sYXN0X2RlYml0X2F0KS5zaGlmdChtb250aHM9MikudGltZXN0YW1wLAoKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uc2F2ZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPS05NSkKICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSB0aW1lXzFfbW90aF9hZ28uc3RyZnRpbWUoIiVzIikKICAgICAgICBzdWJzY3JpcHRpb24ubGFzdF9kZWJpdF9hdCA9IGludCh0aW1lXzFfbW90aF9hZ28pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uc2F2ZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPS05NSkKICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSB0aW1lXzFfbW90aF9hZ28uc3RyZnRpbWUoIiVzIikKICAgICAgICBzdWJzY3JpcHRpb24ubGFzdF9kZWJpdF9hdCA9IGludCh0aW1lXzFfbW90aF9hZ28pCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249YXJyb3cuZ2V0KHNlbGYubGFzdF9kZWJpdF9hdCkuc2hpZnQobW9udGhzPTIpLnRpbWVzdGFtcCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249YXJyb3cuZ2V0KHNlbGYubGFzdF9kZWJpdF9hdCkuc2hpZnQobW9udGhzPTIpLnRpbWVzdGFtcCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzICAgdXNlcl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fY29zdF9pbl9jZW50cz0yMDAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fZmlyc3RfYWN0aXZhdGVkX29uPXNlbGYuamFuX2VpZ2h0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25fX2FjdGl2YXRlZF9vbj1zZWxmLmphbl9laWdodGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19sYXN0X2RlYml0X2F0PXNlbGYubGFzdF9kZWJpdF9hdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19sYXN0X2JpbGxpbmdfYXR0ZW1wdGVkX2F0PXNlbGYubGFzdF9kZWJpdF9hdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fcGF1c2VkX29uPXBhdXNlZF9vbl9kYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaXB0aW9uX191bnBhdXNlZF9vbj1hcnJvdy5nZXQoc2VsZi5sYXN0X2RlYml0X2F0KS5zaGlmdChtb250aHM9MikudGltZXN0YW1wLApkPXVzZXIuaWQK</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
       </register>
     </registers>
     <search>
-      <last-search>get_balance_in_months</last-search>
+      <last-search>last_billing_failed_at</last-search>
       <last-offset />
-      <last-pattern>get_balance_in_months</last-pattern>
+      <last-pattern>last_billing_failed_at</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -312,8 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make_payment(</entry>
-        <entry>billing</entry>
         <entry>last_debit_at(</entry>
         <entry>is_active(</entry>
         <entry encoding="base64">XDxpc191bnVzZWRcPg==</entry>
@@ -332,6 +333,8 @@
         <entry encoding="base64">XDxtb250aHNfdG9fYmlsbFw+</entry>
         <entry>balance_in_months</entry>
         <entry>get_balance_in_months</entry>
+        <entry>last_billing_failed_at5</entry>
+        <entry>last_billing_failed_at</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
