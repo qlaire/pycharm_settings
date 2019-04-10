@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1554910581440">
+      <file name="/Python Console" timestamp="1554924983986">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554910631120">
+      <file name="/fragment.py" timestamp="1554924997178">
         <mark key="e" line="0" column="4" />
-        <mark key="[" line="0" column="10" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -40,12 +40,12 @@
       <file name="/test_subscription.py" timestamp="1553795296920">
         <mark key="[" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554923157150">
-        <mark key="'" line="792" column="88" />
-        <mark key="[" line="2409" column="18" />
-        <mark key="]" line="2409" column="35" />
-        <mark key="^" line="2409" column="35" />
-        <mark key="." line="2409" column="35" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554925218541">
+        <mark key="'" line="2403" column="8" />
+        <mark key="[" line="2351" column="79" />
+        <mark key="]" line="2351" column="85" />
+        <mark key="^" line="2351" column="85" />
+        <mark key="." line="2351" column="85" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
@@ -70,8 +70,8 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554923044152">
-        <mark key="'" line="379" column="37" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1554924869817">
+        <mark key="'" line="776" column="20" />
         <mark key="[" line="1200" column="55" />
         <mark key="]" line="1201" column="19" />
         <mark key="." line="1201" column="19" />
@@ -159,12 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1383" column="36" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
-      <jump line="1644" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="387" column="48" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1472" column="31" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1641" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1670" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1312" column="26" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -259,19 +253,25 @@
       <jump line="293" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="703" column="26" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="379" column="37" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1063" column="55" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1179" column="30" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2403" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1723" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1698" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="776" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debit_within_month_failed</text>
+        <text>days</text>
       </register>
       <register name="-" type="4">
-        <text>debit_within_month_failed</text>
+        <text>days</text>
       </register>
       <register name="/" type="4">
-        <text>last_billing_failed_at</text>
+        <text encoding="base64">XDxpc19pbl9ncmFjZV9wZXJpb2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fZmlyc3RfYWN0aXZhdGVkX29uPXNlbGYuamFuX2VpZ2h0aCwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19hY3RpdmF0ZWRfb249c2VsZi5qYW5fZWlnaHRoLAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX2xhc3RfZGViaXRfYXQ9c2VsZi5sYXN0X2RlYml0X2F0LAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX2xhc3RfYmlsbGluZ19hdHRlbXB0ZWRfYXQ9c2VsZi5sYXN0X2RlYml0X2F0LAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX3BhdXNlZF9vbj1wYXVzZWRfb25fZGF0ZSwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX191bnBhdXNlZF9vbj1hcnJvdy5nZXQoc2VsZi5sYXN0X2RlYml0X2F0KS5zaGlmdChtb250aHM9MikudGltZXN0YW1wLAoKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHN1YnNjcmlwdGlvbi5pc19hY3RpdmUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -305,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last_billing_failed_at</last-search>
+      <last-search encoding="base64">XDxpc19pbl9ncmFjZV9wZXJpb2RcPg==</last-search>
       <last-offset />
-      <last-pattern>last_billing_failed_at</last-pattern>
+      <last-pattern encoding="base64">XDxpc19pbl9ncmFjZV9wZXJpb2RcPg==</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -315,8 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last_debit_at(</entry>
-        <entry>is_active(</entry>
         <entry encoding="base64">XDxpc191bnVzZWRcPg==</entry>
         <entry>first_activated_on</entry>
         <entry>activated_on(</entry>
@@ -332,9 +330,11 @@
         <entry>should_debit(</entry>
         <entry encoding="base64">XDxtb250aHNfdG9fYmlsbFw+</entry>
         <entry>balance_in_months</entry>
-        <entry>get_balance_in_months</entry>
         <entry>last_billing_failed_at5</entry>
         <entry>last_billing_failed_at</entry>
+        <entry>get_balance_in_months</entry>
+        <entry>grace_period</entry>
+        <entry encoding="base64">XDxpc19pbl9ncmFjZV9wZXJpb2RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
