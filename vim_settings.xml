@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -40,8 +40,8 @@
       <file name="/test_subscription.py" timestamp="1553795296920">
         <mark key="[" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554911387366">
-        <mark key="'" line="881" column="38" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1554918846316">
+        <mark key="'" line="2512" column="38" />
         <mark key="[" line="756" column="60" />
         <mark key="]" line="756" column="61" />
         <mark key="^" line="737" column="70" />
@@ -156,9 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="17" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
-      <jump line="36" column="20" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" />
       <jump line="686" column="40" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
       <jump line="734" column="31" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" />
       <jump line="25" column="19" filename="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" />
@@ -256,6 +253,9 @@
       <jump line="863" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="866" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="876" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2283" column="12" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2688" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2512" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -265,7 +265,7 @@
         <text>lf.</text>
       </register>
       <register name="/" type="4">
-        <text>balance_in_months</text>
+        <text>get_balance_in_months</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fZmlyc3RfYWN0aXZhdGVkX29uPXNlbGYuamFuX2VpZ2h0aCwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19hY3RpdmF0ZWRfb249c2VsZi5qYW5fZWlnaHRoLAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX2xhc3RfZGViaXRfYXQ9c2VsZi5sYXN0X2RlYml0X2F0LAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX2xhc3RfYmlsbGluZ19hdHRlbXB0ZWRfYXQ9c2VsZi5sYXN0X2RlYml0X2F0LAogICAgICAgICAgICBzdWJzY3JpcHRpb25fX3BhdXNlZF9vbj1wYXVzZWRfb25fZGF0ZSwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX191bnBhdXNlZF9vbj1hcnJvdy5nZXQoc2VsZi5sYXN0X2RlYml0X2F0KS5zaGlmdChtb250aHM9MikudGltZXN0YW1wLAoKICAgICAgICApCg==</text>
@@ -302,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>balance_in_months</last-search>
+      <last-search>get_balance_in_months</last-search>
       <last-offset />
-      <last-pattern>balance_in_months</last-pattern>
+      <last-pattern>get_balance_in_months</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>charge(</entry>
         <entry>make_payment(</entry>
         <entry>billing</entry>
         <entry>last_debit_at(</entry>
@@ -332,6 +331,7 @@
         <entry>should_debit(</entry>
         <entry encoding="base64">XDxtb250aHNfdG9fYmlsbFw+</entry>
         <entry>balance_in_months</entry>
+        <entry>get_balance_in_months</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
