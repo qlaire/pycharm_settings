@@ -73,8 +73,8 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555003962746">
-        <mark key="'" line="1007" column="83" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555005744365">
+        <mark key="'" line="1401" column="8" />
         <mark key="[" line="1200" column="55" />
         <mark key="]" line="1201" column="19" />
         <mark key="." line="1201" column="19" />
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1371" column="48" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="309" column="9" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1384" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="697" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -262,6 +261,7 @@
       <jump line="1007" column="83" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="46" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
       <jump line="33" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="1401" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -271,7 +271,7 @@
         <text>days</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1aXJlX3N0cmlwZVw+</text>
+        <text>can_pause</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHN1YnNjcmlwdGlvbi5pc19hY3RpdmUpCg==</text>
@@ -308,9 +308,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1aXJlX3N0cmlwZVw+</last-search>
+      <last-search>can_pause</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1aXJlX3N0cmlwZVw+</last-pattern>
+      <last-pattern>can_pause</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activated_on(</entry>
         <entry>get_balance_in_months(</entry>
         <entry>next_billing_date</entry>
         <entry encoding="base64">XDxuZXh0X2JpbGxpbmdfZGF0ZVw+</entry>
@@ -338,6 +337,7 @@
         <entry>prepaid_credit</entry>
         <entry>balance_in_months</entry>
         <entry encoding="base64">XDxyZXF1aXJlX3N0cmlwZVw+</entry>
+        <entry>can_pause</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
