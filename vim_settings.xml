@@ -21,12 +21,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1554153704166">
         <mark key="'" line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555016941684">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="563" column="9" />
-        <mark key="]" line="565" column="64" />
-        <mark key="." line="565" column="64" />
-        <mark key="^" line="565" column="64" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555018387195">
+        <mark key="'" line="2959" column="47" />
+        <mark key="[" line="599" column="69" />
+        <mark key="]" line="599" column="70" />
+        <mark key="." line="599" column="70" />
+        <mark key="^" line="599" column="70" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
@@ -108,12 +108,12 @@
         <mark key="'" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555016212966">
-        <mark key="'" line="1704" column="14" />
-        <mark key="[" line="1701" column="25" />
-        <mark key="]" line="1701" column="25" />
-        <mark key="." line="1701" column="52" />
-        <mark key="^" line="1747" column="66" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555018750237">
+        <mark key="'" line="1705" column="14" />
+        <mark key="[" line="1747" column="12" />
+        <mark key="]" line="1747" column="10" />
+        <mark key="." line="1747" column="10" />
+        <mark key="^" line="1747" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
         <mark key="[" line="0" column="0" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1018" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1019" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="720" column="50" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
@@ -269,46 +268,47 @@
       <jump line="1420" column="31" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1695" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2959" column="47" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>not self.is_paused and</text>
       </register>
       <register name="-" type="4">
-        <text>last_debit_at</text>
+        <text>not self.is_paused and</text>
       </register>
       <register name="/" type="4">
         <text>jan_eigth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IGFycm93LmdldChzZWxmLmxhc3RfZGViaXRfYXQpLnNoaWZ0KG1vbnRocz0xKS50aW1lc3RhbXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249dW5wYXVzZWRfb25fZGF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IGFycm93LmdldChqYW5fZWlnaHRoKS5zaGlmdChtb250aHM9MSkudGltZXN0YW1wCiAgICAgICAgdW5wYXVzZWRfb25fZGF0ZSA9IGFycm93LmdldChqYW5fZWlnaHRoKS5zaGlmdChtb250aHM9MikudGltZXN0YW1wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249dW5wYXVzZWRfb25fZGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHN1YnNjcmlwdGlvbiA9IG1ha2UuYV9zdWJzY3JpcHRpb24oKSAK</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X2RlYml0X2F0ID0gYXJyb3cuZ2V0KGphbl9laWdodGgpLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfcGF5bWVudHM9MCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3VhcmFudGVlPTEyLAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfaXRlbV9pZD1vcmRlcl9pdGVtLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgIHN1YnNjcmlwdGlvbiA9IG1ha2UuYV9zdWJzY3JpcHRpb24oKSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfcGF5bWVudHM9MCwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
