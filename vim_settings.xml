@@ -108,8 +108,8 @@
         <mark key="'" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555011639859">
-        <mark key="'" line="1695" column="12" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555012475770">
+        <mark key="'" line="1704" column="14" />
         <mark key="[" line="1200" column="55" />
         <mark key="]" line="1201" column="19" />
         <mark key="." line="1201" column="19" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1840" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1850" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="24" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="290" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -262,13 +261,14 @@
       <jump line="14" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="265" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1703" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="84" column="11" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="683" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1711" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1154" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1267" column="10" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1695" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +278,7 @@
         <text>waivers_used=0</text>
       </register>
       <register name="/" type="4">
-        <text>get_balance_in_months</text>
+        <text>pause(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REVDXzJfMjAxNCA9IDE0MTc1MzM5MzMgICMgMTIvMi8yMDE0LCAxMDoyNTozMyBBTSBHTVQtNTowMApERUNfM18yMDE0ID0gMTQxNzYyMDUxNyAgIyAxMi8zLzIwMTQsIDEwOjI4OjM3IEFNIEdNVC01OjAwCkZFQl85XzIwMTUgPSAxNDIzNDczOTMzICAjIDIvOS8yMDE1LCAyMToyNTozMyBHTVQKREVDXzJfMjAxNSA9IDE0NDkxMDA3OTkgICMgMjAxNS0xMi0wMiAyMzo1OTo1OSBHTVQK</text>
@@ -315,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_balance_in_months</last-search>
+      <last-search>pause(</last-search>
       <last-offset />
-      <last-pattern>get_balance_in_months</last-pattern>
+      <last-pattern>pause(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -343,8 +343,8 @@
         <entry>can_pause</entry>
         <entry encoding="base64">XDxERUNfMl8yMDE0XD4=</entry>
         <entry>consumer</entry>
-        <entry>pause(</entry>
         <entry>get_balance_in_months</entry>
+        <entry>pause(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
