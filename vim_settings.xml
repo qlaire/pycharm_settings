@@ -21,12 +21,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1554153704166">
         <mark key="'" line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555007251926">
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555016941684">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="49" column="50" />
-        <mark key="^" line="2351" column="85" />
-        <mark key="." line="2351" column="85" />
+        <mark key="[" line="563" column="9" />
+        <mark key="]" line="565" column="64" />
+        <mark key="." line="565" column="64" />
+        <mark key="^" line="565" column="64" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
@@ -108,12 +108,12 @@
         <mark key="'" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555015430066">
-        <mark key="'" line="1257" column="49" />
-        <mark key="[" line="1292" column="52" />
-        <mark key="]" line="1292" column="52" />
-        <mark key="." line="1292" column="52" />
-        <mark key="^" line="1201" column="19" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555016212966">
+        <mark key="'" line="1704" column="14" />
+        <mark key="[" line="1701" column="25" />
+        <mark key="]" line="1701" column="25" />
+        <mark key="." line="1701" column="52" />
+        <mark key="^" line="1747" column="66" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
         <mark key="[" line="0" column="0" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="206" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1018" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1019" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -243,8 +242,6 @@
       <jump line="1711" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1154" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1267" column="10" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1695" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1401" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1471" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1655" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -269,55 +266,58 @@
       <jump line="382" column="40" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="893" column="13" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1257" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1420" column="31" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1695" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>waivers_used=0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>waivers_used=0</text>
+        <text>last_debit_at</text>
       </register>
       <register name="/" type="4">
-        <text>pause(</text>
+        <text>jan_eigth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVDXzJfMjAxNCA9IDE0MTc1MzM5MzMgICMgMTIvMi8yMDE0LCAxMDoyNTozMyBBTSBHTVQtNTowMApERUNfM18yMDE0ID0gMTQxNzYyMDUxNyAgIyAxMi8zLzIwMTQsIDEwOjI4OjM3IEFNIEdNVC01OjAwCkZFQl85XzIwMTUgPSAxNDIzNDczOTMzICAjIDIvOS8yMDE1LCAyMToyNTozMyBHTVQKREVDXzJfMjAxNSA9IDE0NDkxMDA3OTkgICMgMjAxNS0xMi0wMiAyMzo1OTo1OSBHTVQK</text>
+        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IGFycm93LmdldChzZWxmLmxhc3RfZGViaXRfYXQpLnNoaWZ0KG1vbnRocz0xKS50aW1lc3RhbXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfcGF5bWVudHM9MCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3VhcmFudGVlPTEyLAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfaXRlbV9pZD1vcmRlcl9pdGVtLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgIHN1YnNjcmlwdGlvbiA9IG1ha2UuYV9zdWJzY3JpcHRpb24oKSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfcGF5bWVudHM9MCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3VhcmFudGVlPTEyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uc2F2ZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPS05NSkKICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSB0aW1lXzFfbW90aF9hZ28uc3RyZnRpbWUoIiVzIikKICAgICAgICBzdWJzY3JpcHRpb24ubGFzdF9kZWJpdF9hdCA9IGludCh0aW1lXzFfbW90aF9hZ28pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfaXRlbV9pZD1vcmRlcl9pdGVtLmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
       </register>
     </registers>
     <search>
-      <last-search>pause(</last-search>
+      <last-search>jan_eigth</last-search>
       <last-offset />
-      <last-pattern>pause(</last-pattern>
+      <last-pattern>jan_eigth</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -325,7 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>should_debit(</entry>
         <entry encoding="base64">XDxtb250aHNfdG9fYmlsbFw+</entry>
         <entry>last_billing_failed_at5</entry>
         <entry>last_billing_failed_at</entry>
@@ -345,6 +344,7 @@
         <entry>last_billing_attempted_at(</entry>
         <entry encoding="base64">XDxsYXN0X2JpbGxpbmdfYXR0ZW1wdGVkX2F0XD4=</entry>
         <entry>pause(</entry>
+        <entry>jan_eigth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
