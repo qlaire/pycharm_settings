@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1555007305322">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1555009045891">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="48" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1554148237969">
         <mark key="'" line="2" column="20" />
@@ -271,11 +271,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>waivers_used=0</text>
       </register>
       <register name="-" type="4">
-        <text>Subscription.CONSUMER</text>
+        <text>waivers_used=0</text>
       </register>
       <register name="/" type="4">
         <text>consumer</text>
@@ -284,31 +284,31 @@
         <text encoding="base64">REVDXzJfMjAxNCA9IDE0MTc1MzM5MzMgICMgMTIvMi8yMDE0LCAxMDoyNTozMyBBTSBHTVQtNTowMApERUNfM18yMDE0ID0gMTQxNzYyMDUxNyAgIyAxMi8zLzIwMTQsIDEwOjI4OjM3IEFNIEdNVC01OjAwCkZFQl85XzIwMTUgPSAxNDIzNDczOTMzICAjIDIvOS8yMDE1LCAyMToyNTozMyBHTVQKREVDXzJfMjAxNSA9IDE0NDkxMDA3OTkgICMgMjAxNS0xMi0wMiAyMzo1OTo1OSBHTVQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfcGF5bWVudHM9MCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfaXRlbV9pZD1vcmRlcl9pdGVtLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3VhcmFudGVlPTEyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfaXRlbV9pZD1vcmRlcl9pdGVtLmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uc2F2ZSgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPS05NSkKICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSB0aW1lXzFfbW90aF9hZ28uc3RyZnRpbWUoIiVzIikKICAgICAgICBzdWJzY3JpcHRpb24ubGFzdF9kZWJpdF9hdCA9IGludCh0aW1lXzFfbW90aF9hZ28pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uc2F2ZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPS05NSkKICAgICAgICB0aW1lXzFfbW90aF9hZ28gPSB0aW1lXzFfbW90aF9hZ28uc3RyZnRpbWUoIiVzIikKICAgICAgICBzdWJzY3JpcHRpb24ubGFzdF9kZWJpdF9hdCA9IGludCh0aW1lXzFfbW90aF9hZ28pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249YXJyb3cuZ2V0KHNlbGYubGFzdF9kZWJpdF9hdCkuc2hpZnQobW9udGhzPTIpLnRpbWVzdGFtcCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
