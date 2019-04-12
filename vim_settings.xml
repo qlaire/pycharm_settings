@@ -21,10 +21,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1554153704166">
         <mark key="'" line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555083440456">
-        <mark key="'" line="2421" column="38" />
-        <mark key="[" line="2465" column="0" />
-        <mark key="]" line="2465" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555089402141">
+        <mark key="'" line="2423" column="34" />
+        <mark key="[" line="793" column="0" />
+        <mark key="]" line="793" column="87" />
         <mark key="." line="2465" column="0" />
         <mark key="^" line="2467" column="30" />
       </file>
@@ -104,6 +104,13 @@
       <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555013853979">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555091228251">
+        <mark key="'" line="262" column="20" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="102" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555082527948">
         <mark key="'" line="1684" column="47" />
@@ -162,9 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2512" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="141" column="33" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
-      <jump line="142" column="64" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
       <jump line="354" column="84" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="1304" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1204" column="37" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
@@ -262,55 +266,58 @@
       <jump line="1655" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1684" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="2421" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2423" column="34" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="258" column="20" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>enabled=True</text>
       </register>
       <register name="-" type="4">
-        <text>self.unpaused_on and</text>
+        <text>enabled=True</text>
       </register>
       <register name="/" type="4">
-        <text>Enablement</text>
+        <text encoding="base64">XDxNb2RlbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHN1Yi5iYWxhbmNlX2luX21vbnRocywgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnc2NyaXB0cy5jcm9uLnNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlLmNoYXJnZV9zdWJzY3JpcHRpb24uc2VuZCcpCiAgICBkZWYgdGVzdF92ZXJpZnlfc3Vic2NyaXB0aW9uX2lzX3NlbnRfdG9fY2hhcmdlX3F1ZXVlX2FmdGVyX3VucGF1c2Uoc2VsZiwgbW9ja19zZW5kKToKICAgICAgICBzdWIgPSBwYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgIHJlY29yZF9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl90eXBlPSdkZXZpY2UnLAogICAgICAgICAgICBsb2dnZWRfaW5fdXNlcj1zZWxmLnVzZXIsCiAgICAgICAgICAgIG1vbnRoX2NvdW50PTMKICAgICAgICApCgogICAgICAgIG9uZV93ZWVrX2JlZm9yZV9zY2hlZF91bnBhdXNlID0gYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAogICAgICAgIHdpdGggc2VsZi5wYXRjaF90aW1lKG5vdz1vbmVfd2Vla19iZWZvcmVfc2NoZWRfdW5wYXVzZSk6CiAgICAgICAgICAgIHVwZGF0ZWRfc3Vic2NyaXB0aW9uID0gdW5wYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25faWQ9c2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlkLAogICAgICAgICAgICAgICAgbG9nZ2VkX2luX3VzZXI9c2VsZi51c2VyCiAgICAgICAgICAgICkKICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCiAgICAgICAgICAgIHNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlKCkKCiAgICAgICAgICAgIG1vY2tfc2VuZC5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aCgKICAgICAgICAgICAgICAgIHNlbmRlcj1zZW5kX2R1ZV9zdWJzY3JpcHRpb25zX3RvX2NoYXJnZV9xdWV1ZSwKICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25fdHlwZT1TVUJTQ1JJUFRJT05fVFlQRS5ERVZJQ0UKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBza2lwKCJmaXgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgnJykK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnc2NyaXB0cy5jcm9uLnNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlLmNoYXJnZV9zdWJzY3JpcHRpb24uc2VuZCcpCiAgICBkZWYgdGVzdF92ZXJpZnlfc3Vic2NyaXB0aW9uX2lzX3NlbnRfdG9fY2hhcmdlX3F1ZXVlX2FmdGVyX3VucGF1c2Uoc2VsZiwgbW9ja19zZW5kKToKICAgICAgICBzdWIgPSBwYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgIHJlY29yZF9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl90eXBlPSdkZXZpY2UnLAogICAgICAgICAgICBsb2dnZWRfaW5fdXNlcj1zZWxmLnVzZXIsCiAgICAgICAgICAgIG1vbnRoX2NvdW50PTMKICAgICAgICApCgogICAgICAgIG9uZV93ZWVrX2JlZm9yZV9zY2hlZF91bnBhdXNlID0gYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAogICAgICAgIHdpdGggc2VsZi5wYXRjaF90aW1lKG5vdz1vbmVfd2Vla19iZWZvcmVfc2NoZWRfdW5wYXVzZSk6CiAgICAgICAgICAgIHVwZGF0ZWRfc3Vic2NyaXB0aW9uID0gdW5wYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25faWQ9c2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlkLAogICAgICAgICAgICAgICAgbG9nZ2VkX2luX3VzZXI9c2VsZi51c2VyCiAgICAgICAgICAgICkKICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCiAgICAgICAgICAgIHNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlKCkKCiAgICAgICAgICAgIG1vY2tfc2VuZC5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aCgKICAgICAgICAgICAgICAgIHNlbmRlcj1zZW5kX2R1ZV9zdWJzY3JpcHRpb25zX3RvX2NoYXJnZV9xdWV1ZSwKICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25fdHlwZT1TVUJTQ1JJUFRJT05fVFlQRS5ERVZJQ0UKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXVzZWRfb25fZGF0ZSA9IGFycm93LmdldChqYW5fZWlnaHRoKS5zaGlmdChtb250aHM9MSkudGltZXN0YW1wCiAgICAgICAgdW5wYXVzZWRfb25fZGF0ZSA9IGFycm93LmdldChqYW5fZWlnaHRoKS5zaGlmdChtb250aHM9MikudGltZXN0YW1wCg==</text>
+        <text encoding="base64">ICAgIEBza2lwKCJmaXgiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249dW5wYXVzZWRfb25fZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgnJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X2RlYml0X2F0ID0gYXJyb3cuZ2V0KGphbl9laWdodGgpLnNoaWZ0KGRheXM9MSkudGltZXN0YW1wCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
       </register>
     </registers>
     <search>
-      <last-search>Enablement</last-search>
+      <last-search encoding="base64">XDxNb2RlbFw+</last-search>
       <last-offset />
-      <last-pattern>Enablement</last-pattern>
+      <last-pattern encoding="base64">XDxNb2RlbFw+</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -318,8 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grace_period</entry>
-        <entry encoding="base64">XDxpc19pbl9ncmFjZV9wZXJpb2RcPg==</entry>
         <entry>prepaid_credit</entry>
         <entry encoding="base64">XDxyZXF1aXJlX3N0cmlwZVw+</entry>
         <entry>can_pause</entry>
@@ -338,6 +343,8 @@
         <entry>enablement</entry>
         <entry>refactor</entry>
         <entry>Enablement</entry>
+        <entry>Model.enablement</entry>
+        <entry encoding="base64">XDxNb2RlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
