@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -11,9 +11,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
-      </file>
-      <file name="/a.dummy" timestamp="1544124513441">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -31,7 +28,6 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/api/lib/errors/orm.py" timestamp="1554390563468" />
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
       </file>
@@ -53,6 +49,12 @@
         <mark key="]" line="149" column="12" />
         <mark key="^" line="151" column="27" />
         <mark key="." line="149" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/test_subscription_service.py" timestamp="1555098956575">
+        <mark key="[" line="83" column="92" />
+        <mark key="]" line="84" column="7" />
+        <mark key="." line="84" column="7" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
         <mark key="'" line="62" column="16" />
@@ -80,15 +82,15 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1554821823155">
-        <mark key="'" line="80" column="8" />
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1555099644894">
+        <mark key="'" line="97" column="8" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="12" />
+        <mark key="^" line="74" column="12" />
+        <mark key="." line="84" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api/env/lib/python2.7/site-packages/dateutil/relativedelta.py" timestamp="1554756491813" />
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
-      </file>
-      <file name="/Python Console" timestamp="1554924983986">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554924997178">
         <mark key="e" line="0" column="4" />
@@ -99,8 +101,16 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
-      <file name="/test_subscription.py" timestamp="1553795296920">
-        <mark key="[" line="2" column="11" />
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/subscription_service.py" timestamp="1555098776342">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/test_subscription_service.py" timestamp="1555098952116">
+        <mark key="'" line="51" column="2" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="70" column="92" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" timestamp="1555094885236">
         <mark key="'" line="2689" column="40" />
@@ -108,6 +118,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="54" column="60" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="/subscription_service.py" timestamp="1555098762302">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
@@ -122,14 +137,11 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555091228251">
         <mark key="'" line="257" column="20" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555082527948">
         <mark key="'" line="1684" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554142034114">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/domain/test_device_subscription.py" timestamp="1554732788155">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/domain/test_device_subscription.py" timestamp="1555099708467">
+        <mark key="'" line="233" column="0" />
         <mark key="[" line="204" column="0" />
         <mark key="]" line="204" column="77" />
         <mark key="." line="222" column="0" />
@@ -149,12 +161,15 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_factory.py" timestamp="1554834511131">
         <mark key="'" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555096665705">
-        <mark key="'" line="72" column="63" />
-        <mark key="[" line="1313" column="26" />
-        <mark key="]" line="1344" column="60" />
-        <mark key="." line="1344" column="60" />
-        <mark key="^" line="1344" column="60" />
+      <file name="$USER_HOME$/Development/api/cms/templates/rider/subscriptions/confirm_pause.html" timestamp="1555099343573">
+        <mark key="'" line="51" column="66" />
+      </file>
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555100024558">
+        <mark key="'" line="1396" column="43" />
+        <mark key="[" line="1442" column="50" />
+        <mark key="]" line="1442" column="57" />
+        <mark key="." line="1442" column="57" />
+        <mark key="^" line="1442" column="57" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
@@ -187,11 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1335" column="46" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1315" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1170" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1098" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1097" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1036" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1035" column="28" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -287,55 +297,60 @@
       <jump line="118" column="46" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
       <jump line="147" column="68" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
       <jump line="72" column="63" filename="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" />
+      <jump line="1396" column="43" filename="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" />
+      <jump line="22" column="3" filename="/subscription_service.py" />
+      <jump line="51" column="2" filename="/test_subscription_service.py" />
+      <jump line="51" column="66" filename="$USER_HOME$/Development/api/cms/templates/rider/subscriptions/confirm_pause.html" />
+      <jump line="233" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/domain/test_device_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5TdWJzY3JpcHRpb24uZ2V0KHN1Yl9pZCkKICAgICAgICBpc19zdXBlcmFkbWluID0gQXV0aFNlcnZpY2UuaXNfc3VwZXJhZG1pbl9hdXRoZW50aWNhdGVkKCkKICAgICAgICBlbmRfZGF0ZSA9IE5vbmUKCiAgICAgICAgaWYgc3Vic2NyaXB0aW9uLmlzX3BhdXNlZCBvciBzdWJzY3JpcHRpb24uaXNfc2NoZWR1bGVkX2Zvcl9wYXVzZToKICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IHN1YnNjcmlwdGlvbi5wYXVzZWRfb24KICAgICAgICAgICAgZW5kX2RhdGUgPSBzdWJzY3JpcHRpb24udW5wYXVzZWRfb24KICAgICAgICBlbHNlOgogICAgICAgICAgICBzdGFydF9kYXRlID0gU3Vic2NyaXB0aW9uU2VydmljZS5nZXRfcGF1c2Vfc3RhcnRfZGF0ZShzdWJzY3JpcHRpb24pCgogICAgICAgIGxlbmd0aF9vZl9wYXVzZV9vcHRpb25zID0gWygiMSBtb250aCIsIDEpXQogICAgICAgIGxlbmd0aF9vZl9wYXVzZV9vcHRpb25zLmV4dGVuZChbKCJ7fSBtb250aHMiLmZvcm1hdChpKSwgaSkgZm9yIGkgaW4gcmFuZ2UoMiwgNCldKQoKICAgICAgICBpZiBjaGVycnlweS5yZXF1ZXN0Lm1ldGhvZCA9PSBQT1NUOgogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZShzZWxmLmNvbmZpcm1fcGF1c2Uucm91dGVfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ViX2lkPXN1Yl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50ZW50X3RvX2NhbmNlbD1pbnRlbnRfdG9fY2FuY2VsLAogICAgICAgICAgICAgICAgICAgICAgICAgICByZWFzb25fZm9yX3BhdXNlPXJlYXNvbl9mb3JfcGF1c2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vbnRoc190b19wYXVzZT1sZW5ndGhfb2ZfcGF1c2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGVzPW5vdGVzKQoKICAgICAgICByZXR1cm4gc2VsZi5yZW5kZXIoCiAgICAgICAgICAgICJyaWRlci9zdWJzY3JpcHRpb25zL3BhdXNlLmh0bWwiLAogICAgICAgICAgICBzdWJzY3JpcHRpb249c3Vic2NyaXB0aW9uLAogICAgICAgICAgICBtb250aHNfdG9fcGF1c2U9T3JkZXJlZERpY3QobGVuZ3RoX29mX3BhdXNlX29wdGlvbnMpLAogICAgICAgICAgICBzdGFydF9kYXRlPXN0YXJ0X2RhdGUsCiAgICAgICAgICAgIGVuZF9kYXRlPWVuZF9kYXRlLAogICAgICAgICAgICBpc19zdXBlcmFkbWluPWlzX3N1cGVyYWRtaW4sCiAgICAgICAgICAgIHJlYXNvbnNfZm9yX3BhdXNlPVNVQlNDUklQVElPTl9QQVVTRV9SRUFTT05TKQo=</text>
+      <register name="&quot;" type="4">
+        <text>is_cms_dlskfjgksdf</text>
       </register>
       <register name="-" type="4">
-        <text>use_balance_in_months_refactor</text>
+        <text>is_cms_dlskfjgksdf</text>
       </register>
       <register name="/" type="4">
-        <text>confirm_pause</text>
+        <text>timezone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5TdWJzY3JpcHRpb24uZ2V0KHN1Yl9pZCkKICAgICAgICBpc19zdXBlcmFkbWluID0gQXV0aFNlcnZpY2UuaXNfc3VwZXJhZG1pbl9hdXRoZW50aWNhdGVkKCkKICAgICAgICBlbmRfZGF0ZSA9IE5vbmUKCiAgICAgICAgaWYgc3Vic2NyaXB0aW9uLmlzX3BhdXNlZCBvciBzdWJzY3JpcHRpb24uaXNfc2NoZWR1bGVkX2Zvcl9wYXVzZToKICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IHN1YnNjcmlwdGlvbi5wYXVzZWRfb24KICAgICAgICAgICAgZW5kX2RhdGUgPSBzdWJzY3JpcHRpb24udW5wYXVzZWRfb24KICAgICAgICBlbHNlOgogICAgICAgICAgICBzdGFydF9kYXRlID0gU3Vic2NyaXB0aW9uU2VydmljZS5nZXRfcGF1c2Vfc3RhcnRfZGF0ZShzdWJzY3JpcHRpb24pCgogICAgICAgIGxlbmd0aF9vZl9wYXVzZV9vcHRpb25zID0gWygiMSBtb250aCIsIDEpXQogICAgICAgIGxlbmd0aF9vZl9wYXVzZV9vcHRpb25zLmV4dGVuZChbKCJ7fSBtb250aHMiLmZvcm1hdChpKSwgaSkgZm9yIGkgaW4gcmFuZ2UoMiwgNCldKQoKICAgICAgICBpZiBjaGVycnlweS5yZXF1ZXN0Lm1ldGhvZCA9PSBQT1NUOgogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZShzZWxmLmNvbmZpcm1fcGF1c2Uucm91dGVfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ViX2lkPXN1Yl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50ZW50X3RvX2NhbmNlbD1pbnRlbnRfdG9fY2FuY2VsLAogICAgICAgICAgICAgICAgICAgICAgICAgICByZWFzb25fZm9yX3BhdXNlPXJlYXNvbl9mb3JfcGF1c2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vbnRoc190b19wYXVzZT1sZW5ndGhfb2ZfcGF1c2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGVzPW5vdGVzKQoKICAgICAgICByZXR1cm4gc2VsZi5yZW5kZXIoCiAgICAgICAgICAgICJyaWRlci9zdWJzY3JpcHRpb25zL3BhdXNlLmh0bWwiLAogICAgICAgICAgICBzdWJzY3JpcHRpb249c3Vic2NyaXB0aW9uLAogICAgICAgICAgICBtb250aHNfdG9fcGF1c2U9T3JkZXJlZERpY3QobGVuZ3RoX29mX3BhdXNlX29wdGlvbnMpLAogICAgICAgICAgICBzdGFydF9kYXRlPXN0YXJ0X2RhdGUsCiAgICAgICAgICAgIGVuZF9kYXRlPWVuZF9kYXRlLAogICAgICAgICAgICBpc19zdXBlcmFkbWluPWlzX3N1cGVyYWRtaW4sCiAgICAgICAgICAgIHJlYXNvbnNfZm9yX3BhdXNlPVNVQlNDUklQVElPTl9QQVVTRV9SRUFTT05TKQo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdFN1YnNjcmlwdGlvbkJpbGxpbmdQZXJpb2RTdGFydChUZXN0Q2FzZSk6CgogICAgQHBhdGNoKCJsaWIub3JtLm1vZGVsLk1vZGVsLlN1YnNjcmlwdGlvbi5uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0IiwgbmV3X2NhbGxhYmxlPVByb3BlcnR5TW9jaykKICAgIGRlZiB0ZXN0X2dldF9kYXlfYmVmb3JlX25leHRfYmlsbGluZ19wZXJpb2Rfc3RhcnQoc2VsZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbV9uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0KToKICAgICAgICBzdWIgPSBtYWtlLmFfc3Vic2NyaXB0aW9uKCkKICAgICAgICBub3cgPSBhcnJvdy51dGNub3coKQogICAgICAgIG9uZV9tb250aF9mcm9tX25vdyA9IG5vdy5zaGlmdChtb250aHM9KzEpCiAgICAgICAgbV9uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0LnJldHVybl92YWx1ZSA9IG9uZV9tb250aF9mcm9tX25vdy50aW1lc3RhbXAKCiAgICAgICAgZGF5X2JlZm9yZV9iaWxsaW5nX3BlcmlvZF9zdGFydCA9IG5vdy5zaGlmdChtb250aHM9KzEsIGRheXM9LTEpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIFN1YnNjcmlwdGlvblNlcnZpY2UuZ2V0X2RheV9iZWZvcmVfbmV4dF9iaWxsaW5nX3BlcmlvZF9zdGFydChzdWIpLAogICAgICAgICAgICBkYXlfYmVmb3JlX2JpbGxpbmdfcGVyaW9kX3N0YXJ0LnRpbWVzdGFtcAogICAgICAgICkKCiAgICBkZWYgdGVzdF9nZXRfZGF5X2JlZm9yZV9uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0X2Zvcl91bnVzZWRfc3ViKHNlbGYpOgogICAgICAgIHN1YiA9IG1ha2UuYV9zdWJzY3JpcHRpb24oKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb25lKFN1YnNjcmlwdGlvblNlcnZpY2UuZ2V0X2RheV9iZWZvcmVfbmV4dF9iaWxsaW5nX3BlcmlvZF9zdGFydChzdWIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsaWIuY29uc3RzIGltcG9ydCBPTkVfREFZLCBUWl9VU19FQVNURVJOLCBQUk9ECg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydF9kYXRlID0gZ2V0X3BhdXNlX3N0YXJ0X2RhdGUoc2VsZi5fcGF1c2Vfc3RyYXRlZ3kpCiAgICAgICAgZW5kX2RhdGUgPSBhcnJvdy5nZXQoc3RhcnRfZGF0ZSkuc2hpZnQobW9udGhzPW1vbnRoX2NvdW50KS50aW1lc3RhbXAKICAgICAgICBzZWxmLl9wYXVzZV9zdHJhdGVneS5wYXVzZSgKICAgICAgICAgICAgaW50ZW5kZWRfdG9fY2FuY2VsPUZhbHNlLAogICAgICAgICAgICByZWFzb249cmVhc29uLAogICAgICAgICAgICBzdGFydF9kYXRlPXN0YXJ0X2RhdGUsCiAgICAgICAgICAgIGVuZF9kYXRlPWVuZF9kYXRlLAogICAgICAgICAgICBub3Rlcz1Ob25lLAogICAgICAgICAgICBpbml0aWF0b3I9aW5pdGlhdG9yCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBsaWIuY29uc3RzIGltcG9ydCBPTkVfREFZLCBUWl9VU19FQVNURVJOLCBQUk9ECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnc2NyaXB0cy5jcm9uLnNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlLmNoYXJnZV9zdWJzY3JpcHRpb24uc2VuZCcpCiAgICBkZWYgdGVzdF92ZXJpZnlfc3Vic2NyaXB0aW9uX2lzX3NlbnRfdG9fY2hhcmdlX3F1ZXVlX2FmdGVyX3VucGF1c2Uoc2VsZiwgbW9ja19zZW5kKToKICAgICAgICBzdWIgPSBwYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgIHJlY29yZF9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl90eXBlPSdkZXZpY2UnLAogICAgICAgICAgICBsb2dnZWRfaW5fdXNlcj1zZWxmLnVzZXIsCiAgICAgICAgICAgIG1vbnRoX2NvdW50PTMKICAgICAgICApCgogICAgICAgIG9uZV93ZWVrX2JlZm9yZV9zY2hlZF91bnBhdXNlID0gYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAogICAgICAgIHdpdGggc2VsZi5wYXRjaF90aW1lKG5vdz1vbmVfd2Vla19iZWZvcmVfc2NoZWRfdW5wYXVzZSk6CiAgICAgICAgICAgIHVwZGF0ZWRfc3Vic2NyaXB0aW9uID0gdW5wYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25faWQ9c2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlkLAogICAgICAgICAgICAgICAgbG9nZ2VkX2luX3VzZXI9c2VsZi51c2VyCiAgICAgICAgICAgICkKICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCiAgICAgICAgICAgIHNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlKCkKCiAgICAgICAgICAgIG1vY2tfc2VuZC5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aCgKICAgICAgICAgICAgICAgIHNlbmRlcj1zZW5kX2R1ZV9zdWJzY3JpcHRpb25zX3RvX2NoYXJnZV9xdWV1ZSwKICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25fdHlwZT1TVUJTQ1JJUFRJT05fVFlQRS5ERVZJQ0UKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBza2lwKCJmaXgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgnJykK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnc2NyaXB0cy5jcm9uLnNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlLmNoYXJnZV9zdWJzY3JpcHRpb24uc2VuZCcpCiAgICBkZWYgdGVzdF92ZXJpZnlfc3Vic2NyaXB0aW9uX2lzX3NlbnRfdG9fY2hhcmdlX3F1ZXVlX2FmdGVyX3VucGF1c2Uoc2VsZiwgbW9ja19zZW5kKToKICAgICAgICBzdWIgPSBwYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgIHJlY29yZF9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl90eXBlPSdkZXZpY2UnLAogICAgICAgICAgICBsb2dnZWRfaW5fdXNlcj1zZWxmLnVzZXIsCiAgICAgICAgICAgIG1vbnRoX2NvdW50PTMKICAgICAgICApCgogICAgICAgIG9uZV93ZWVrX2JlZm9yZV9zY2hlZF91bnBhdXNlID0gYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikuc2hpZnQod2Vla3M9LTEpLnRpbWVzdGFtcAogICAgICAgIHdpdGggc2VsZi5wYXRjaF90aW1lKG5vdz1vbmVfd2Vla19iZWZvcmVfc2NoZWRfdW5wYXVzZSk6CiAgICAgICAgICAgIHVwZGF0ZWRfc3Vic2NyaXB0aW9uID0gdW5wYXVzZV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25faWQ9c2VsZi5zdWJzY3JpcHRpb25fcmVjb3JkLmlkLAogICAgICAgICAgICAgICAgbG9nZ2VkX2luX3VzZXI9c2VsZi51c2VyCiAgICAgICAgICAgICkKICAgICAgICAgICAgc2VsZi5hc3NlcnRGYWxzZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19wYXVzZWQpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh1cGRhdGVkX3N1YnNjcmlwdGlvbi5pc19hY3RpdmUpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodXBkYXRlZF9zdWJzY3JpcHRpb24uZ2V0X2JhbGFuY2VfaW5fbW9udGhzKCksIDEpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0TGVzc0VxdWFsKHVwZGF0ZWRfc3Vic2NyaXB0aW9uLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy51dGNub3coKS50aW1lc3RhbXApCiAgICAgICAgICAgIHNlbmRfZHVlX3N1YnNjcmlwdGlvbnNfdG9fY2hhcmdlX3F1ZXVlKCkKCiAgICAgICAgICAgIG1vY2tfc2VuZC5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aCgKICAgICAgICAgICAgICAgIHNlbmRlcj1zZW5kX2R1ZV9zdWJzY3JpcHRpb25zX3RvX2NoYXJnZV9xdWV1ZSwKICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25fdHlwZT1TVUJTQ1JJUFRJT05fVFlQRS5ERVZJQ0UKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>confirm_pause</last-search>
+      <last-search>timezone</last-search>
       <last-offset />
-      <last-pattern>confirm_pause</last-pattern>
+      <last-pattern>timezone</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -343,8 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1aXJlX3N0cmlwZVw+</entry>
-        <entry>can_pause</entry>
         <entry encoding="base64">XDxERUNfMl8yMDE0XD4=</entry>
         <entry>consumer</entry>
         <entry>would_be_cancellation_time</entry>
@@ -363,6 +376,8 @@
         <entry>Model.enablement</entry>
         <entry encoding="base64">XDxNb2RlbFw+</entry>
         <entry>confirm_pause</entry>
+        <entry>time_zone</entry>
+        <entry>timezone</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
