@@ -108,12 +108,8 @@
         <mark key="'" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555078565907">
-        <mark key="'" line="1705" column="14" />
-        <mark key="[" line="1709" column="15" />
-        <mark key="]" line="1709" column="13" />
-        <mark key="." line="1709" column="13" />
-        <mark key="^" line="1709" column="13" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555079165131">
+        <mark key="'" line="1141" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
         <mark key="[" line="0" column="0" />
@@ -169,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1018" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1019" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="720" column="50" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="735" column="61" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="749" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
@@ -269,6 +263,8 @@
       <jump line="1695" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="2959" column="47" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1710" column="23" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1141" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +274,7 @@
         <text>self.unpaused_on and</text>
       </register>
       <register name="/" type="4">
-        <text>jan_eigth</text>
+        <text>get_balance_in_months</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19wYXVzZWRfb249cGF1c2VkX29uX2RhdGUsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fdW5wYXVzZWRfb249dW5wYXVzZWRfb25fZGF0ZQo=</text>
@@ -315,9 +311,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jan_eigth</last-search>
+      <last-search>get_balance_in_months</last-search>
       <last-offset />
-      <last-pattern>jan_eigth</last-pattern>
+      <last-pattern>get_balance_in_months</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -338,13 +334,13 @@
         <entry>would_be_cancellation_time</entry>
         <entry>balance_in_months</entry>
         <entry>balance_in_months(</entry>
-        <entry>get_balance_in_months</entry>
         <entry>next_billing_date</entry>
         <entry>last_billing_attempted_at</entry>
         <entry>last_billing_attempted_at(</entry>
         <entry encoding="base64">XDxsYXN0X2JpbGxpbmdfYXR0ZW1wdGVkX2F0XD4=</entry>
         <entry>pause(</entry>
         <entry>jan_eigth</entry>
+        <entry>get_balance_in_months</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
