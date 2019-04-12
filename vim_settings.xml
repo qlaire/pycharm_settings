@@ -108,12 +108,12 @@
         <mark key="'" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/435043767/time.py" timestamp="1554842216144" />
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555018750237">
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555078565907">
         <mark key="'" line="1705" column="14" />
-        <mark key="[" line="1747" column="12" />
-        <mark key="]" line="1747" column="10" />
-        <mark key="." line="1747" column="10" />
-        <mark key="^" line="1747" column="10" />
+        <mark key="[" line="1709" column="15" />
+        <mark key="]" line="1709" column="13" />
+        <mark key="." line="1709" column="13" />
+        <mark key="^" line="1709" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1554142034114">
         <mark key="[" line="0" column="0" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>not self.is_paused and</text>
+        <text>self.unpaused_on and</text>
       </register>
       <register name="-" type="4">
-        <text>not self.is_paused and</text>
+        <text>self.unpaused_on and</text>
       </register>
       <register name="/" type="4">
         <text>jan_eigth</text>
