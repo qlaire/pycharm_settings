@@ -41,13 +41,6 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1554153704166">
         <mark key="'" line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555355988154">
-        <mark key="'" line="2423" column="34" />
-        <mark key="[" line="793" column="0" />
-        <mark key="]" line="793" column="87" />
-        <mark key="." line="2465" column="0" />
-        <mark key="^" line="2467" column="30" />
-      </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
       </file>
@@ -65,9 +58,6 @@
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555344891264">
-        <mark key="'" line="118" column="46" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -107,11 +97,11 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1555355990594">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="87" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1555357309158">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="33" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
@@ -195,10 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1267" column="10" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1401" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1377" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1095" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1096" column="57" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1334" column="34" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1336" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -295,10 +281,14 @@
       <jump line="1291" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1296" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="25" column="32" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
+      <jump line="199" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="167" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgc2tpcAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -307,31 +297,31 @@
         <text>current_billing_period_start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lX3RvX3BhdXNlID0gYXJyb3cuZ2V0KHNlbGYuZmViX2ZpZnRlZW50aCkuc2hpZnQoZGF5cz0xKQoKICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9dGltZV90b19wYXVzZSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgc2tpcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ImZpeCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAc2tpcCg=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ImZpeCIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBAc2tpcCg=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
