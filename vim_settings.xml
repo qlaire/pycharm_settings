@@ -25,10 +25,10 @@
         <mark key="'" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/subscription_service.py" timestamp="1555337254905">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/test_subscription_service.py" timestamp="1555098952116">
         <mark key="'" line="51" column="2" />
@@ -52,11 +52,11 @@
         <mark key="'" line="12" column="62" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" timestamp="1555337178308">
-        <mark key="'" line="3487" column="56" />
-        <mark key="[" line="3555" column="0" />
-        <mark key="]" line="3555" column="0" />
-        <mark key="^" line="3492" column="33" />
-        <mark key="." line="3555" column="0" />
+        <mark key="'" line="3813" column="56" />
+        <mark key="[" line="3881" column="0" />
+        <mark key="]" line="3881" column="0" />
+        <mark key="^" line="3818" column="33" />
+        <mark key="." line="3881" column="0" />
       </file>
       <file name="/subscription_service.py" timestamp="1555098762302">
         <mark key="'" line="22" column="3" />
@@ -66,8 +66,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555095245789">
+      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555344891264">
         <mark key="'" line="118" column="46" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -116,11 +120,10 @@
         <mark key="'" line="734" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/test_subscription_service.py" timestamp="1555337293145">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_factory.py" timestamp="1554834511131">
         <mark key="'" line="8" column="8" />
@@ -131,12 +134,12 @@
       <file name="$USER_HOME$/Development/api/cms/templates/rider/subscriptions/confirm_pause.html" timestamp="1555099343573">
         <mark key="'" line="51" column="66" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555337350560">
-        <mark key="'" line="1517" column="0" />
-        <mark key="[" line="1517" column="0" />
-        <mark key="]" line="1517" column="0" />
-        <mark key="." line="1517" column="0" />
-        <mark key="^" line="1516" column="65" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555344830464">
+        <mark key="'" line="1626" column="0" />
+        <mark key="[" line="1378" column="94" />
+        <mark key="]" line="1379" column="16" />
+        <mark key="." line="1379" column="16" />
+        <mark key="^" line="1379" column="16" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1555095501765">
         <mark key="'" line="148" column="68" />
@@ -184,11 +187,10 @@
         <mark key="." line="22" column="41" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1555337100281">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="74" column="12" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="88" column="12" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1555006726803">
         <mark key="'" line="615" column="19" />
