@@ -25,10 +25,10 @@
         <mark key="'" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/subscription_service.py" timestamp="1555337254905">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/test_subscription_service.py" timestamp="1555098952116">
         <mark key="'" line="51" column="2" />
@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1554153704166">
         <mark key="'" line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555089402141">
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555355988154">
         <mark key="'" line="2423" column="34" />
         <mark key="[" line="793" column="0" />
         <mark key="]" line="793" column="87" />
@@ -52,11 +52,11 @@
         <mark key="'" line="12" column="62" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" timestamp="1555337178308">
-        <mark key="'" line="3813" column="56" />
-        <mark key="[" line="3881" column="0" />
-        <mark key="]" line="3881" column="0" />
-        <mark key="^" line="3818" column="33" />
-        <mark key="." line="3881" column="0" />
+        <mark key="'" line="3487" column="56" />
+        <mark key="[" line="3555" column="0" />
+        <mark key="]" line="3555" column="0" />
+        <mark key="^" line="3492" column="33" />
+        <mark key="." line="3555" column="0" />
       </file>
       <file name="/subscription_service.py" timestamp="1555098762302">
         <mark key="'" line="22" column="3" />
@@ -68,10 +68,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555344891264">
         <mark key="'" line="118" column="46" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="144" column="0" />
-        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -111,19 +107,21 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1555082130293">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="87" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" timestamp="1555355990594">
+        <mark key="'" line="25" column="32" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="87" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/test_subscription_service.py" timestamp="1555337293145">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_factory.py" timestamp="1554834511131">
         <mark key="'" line="8" column="8" />
@@ -135,11 +133,7 @@
         <mark key="'" line="51" column="66" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555344830464">
-        <mark key="'" line="1626" column="0" />
-        <mark key="[" line="1378" column="94" />
-        <mark key="]" line="1379" column="16" />
-        <mark key="." line="1379" column="16" />
-        <mark key="^" line="1379" column="16" />
+        <mark key="'" line="1517" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1555095501765">
         <mark key="'" line="148" column="68" />
@@ -187,10 +181,10 @@
         <mark key="." line="22" column="41" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1555337100281">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="88" column="12" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="74" column="12" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1555006726803">
         <mark key="'" line="615" column="19" />
@@ -201,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1154" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1267" column="10" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1401" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1377" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -301,34 +294,35 @@
       <jump line="1284" column="40" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1291" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1296" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="25" column="32" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>from ecomm.subscriptions.commands import cancel_subscription, reactivate_subscription</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>current_billing_period_start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdFN1YnNjcmlwdGlvbkJpbGxpbmdQZXJpb2RTdGFydChUZXN0Q2FzZSk6CgogICAgQHBhdGNoKCJsaWIub3JtLm1vZGVsLk1vZGVsLlN1YnNjcmlwdGlvbi5uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0IiwgbmV3X2NhbGxhYmxlPVByb3BlcnR5TW9jaykKICAgIGRlZiB0ZXN0X2dldF9kYXlfYmVmb3JlX25leHRfYmlsbGluZ19wZXJpb2Rfc3RhcnQoc2VsZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbV9uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0KToKICAgICAgICBzdWIgPSBtYWtlLmFfc3Vic2NyaXB0aW9uKCkKICAgICAgICBub3cgPSBhcnJvdy51dGNub3coKQogICAgICAgIG9uZV9tb250aF9mcm9tX25vdyA9IG5vdy5zaGlmdChtb250aHM9KzEpCiAgICAgICAgbV9uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0LnJldHVybl92YWx1ZSA9IG9uZV9tb250aF9mcm9tX25vdy50aW1lc3RhbXAKCiAgICAgICAgZGF5X2JlZm9yZV9iaWxsaW5nX3BlcmlvZF9zdGFydCA9IG5vdy5zaGlmdChtb250aHM9KzEsIGRheXM9LTEpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIFN1YnNjcmlwdGlvblNlcnZpY2UuZ2V0X2RheV9iZWZvcmVfbmV4dF9iaWxsaW5nX3BlcmlvZF9zdGFydChzdWIpLAogICAgICAgICAgICBkYXlfYmVmb3JlX2JpbGxpbmdfcGVyaW9kX3N0YXJ0LnRpbWVzdGFtcAogICAgICAgICkKCiAgICBkZWYgdGVzdF9nZXRfZGF5X2JlZm9yZV9uZXh0X2JpbGxpbmdfcGVyaW9kX3N0YXJ0X2Zvcl91bnVzZWRfc3ViKHNlbGYpOgogICAgICAgIHN1YiA9IG1ha2UuYV9zdWJzY3JpcHRpb24oKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb25lKFN1YnNjcmlwdGlvblNlcnZpY2UuZ2V0X2RheV9iZWZvcmVfbmV4dF9iaWxsaW5nX3BlcmlvZF9zdGFydChzdWIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ImZpeCIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBAc2tpcCg=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
