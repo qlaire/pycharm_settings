@@ -9,31 +9,11 @@
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
-        <mark key="'" line="18" column="12" />
-      </file>
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1554924997178">
-        <mark key="e" line="0" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
-        <mark key="'" line="36" column="20" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/subscription_service.py" timestamp="1555337254905">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="/test_subscription_service.py" timestamp="1555098952116">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="70" column="92" />
+      <file name="$USER_HOME$/Development/api/lib/orm/base/models.py" timestamp="1555360642379">
+        <mark key="'" line="304" column="6" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -44,26 +24,11 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" timestamp="1555337178308">
-        <mark key="'" line="3487" column="56" />
-        <mark key="[" line="3555" column="0" />
-        <mark key="]" line="3555" column="0" />
-        <mark key="^" line="3492" column="33" />
-        <mark key="." line="3555" column="0" />
-      </file>
-      <file name="/subscription_service.py" timestamp="1555098762302">
-        <mark key="'" line="22" column="3" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1555360519638">
+        <mark key="'" line="176" column="77" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555091228251">
-        <mark key="'" line="257" column="20" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/please/make.py" timestamp="1553717947686">
         <mark key="'" line="167" column="8" />
@@ -74,16 +39,6 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555352315910">
-        <mark key="'" line="1296" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/domain/test_device_subscription.py" timestamp="1555099708467">
-        <mark key="'" line="233" column="0" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="77" />
-        <mark key="." line="222" column="0" />
-        <mark key="^" line="227" column="83" />
-      </file>
       <file name="$USER_HOME$/Development/api/errors/ecomm.py" timestamp="1554390553010">
         <mark key="'" line="574" column="25" />
       </file>
@@ -93,6 +48,95 @@
         <mark key="]" line="149" column="12" />
         <mark key="^" line="151" column="27" />
         <mark key="." line="149" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/test_subscription_service.py" timestamp="1555337293145">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
+        <mark key="'" line="62" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1555095501765">
+        <mark key="'" line="148" column="68" />
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/Development/api/data/models/shared/consts.py" timestamp="1554216519182">
+        <mark key="'" line="554" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
+        <mark key="'" line="68" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/commands/unpause_subscription.py" timestamp="1554395961626">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1555337100281">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="74" column="12" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
+        <mark key="'" line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
+        <mark key="'" line="36" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/subscription_service.py" timestamp="1555337254905">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="/test_subscription_service.py" timestamp="1555098952116">
+        <mark key="'" line="51" column="2" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="70" column="92" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
+        <mark key="'" line="192" column="60" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
+        <mark key="'" line="382" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" timestamp="1555337178308">
+        <mark key="'" line="3813" column="56" />
+        <mark key="[" line="3881" column="0" />
+        <mark key="]" line="3881" column="0" />
+        <mark key="^" line="3818" column="33" />
+        <mark key="." line="3881" column="0" />
+      </file>
+      <file name="/subscription_service.py" timestamp="1555098762302">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
+        <mark key="'" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555091228251">
+        <mark key="'" line="257" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555352315910">
+        <mark key="'" line="1296" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/domain/test_device_subscription.py" timestamp="1555099708467">
+        <mark key="'" line="233" column="0" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="77" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="227" column="83" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
@@ -107,30 +151,14 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/test_subscription_service.py" timestamp="1555337293145">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_factory.py" timestamp="1554834511131">
         <mark key="'" line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
-        <mark key="'" line="62" column="16" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/templates/rider/subscriptions/confirm_pause.html" timestamp="1555099343573">
         <mark key="'" line="51" column="66" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555344830464">
         <mark key="'" line="1517" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1555095501765">
-        <mark key="'" line="148" column="68" />
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="41" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
@@ -151,30 +179,8 @@
       <file name="$USER_HOME$/Development/api/scripts/cron/send_due_subscriptions_to_charge_queue.py" timestamp="1554305314698">
         <mark key="'" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/shared/consts.py" timestamp="1554216519182">
-        <mark key="'" line="554" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
         <mark key="'" line="73" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
-        <mark key="'" line="68" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/commands/unpause_subscription.py" timestamp="1554395961626">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="^" line="22" column="41" />
-        <mark key="." line="22" column="41" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1555337100281">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="74" column="12" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1555006726803">
         <mark key="'" line="615" column="19" />
@@ -185,39 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1334" column="34" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1336" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1342" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1346" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1941" column="43" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="382" column="40" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="893" column="13" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1420" column="31" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1695" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1704" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="2959" column="47" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="1710" column="23" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1257" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1687" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1692" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="72" column="40" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="201" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="294" column="9" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="659" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="952" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1019" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1068" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1131" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1138" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1141" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1143" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1146" column="14" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1326" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1471" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1655" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="1684" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="2421" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="2423" column="34" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="128" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
       <jump line="258" column="20" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
@@ -285,6 +258,39 @@
       <jump line="167" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="150" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="77" column="27" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" />
+      <jump line="382" column="12" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" />
+      <jump line="193" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="194" column="41" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="196" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="197" column="29" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="198" column="25" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="203" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="205" column="54" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="207" column="51" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="53" column="30" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="122" column="74" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="124" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="126" column="59" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="127" column="25" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="145" column="51" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="184" column="28" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="185" column="38" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="188" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="191" column="77" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="192" column="60" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" />
+      <jump line="183" column="28" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="186" column="25" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="188" column="15" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="189" column="29" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="190" column="73" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="193" column="51" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="14" column="30" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="61" column="30" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="176" column="77" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="304" column="6" filename="$USER_HOME$/Development/api/lib/orm/base/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -294,7 +300,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>current_billing_period_start</text>
+        <text>find_single</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aW1lX3RvX3BhdXNlID0gYXJyb3cuZ2V0KHNlbGYuZmViX2ZpZnRlZW50aCkuc2hpZnQoZGF5cz0xKQoKICAgICAgICB3aXRoIHNlbGYucGF0Y2hfdGltZShub3c9dGltZV90b19wYXVzZSk6Cg==</text>
@@ -331,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>current_billing_period_start</last-search>
+      <last-search>find_single</last-search>
       <last-offset />
-      <last-pattern>current_billing_period_start</last-pattern>
+      <last-pattern>find_single</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -341,9 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enablement</entry>
-        <entry>refactor</entry>
-        <entry>Enablement</entry>
         <entry>Model.enablement</entry>
         <entry encoding="base64">XDxNb2RlbFw+</entry>
         <entry>confirm_pause</entry>
@@ -361,6 +364,9 @@
         <entry>cancel_pause</entry>
         <entry>next_billing_date</entry>
         <entry>current_billing_period_start</entry>
+        <entry>zip</entry>
+        <entry>postal</entry>
+        <entry>find_single</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
