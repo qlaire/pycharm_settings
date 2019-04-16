@@ -72,6 +72,11 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" timestamp="1555423394092">
         <mark key="'" line="72" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/api/config.json" timestamp="1555430144243">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="69" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/shared/consts.py" timestamp="1554216519182">
         <mark key="'" line="554" column="0" />
       </file>
@@ -193,6 +198,7 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
         <mark key="'" line="73" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/api/lib/config/clusters.py" timestamp="1555430094935" />
       <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1555006726803">
         <mark key="'" line="615" column="19" />
         <mark key="[" line="692" column="59" />
@@ -304,8 +310,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0.5.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJFQ09NTV9VU19TRUdNRU5UX1dSSVRFX0tFWSI6ICJabzVoT2dYRXVGZmZxN2hKQWIyQTlJN1lVNmhFOXdaRyIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>0.5.1</text>
@@ -314,34 +320,34 @@
         <text>snappy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lzX2Ntc19zdWJfcGF1c2luZ19ydWxlc191cGRhdGVfZW5hYmxlZChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGlzX2Ntc19zdWJfcGF1c2luZ19ydWxlc191cGRhdGVfZW5hYmxlZCgpKQoKICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJjbXNfc3ViX3BhdXNpbmdfcnVsZXNfdXBkYXRlIiwgZW5hYmxlZD1UcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShpc19jbXNfc3ViX3BhdXNpbmdfcnVsZXNfdXBkYXRlX2VuYWJsZWQoKSkK</text>
+        <text encoding="base64">ICAgICJFQ09NTV9VU19TRUdNRU5UX1dSSVRFX0tFWSI6ICJabzVoT2dYRXVGZmZxN2hKQWIyQTlJN1lVNmhFOXdaRyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBza2lwCg==</text>
+        <text encoding="base64">ICAgICJFQ09NTV9VU19TRUdNRU5UX1dSSVRFX0tFWV9MT0NBTCI6ICIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
+        <text encoding="base64">ICAgIEBza2lwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgc2tpcAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgc2tpcAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ImZpeCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamoK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
