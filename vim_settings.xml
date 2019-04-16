@@ -42,6 +42,13 @@
       <file name="$USER_HOME$/Development/api/rest_api/app/server/utils.py" timestamp="1554390568796">
         <mark key="'" line="386" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/api/pip-requirements.txt" timestamp="1555429154909">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="19" />
+        <mark key="]" line="78" column="20" />
+        <mark key="." line="78" column="20" />
+        <mark key="^" line="78" column="19" />
+      </file>
       <file name="$USER_HOME$/Development/api/errors/ecomm.py" timestamp="1554390553010">
         <mark key="'" line="574" column="25" />
       </file>
@@ -132,7 +139,7 @@
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555352315910">
         <mark key="'" line="1296" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555426997847">
+      <file name="/Dummy.txt" timestamp="1555429481654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/domain/test_device_subscription.py" timestamp="1555099708467">
@@ -195,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3299" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
       <jump line="3457" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
       <jump line="3650" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
       <jump line="3474" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
@@ -295,16 +301,17 @@
       <jump line="26" column="16" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" />
       <jump line="72" column="8" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBza2lwCg==</text>
+      <register name="&quot;" type="4">
+        <text>0.5.1</text>
       </register>
       <register name="-" type="4">
-        <text>for_usa</text>
+        <text>0.5.1</text>
       </register>
       <register name="/" type="4">
-        <text>test_send_email</text>
+        <text>snappy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2lzX2Ntc19zdWJfcGF1c2luZ19ydWxlc191cGRhdGVfZW5hYmxlZChzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGlzX2Ntc19zdWJfcGF1c2luZ19ydWxlc191cGRhdGVfZW5hYmxlZCgpKQoKICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJjbXNfc3ViX3BhdXNpbmdfcnVsZXNfdXBkYXRlIiwgZW5hYmxlZD1UcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShpc19jbXNfc3ViX3BhdXNpbmdfcnVsZXNfdXBkYXRlX2VuYWJsZWQoKSkK</text>
@@ -341,9 +348,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test_send_email</last-search>
+      <last-search>snappy</last-search>
       <last-offset />
-      <last-pattern>test_send_email</last-pattern>
+      <last-pattern>snappy</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0X3BhdXNlX3N1YnNjcmlwdGlvbnNfcG9zdFw+</entry>
         <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfaGFuZGxlc19ub19tb250aHNfdG9fcGF1c2VcPg==</entry>
         <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfaGFuZGxlc19pbnZhbGlkX21vbnRoX3R5cGVcPg==</entry>
         <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfcmVuZGVyc19jb3JyZWN0X2RhdGVzX2Zvcl91bnBhdXNlZF9zdWJcPg==</entry>
@@ -371,6 +377,7 @@
         <entry encoding="base64">XDxpc191c2VfcG9zdGFsX2NvZGVfZm9yX3VzYV9lbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxpc191c2VfcG9zdGFsX2NvZGVfb25seV9lbmFibGVkXD4=</entry>
         <entry>test_send_email</entry>
+        <entry>snappy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
