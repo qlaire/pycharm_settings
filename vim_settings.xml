@@ -59,6 +59,9 @@
         <mark key="^" line="151" column="27" />
         <mark key="." line="149" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" timestamp="1555441094400">
+        <mark key="'" line="330" column="42" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/test_subscription_service.py" timestamp="1555424127888">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="65" column="0" />
@@ -119,8 +122,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" timestamp="1555361325227">
-        <mark key="'" line="207" column="72" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" timestamp="1555441041627">
+        <mark key="'" line="209" column="15" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
         <mark key="'" line="382" column="12" />
@@ -135,8 +138,8 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555363586788">
-        <mark key="'" line="143" column="0" />
+      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555440424993">
+        <mark key="'" line="150" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555091228251">
         <mark key="'" line="257" column="20" />
@@ -208,14 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3457" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3650" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3474" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3651" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3300" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3377" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3326" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
-      <jump line="3494" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
       <jump line="3424" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
       <jump line="3568" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
       <jump line="3495" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_riders.py" />
@@ -296,7 +291,6 @@
       <jump line="25" column="39" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" />
       <jump line="175" column="33" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
       <jump line="172" column="40" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="207" column="72" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
       <jump line="143" column="0" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
       <jump line="23" column="41" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
       <jump line="155" column="59" filename="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" />
@@ -308,6 +302,15 @@
       <jump line="30" column="8" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" />
       <jump line="72" column="8" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
+      <jump line="150" column="0" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
+      <jump line="71" column="36" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
+      <jump line="151" column="10" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
+      <jump line="210" column="43" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
+      <jump line="207" column="24" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
+      <jump line="209" column="15" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
+      <jump line="329" column="17" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
+      <jump line="330" column="42" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -317,7 +320,7 @@
         <text>0.5.1</text>
       </register>
       <register name="/" type="4">
-        <text>snappy</text>
+        <text>shipment_profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJFQ09NTV9VU19TRUdNRU5UX1dSSVRFX0tFWSI6ICJabzVoT2dYRXVGZmZxN2hKQWIyQTlJN1lVNmhFOXdaRyIsCg==</text>
@@ -354,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>snappy</last-search>
+      <last-search>shipment_profile</last-search>
       <last-offset />
-      <last-pattern>snappy</last-pattern>
+      <last-pattern>shipment_profile</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfaGFuZGxlc19ub19tb250aHNfdG9fcGF1c2VcPg==</entry>
-        <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfaGFuZGxlc19pbnZhbGlkX21vbnRoX3R5cGVcPg==</entry>
         <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfcmVuZGVyc19jb3JyZWN0X2RhdGVzX2Zvcl91bnBhdXNlZF9zdWJcPg==</entry>
         <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfcmVuZGVyc19jb3JyZWN0X2RhdGVzX2Zvcl9wYXVzZWRfc3ViXD4=</entry>
         <entry encoding="base64">XDx0ZXN0X2NvbmZpcm1fcGF1c2VfZXJyb3JfaW52YWxpZF9zdWJfaWRcPg==</entry>
@@ -375,7 +376,6 @@
         <entry>cancel_pause</entry>
         <entry>next_billing_date</entry>
         <entry>current_billing_period_start</entry>
-        <entry>zip</entry>
         <entry>find_single</entry>
         <entry>order</entry>
         <entry>history</entry>
@@ -384,6 +384,9 @@
         <entry encoding="base64">XDxpc191c2VfcG9zdGFsX2NvZGVfb25seV9lbmFibGVkXD4=</entry>
         <entry>test_send_email</entry>
         <entry>snappy</entry>
+        <entry>zipcode</entry>
+        <entry>zip</entry>
+        <entry>shipment_profile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
