@@ -154,8 +154,12 @@
       <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555440424993">
         <mark key="'" line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555091228251">
-        <mark key="'" line="257" column="20" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1555511341812">
+        <mark key="'" line="259" column="20" />
+        <mark key="[" line="239" column="16" />
+        <mark key="]" line="239" column="26" />
+        <mark key="." line="239" column="26" />
+        <mark key="^" line="239" column="26" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555352315910">
         <mark key="'" line="1296" column="8" />
@@ -334,43 +338,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Zipcode</text>
+        <text>last_billing_attempted_at</text>
       </register>
       <register name="-" type="4">
-        <text>Zipcode</text>
+        <text>last_billing_attempted_at</text>
       </register>
       <register name="/" type="4">
         <text>Zipcode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHN1Yi5uZXh0X2JpbGxpbmdfZGF0ZSwgYXJyb3cuZ2V0KAogICAgICAgICAgICBzdWIubGFzdF9iaWxsaW5nX2F0dGVtcHRlZF9hdCkuc2hpZnQobW9udGhzPTEpLnRpbWVzdGFtcCwgZGVsdGE9MTAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHRoZSBwb3N0YWwgY29kZSBibG9jay0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHBhdXNlIHRpbWUgKyAxNSAgKyBkYXlzICsgMSBtb250aAogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc3ViLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy5nZXQoCiAgICAgICAgICAgIHN1Yi5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MTUsIG1vbnRocz0xKS50aW1lc3RhbXAsIGRlbHRhPTEwMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHRoZSBwb3N0YWwgY29kZSBibG9jay0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJFQ09NTV9VU19TRUdNRU5UX1dSSVRFX0tFWV9MT0NBTCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBza2lwCg==</text>
+        <text encoding="base64">ICAgICJFQ09NTV9VU19TRUdNRU5UX1dSSVRFX0tFWV9MT0NBTCI6ICIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
+        <text encoding="base64">ICAgIEBza2lwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgc2tpcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgc2tpcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyb3cuZ2V0KHN1Yi51bnBhdXNlZF9vbikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
