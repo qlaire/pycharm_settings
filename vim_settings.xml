@@ -14,10 +14,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1555444785893">
         <mark key="'" line="143" column="28" />
-        <mark key="[" line="881" column="0" />
-        <mark key="]" line="881" column="77" />
-        <mark key="^" line="881" column="60" />
-        <mark key="." line="881" column="60" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/base/models.py" timestamp="1555360642379">
         <mark key="'" line="304" column="6" />
@@ -219,13 +215,6 @@
         <mark key="'" line="73" column="4" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/config/clusters.py" timestamp="1555430094935" />
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555444939703">
-        <mark key="'" line="2171" column="50" />
-        <mark key="[" line="243" column="33" />
-        <mark key="]" line="243" column="33" />
-        <mark key="^" line="222" column="38" />
-        <mark key="." line="243" column="42" />
-      </file>
       <file name="$USER_HOME$/Development/api/tests/rest_api/app/server/controllers/test_subscription.py" timestamp="1555006726803">
         <mark key="'" line="615" column="19" />
         <mark key="[" line="692" column="59" />
