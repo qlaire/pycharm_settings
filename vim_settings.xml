@@ -106,6 +106,9 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
       </file>
+      <file name="/Python Console" timestamp="1555701768285">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
@@ -133,6 +136,9 @@
       </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555690451133">
         <mark key="'" line="412" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555522303074">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
@@ -175,22 +181,18 @@
         <mark key="^" line="516" column="28" />
         <mark key="." line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555696457718">
-        <mark key="'" line="287" column="0" />
-        <mark key="[" line="2612" column="9" />
-        <mark key="]" line="2613" column="7" />
-        <mark key="^" line="2613" column="7" />
-        <mark key="." line="2613" column="7" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555702144165">
+        <mark key="'" line="2932" column="45" />
+        <mark key="[" line="2648" column="28" />
+        <mark key="]" line="2649" column="7" />
+        <mark key="^" line="2649" column="7" />
+        <mark key="." line="2649" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="28" column="47" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="15" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
-      <jump line="22" column="53" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
       <jump line="55" column="81" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
       <jump line="16" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
       <jump line="23" column="53" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
@@ -277,7 +279,6 @@
       <jump line="412" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="31" column="59" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="2684" column="35" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="3078" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="73" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="2568" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
@@ -287,19 +288,24 @@
       <jump line="2883" column="68" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="288" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="287" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2721" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="674" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="660" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2932" column="45" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0ID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPSJTdWJzY3JpcHRpb24gdG8gdGhlIFBlbG90b24gc2VydmljZSIsCiAgICAgICAgICAgIG5hbWU9IlN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHNsdWc9InN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHRheF90eXBlPVRBWF9UWVBFLk5PTl9UQVhBQkxFLAogICAgICAgICAgICBpc190YW5naWJsZT1GYWxzZSwKICAgICAgICAgICAgY2FuX3VzZXJsZXNzX2NoYXJnZT1GYWxzZQogICAgICAgICkKCiAgICAgICAgc2VsZi5zdGFuZGFyZF9zdWJzY3JpcHRpb25fcHJvZHVjdF9vcHRpb24gPSBNb2RlbC5Qcm9kdWN0T3B0aW9uLnNhdmVfd2l0aCgKICAgICAgICAgICAgcHJvZHVjdF9pZD1zZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0LmlkLAogICAgICAgICAgICBza3U9IlBMLVNVQi0wMSIsCiAgICAgICAgICAgIHNsdWc9IjF5ciIsCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZT0iU3RhbmRhcmQgTW9udGhseSBTdWJzY3JpcHRpb24iLAogICAgICAgICAgICBtZXRhPXsKICAgICAgICAgICAgICAgICJzdWJzY3JpcHRpb25fZ3VhcmFudGVlIjogMTIsCiAgICAgICAgICAgICAgICAic3Vic2NyaXB0aW9uX2Nvc3RfaW5fY2VudHMiOiAzOTAwfSwKICAgICAgICApCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb25fb3JkZXJfaXRlbSA9IE1vZGVsLk9yZGVySXRlbS5zYXZlX3dpdGgoCiAgICAgICAgICAgIG9yZGVyX2lkPXNlbGYub3JkZXIuaWQsCiAgICAgICAgICAgIHByb2R1Y3Rfb3B0aW9uX2lkPXNlbGYuc3RhbmRhcmRfc3Vic2NyaXB0aW9uX3Byb2R1Y3Rfb3B0aW9uLmlkLAogICAgICAgICAgICBzaGlwX3F1YW50aXR5PTIsCiAgICAgICAgICAgIHN1YnRvdGFsX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHBhaWRfaW5fY2VudHM9MSkKCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19vcmRlcl9pdGVtX2lkPXNlbGYuc3Vic2NyaXB0aW9uX29yZGVyX2l0ZW0uaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJpa2VfcmV0dXJuID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGlzX3RhbmdpYmxlPVRydWUsCiAgICAgICAgICAgIHNsdWc9J2Jpa2UtcmV0dXJuJywKICAgICAgICAgICAgcHJvZHVjdF9saW5lPSdiaWtlX3JldHVybicsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UpCgogICAgICAgIHNlbGYuYmlrZV9yZXR1cm5fb3B0aW9uID0gTW9kZWwuUHJvZHVjdE9wdGlvbi5zYXZlX3dpdGgoCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c2VsZi5iaWtlX3JldHVybi5pZCwKICAgICAgICAgICAgc2x1Zz0nYmlrZS1yZXR1cm4nLAogICAgICAgICAgICBwcmljZV9pbl9jZW50cz0wKQo=</text>
       </register>
       <register name="-" type="4">
         <text>ux_warehouse1</text>
       </register>
       <register name="/" type="4">
-        <text>self.subscription</text>
+        <text>uxwarehouse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0ID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPSJTdWJzY3JpcHRpb24gdG8gdGhlIFBlbG90b24gc2VydmljZSIsCiAgICAgICAgICAgIG5hbWU9IlN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHNsdWc9InN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHRheF90eXBlPVRBWF9UWVBFLk5PTl9UQVhBQkxFLAogICAgICAgICAgICBpc190YW5naWJsZT1GYWxzZSwKICAgICAgICAgICAgY2FuX3VzZXJsZXNzX2NoYXJnZT1GYWxzZQogICAgICAgICkKCiAgICAgICAgc2VsZi5zdGFuZGFyZF9zdWJzY3JpcHRpb25fcHJvZHVjdF9vcHRpb24gPSBNb2RlbC5Qcm9kdWN0T3B0aW9uLnNhdmVfd2l0aCgKICAgICAgICAgICAgcHJvZHVjdF9pZD1zZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0LmlkLAogICAgICAgICAgICBza3U9IlBMLVNVQi0wMSIsCiAgICAgICAgICAgIHNsdWc9IjF5ciIsCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZT0iU3RhbmRhcmQgTW9udGhseSBTdWJzY3JpcHRpb24iLAogICAgICAgICAgICBtZXRhPXsKICAgICAgICAgICAgICAgICJzdWJzY3JpcHRpb25fZ3VhcmFudGVlIjogMTIsCiAgICAgICAgICAgICAgICAic3Vic2NyaXB0aW9uX2Nvc3RfaW5fY2VudHMiOiAzOTAwfSwKICAgICAgICApCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb25fb3JkZXJfaXRlbSA9IE1vZGVsLk9yZGVySXRlbS5zYXZlX3dpdGgoCiAgICAgICAgICAgIG9yZGVyX2lkPXNlbGYub3JkZXIuaWQsCiAgICAgICAgICAgIHByb2R1Y3Rfb3B0aW9uX2lkPXNlbGYuc3RhbmRhcmRfc3Vic2NyaXB0aW9uX3Byb2R1Y3Rfb3B0aW9uLmlkLAogICAgICAgICAgICBzaGlwX3F1YW50aXR5PTIsCiAgICAgICAgICAgIHN1YnRvdGFsX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHBhaWRfaW5fY2VudHM9MSkKCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19vcmRlcl9pdGVtX2lkPXNlbGYuc3Vic2NyaXB0aW9uX29yZGVyX2l0ZW0uaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJpa2VfcmV0dXJuID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGlzX3RhbmdpYmxlPVRydWUsCiAgICAgICAgICAgIHNsdWc9J2Jpa2UtcmV0dXJuJywKICAgICAgICAgICAgcHJvZHVjdF9saW5lPSdiaWtlX3JldHVybicsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UpCgogICAgICAgIHNlbGYuYmlrZV9yZXR1cm5fb3B0aW9uID0gTW9kZWwuUHJvZHVjdE9wdGlvbi5zYXZlX3dpdGgoCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c2VsZi5iaWtlX3JldHVybi5pZCwKICAgICAgICAgICAgc2x1Zz0nYmlrZS1yZXR1cm4nLAogICAgICAgICAgICBwcmljZV9pbl9jZW50cz0wKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
@@ -333,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.subscription</last-search>
+      <last-search>uxwarehouse</last-search>
       <last-offset />
-      <last-pattern>self.subscription</last-pattern>
+      <last-pattern>uxwarehouse</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -343,13 +349,10 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry encoding="base64">XDx1anNvblw+</entry>
         <entry>_get_shipping_warehouse</entry>
         <entry>postal_code</entry>
         <entry>postal_code(</entry>
         <entry>zipcode</entry>
-        <entry encoding="base64">XDxual96aXBcPg==</entry>
         <entry>nj_postal_code</entry>
         <entry>is_paying</entry>
         <entry>is_paying(</entry>
@@ -363,6 +366,9 @@
         <entry encoding="base64">XDx1eF93YXJlaG91c2UxXD4=</entry>
         <entry encoding="base64">XDxzdWJzY3JpcHRpb25cPg==</entry>
         <entry>self.subscription</entry>
+        <entry encoding="base64">XDx0ZXN0X2Jpa2VfcmV0dXJuXD4=</entry>
+        <entry encoding="base64">XDxual96aXBcPg==</entry>
+        <entry>uxwarehouse</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
