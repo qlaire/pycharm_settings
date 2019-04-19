@@ -37,7 +37,11 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555686784939" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555688527203">
+        <mark key="'" line="2204" column="31" />
+        <mark key="n" line="843" column="61" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555687513725" />
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
       </file>
@@ -100,12 +104,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555532028719">
-        <mark key="'" line="23" column="53" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="41" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="11" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555688231188">
+        <mark key="'" line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
@@ -124,8 +124,8 @@
         <mark key="[" line="140" column="9" />
         <mark key="]" line="140" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555513012275">
-        <mark key="'" line="1295" column="8" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555688769666">
+        <mark key="'" line="1455" column="16" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
@@ -161,13 +161,17 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
         <mark key="'" line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" timestamp="1555530560943">
-        <mark key="'" line="139" column="50" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" timestamp="1555688249196">
+        <mark key="'" line="511" column="13" />
+        <mark key="[" line="469" column="0" />
+        <mark key="]" line="469" column="0" />
+        <mark key="^" line="516" column="28" />
+        <mark key="." line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555686763578">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555688097232">
         <mark key="'" line="2496" column="30" />
-        <mark key="[" line="2541" column="22" />
-        <mark key="]" line="2541" column="23" />
+        <mark key="[" line="2594" column="0" />
+        <mark key="]" line="2594" column="32" />
         <mark key="." line="2541" column="23" />
         <mark key="^" line="2502" column="54" />
       </file>
@@ -183,16 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="851" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="858" column="37" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="136" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="143" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="630" column="37" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="384" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="7" column="11" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" />
-      <jump line="13" column="18" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="325" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="402" column="42" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="290" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
@@ -283,55 +277,65 @@
       <jump line="1070" column="30" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="186" column="22" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="750" column="17" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="469" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="59" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="72" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="136" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="525" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="589" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="511" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="2204" column="31" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1141" column="35" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1455" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>StringIO.</text>
+        <text>nj_zip</text>
       </register>
       <register name="/" type="4">
-        <text>postal_code(</text>
+        <text>is_paying(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRyeT1DT1VOVFJJRVMuVVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB6aXBfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRza2xmago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB6aXBfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudHJ5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhdXNlIHRpbWUgKyAxNSAgKyBkYXlzICsgMSBtb250aAogICAgICAgIHNlbGYuYXNzZXJ0QWxtb3N0RXF1YWwoc3ViLm5leHRfYmlsbGluZ19kYXRlLCBhcnJvdy5nZXQoCiAgICAgICAgICAgIHN1Yi5wYXVzZWRfb24pLnNoaWZ0KGRheXM9MTUsIG1vbnRocz0xKS50aW1lc3RhbXAsIGRlbHRhPTEwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRza2xmago=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>postal_code(</last-search>
+      <last-search>is_paying(</last-search>
       <last-offset />
-      <last-pattern>postal_code(</last-pattern>
+      <last-pattern>is_paying(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -339,10 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
-        <entry>_get_shipping</entry>
-        <entry encoding="base64">XDx6aXBfY29kZVw+</entry>
-        <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
         <entry>create_request</entry>
         <entry encoding="base64">XDxjcmVhdGVfcmVxdWVzdFw+</entry>
         <entry>assert</entry>
@@ -356,9 +356,13 @@
         <entry>json</entry>
         <entry encoding="base64">XDx1anNvblw+</entry>
         <entry>_get_shipping_warehouse</entry>
-        <entry>zipcode</entry>
         <entry>postal_code</entry>
         <entry>postal_code(</entry>
+        <entry>zipcode</entry>
+        <entry encoding="base64">XDxual96aXBcPg==</entry>
+        <entry>nj_postal_code</entry>
+        <entry>is_paying</entry>
+        <entry>is_paying(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
