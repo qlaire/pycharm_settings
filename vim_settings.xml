@@ -15,11 +15,11 @@
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1555529947715">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1555695165313">
         <mark key="'" line="143" column="28" />
-        <mark key="[" line="821" column="20" />
-        <mark key="]" line="821" column="31" />
-        <mark key="." line="821" column="31" />
+        <mark key="[" line="797" column="22" />
+        <mark key="]" line="797" column="23" />
+        <mark key="." line="797" column="23" />
         <mark key="^" line="821" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/base/models.py" timestamp="1555360642379">
@@ -41,7 +41,9 @@
         <mark key="'" line="436" column="17" />
         <mark key="n" line="843" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555687513725" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555695616181">
+        <mark key="'" line="31" column="59" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
       </file>
@@ -88,8 +90,11 @@
       <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1555444609950">
-        <mark key="'" line="7" column="11" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1555695489937">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
@@ -104,8 +109,10 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555695043799">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555695437983">
         <mark key="'" line="1" column="53" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="23" column="61" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
@@ -168,30 +175,18 @@
         <mark key="^" line="516" column="28" />
         <mark key="." line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555688097232">
-        <mark key="'" line="2496" column="30" />
-        <mark key="[" line="2594" column="0" />
-        <mark key="]" line="2594" column="32" />
-        <mark key="." line="2541" column="23" />
-        <mark key="^" line="2502" column="54" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555696457718">
+        <mark key="'" line="287" column="0" />
+        <mark key="[" line="2612" column="9" />
+        <mark key="]" line="2613" column="7" />
+        <mark key="^" line="2613" column="7" />
+        <mark key="." line="2613" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2171" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="1295" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="843" column="61" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="17" column="42" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="242" column="27" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="204" column="28" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="180" column="32" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="267" column="60" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="379" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="28" column="47" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="15" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
@@ -280,55 +275,67 @@
       <jump line="1945" column="43" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="38" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="412" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="31" column="59" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
+      <jump line="2684" column="35" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="3078" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2568" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2979" column="53" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2980" column="52" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2981" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2883" column="68" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="288" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="287" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0ID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPSJTdWJzY3JpcHRpb24gdG8gdGhlIFBlbG90b24gc2VydmljZSIsCiAgICAgICAgICAgIG5hbWU9IlN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHNsdWc9InN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHRheF90eXBlPVRBWF9UWVBFLk5PTl9UQVhBQkxFLAogICAgICAgICAgICBpc190YW5naWJsZT1GYWxzZSwKICAgICAgICAgICAgY2FuX3VzZXJsZXNzX2NoYXJnZT1GYWxzZQogICAgICAgICkKCiAgICAgICAgc2VsZi5zdGFuZGFyZF9zdWJzY3JpcHRpb25fcHJvZHVjdF9vcHRpb24gPSBNb2RlbC5Qcm9kdWN0T3B0aW9uLnNhdmVfd2l0aCgKICAgICAgICAgICAgcHJvZHVjdF9pZD1zZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0LmlkLAogICAgICAgICAgICBza3U9IlBMLVNVQi0wMSIsCiAgICAgICAgICAgIHNsdWc9IjF5ciIsCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZT0iU3RhbmRhcmQgTW9udGhseSBTdWJzY3JpcHRpb24iLAogICAgICAgICAgICBtZXRhPXsKICAgICAgICAgICAgICAgICJzdWJzY3JpcHRpb25fZ3VhcmFudGVlIjogMTIsCiAgICAgICAgICAgICAgICAic3Vic2NyaXB0aW9uX2Nvc3RfaW5fY2VudHMiOiAzOTAwfSwKICAgICAgICApCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb25fb3JkZXJfaXRlbSA9IE1vZGVsLk9yZGVySXRlbS5zYXZlX3dpdGgoCiAgICAgICAgICAgIG9yZGVyX2lkPXNlbGYub3JkZXIuaWQsCiAgICAgICAgICAgIHByb2R1Y3Rfb3B0aW9uX2lkPXNlbGYuc3RhbmRhcmRfc3Vic2NyaXB0aW9uX3Byb2R1Y3Rfb3B0aW9uLmlkLAogICAgICAgICAgICBzaGlwX3F1YW50aXR5PTIsCiAgICAgICAgICAgIHN1YnRvdGFsX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHBhaWRfaW5fY2VudHM9MSkKCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19vcmRlcl9pdGVtX2lkPXNlbGYuc3Vic2NyaXB0aW9uX29yZGVyX2l0ZW0uaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>nj_zip</text>
+        <text>ux_warehouse1</text>
       </register>
       <register name="/" type="4">
-        <text>get_balance_in_months</text>
+        <text>self.subscription</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRyeT1DT1VOVFJJRVMuVVMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0ID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPSJTdWJzY3JpcHRpb24gdG8gdGhlIFBlbG90b24gc2VydmljZSIsCiAgICAgICAgICAgIG5hbWU9IlN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHNsdWc9InN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIHRheF90eXBlPVRBWF9UWVBFLk5PTl9UQVhBQkxFLAogICAgICAgICAgICBpc190YW5naWJsZT1GYWxzZSwKICAgICAgICAgICAgY2FuX3VzZXJsZXNzX2NoYXJnZT1GYWxzZQogICAgICAgICkKCiAgICAgICAgc2VsZi5zdGFuZGFyZF9zdWJzY3JpcHRpb25fcHJvZHVjdF9vcHRpb24gPSBNb2RlbC5Qcm9kdWN0T3B0aW9uLnNhdmVfd2l0aCgKICAgICAgICAgICAgcHJvZHVjdF9pZD1zZWxmLnN0YW5kYXJkX3N1YnNjcmlwdGlvbl9wcm9kdWN0LmlkLAogICAgICAgICAgICBza3U9IlBMLVNVQi0wMSIsCiAgICAgICAgICAgIHNsdWc9IjF5ciIsCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZT0iU3RhbmRhcmQgTW9udGhseSBTdWJzY3JpcHRpb24iLAogICAgICAgICAgICBtZXRhPXsKICAgICAgICAgICAgICAgICJzdWJzY3JpcHRpb25fZ3VhcmFudGVlIjogMTIsCiAgICAgICAgICAgICAgICAic3Vic2NyaXB0aW9uX2Nvc3RfaW5fY2VudHMiOiAzOTAwfSwKICAgICAgICApCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb25fb3JkZXJfaXRlbSA9IE1vZGVsLk9yZGVySXRlbS5zYXZlX3dpdGgoCiAgICAgICAgICAgIG9yZGVyX2lkPXNlbGYub3JkZXIuaWQsCiAgICAgICAgICAgIHByb2R1Y3Rfb3B0aW9uX2lkPXNlbGYuc3RhbmRhcmRfc3Vic2NyaXB0aW9uX3Byb2R1Y3Rfb3B0aW9uLmlkLAogICAgICAgICAgICBzaGlwX3F1YW50aXR5PTIsCiAgICAgICAgICAgIHN1YnRvdGFsX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHBhaWRfaW5fY2VudHM9MSkKCiAgICAgICAgc2VsZi5zdWJzY3JpcHRpb24gPSBtYWtlLmFfc3Vic2NyaXB0aW9uKAogICAgICAgICAgICB1c2VyPXNlbGYudXNlciwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19vcmRlcl9pdGVtX2lkPXNlbGYuc3Vic2NyaXB0aW9uX29yZGVyX2l0ZW0uaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3YXJlaG91c2UgPSBzZWxmLl9nZXRfc2hpcHBpbmdfd2FyZWhvdXNlKHNlbGYuc2hpcG1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB6aXBfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB6aXBfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRza2xmago=</text>
+        <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>get_balance_in_months</last-search>
+      <last-search>self.subscription</last-search>
       <last-offset />
-      <last-pattern>get_balance_in_months</last-pattern>
+      <last-pattern>self.subscription</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -336,12 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>service_warehouse</entry>
-        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
-        <entry>zip</entry>
-        <entry>use_balance</entry>
-        <entry encoding="base64">XDx1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3JcPg==</entry>
-        <entry>balance_in_months</entry>
         <entry>json</entry>
         <entry encoding="base64">XDx1anNvblw+</entry>
         <entry>_get_shipping_warehouse</entry>
@@ -356,6 +357,12 @@
         <entry>would_be_cancellation_time</entry>
         <entry encoding="base64">XDxsYXN0X2JpbGxpbmdfYXR0ZW1wdGVkX2F0XD4=</entry>
         <entry>get_balance_in_months</entry>
+        <entry encoding="base64">XDxYcG9VU0Jpa2VSZXR1cm5cPg==</entry>
+        <entry>setUp</entry>
+        <entry encoding="base64">XDxiaWtlX3JldHVybl9vcHRpb25cPg==</entry>
+        <entry encoding="base64">XDx1eF93YXJlaG91c2UxXD4=</entry>
+        <entry encoding="base64">XDxzdWJzY3JpcHRpb25cPg==</entry>
+        <entry>self.subscription</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
