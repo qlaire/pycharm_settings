@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555688231188">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555695043799">
         <mark key="'" line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
@@ -174,13 +174,6 @@
         <mark key="]" line="2594" column="32" />
         <mark key="." line="2541" column="23" />
         <mark key="^" line="2502" column="54" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1555529976220">
-        <mark key="'" line="28" column="47" />
-        <mark key="[" line="384" column="69" />
-        <mark key="]" line="384" column="73" />
-        <mark key="^" line="384" column="73" />
-        <mark key="." line="384" column="73" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
