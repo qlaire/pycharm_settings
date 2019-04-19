@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1555686902491">
+        <mark key="'" line="1070" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
       </file>
@@ -24,9 +27,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/tests/data/test_subscription.py" timestamp="1555684114263">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="832" column="0" />
-        <mark key="]" line="832" column="0" />
-        <mark key="." line="832" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -37,15 +37,9 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555513197731">
-        <mark key="'" line="843" column="61" />
-        <mark key="n" line="843" column="61" />
-      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555686784939" />
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
         <mark key="'" line="12" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1555360519638">
-        <mark key="'" line="176" column="77" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -96,6 +90,10 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/api/mq/app/queues/users.py" timestamp="1555685993514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
       </file>
@@ -115,6 +113,9 @@
       <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
         <mark key="'" line="382" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1555687273156">
+        <mark key="'" line="750" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
@@ -125,9 +126,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555513012275">
         <mark key="'" line="1295" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555522303074">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
@@ -166,10 +164,11 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" timestamp="1555530560943">
         <mark key="'" line="139" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555529885286">
-        <mark key="[" line="2502" column="0" />
-        <mark key="]" line="2567" column="69" />
-        <mark key="." line="2502" column="30" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555686763578">
+        <mark key="'" line="2496" column="30" />
+        <mark key="[" line="2541" column="22" />
+        <mark key="]" line="2541" column="23" />
+        <mark key="." line="2541" column="23" />
         <mark key="^" line="2502" column="54" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1555529976220">
@@ -184,21 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="12" column="3" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="389" column="74" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="391" column="74" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="393" column="15" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="394" column="37" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="383" column="47" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="386" column="61" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="387" column="15" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="388" column="23" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="22" column="20" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="474" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="567" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="149" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="181" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
       <jump line="378" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
       <jump line="851" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
@@ -284,19 +268,34 @@
       <jump line="323" column="13" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
       <jump line="324" column="43" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="33" column="68" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="129" column="36" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
+      <jump line="2468" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2486" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2496" column="30" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="43" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="267" column="17" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="343" column="44" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="930" column="38" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1069" column="30" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1070" column="30" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="186" column="22" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="750" column="17" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="-" type="4">
         <text>StringIO.</text>
       </register>
       <register name="/" type="4">
-        <text>balance_in_months</text>
+        <text>postal_code(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>balance_in_months</last-search>
+      <last-search>postal_code(</last-search>
       <last-offset />
-      <last-pattern>balance_in_months</last-pattern>
+      <last-pattern>postal_code(</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -340,16 +339,10 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X3NoaXBwaW5nX3dhcmVob3VzZVw+</entry>
-        <entry>submit_order</entry>
-        <entry>Zipcode</entry>
-        <entry>get_balance_in</entry>
-        <entry>balance_in_months_refactored</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry>_get_shipping</entry>
         <entry encoding="base64">XDx6aXBfY29kZVw+</entry>
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
-        <entry>_get_shipping_warehouse</entry>
         <entry>create_request</entry>
         <entry encoding="base64">XDxjcmVhdGVfcmVxdWVzdFw+</entry>
         <entry>assert</entry>
@@ -360,6 +353,12 @@
         <entry>use_balance</entry>
         <entry encoding="base64">XDx1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3JcPg==</entry>
         <entry>balance_in_months</entry>
+        <entry>json</entry>
+        <entry encoding="base64">XDx1anNvblw+</entry>
+        <entry>_get_shipping_warehouse</entry>
+        <entry>zipcode</entry>
+        <entry>postal_code</entry>
+        <entry>postal_code(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
