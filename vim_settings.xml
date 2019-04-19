@@ -41,7 +41,7 @@
         <mark key="'" line="436" column="17" />
         <mark key="n" line="843" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555695616181">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1554394376527">
@@ -106,7 +106,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1555701768285">
+      <file name="/Python Console" timestamp="1555707030211">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1555707044624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
@@ -181,13 +184,14 @@
         <mark key="^" line="516" column="28" />
         <mark key="." line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555702144165">
-        <mark key="'" line="2932" column="45" />
-        <mark key="[" line="2648" column="28" />
-        <mark key="]" line="2649" column="7" />
-        <mark key="^" line="2649" column="7" />
-        <mark key="." line="2649" column="7" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555705962130">
+        <mark key="'" line="2939" column="45" />
+        <mark key="[" line="2748" column="47" />
+        <mark key="]" line="2748" column="60" />
+        <mark key="^" line="2748" column="60" />
+        <mark key="." line="2748" column="60" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1555707025367" />
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
@@ -295,17 +299,17 @@
       <jump line="2932" column="45" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJpa2VfcmV0dXJuID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGlzX3RhbmdpYmxlPVRydWUsCiAgICAgICAgICAgIHNsdWc9J2Jpa2UtcmV0dXJuJywKICAgICAgICAgICAgcHJvZHVjdF9saW5lPSdiaWtlX3JldHVybicsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UpCgogICAgICAgIHNlbGYuYmlrZV9yZXR1cm5fb3B0aW9uID0gTW9kZWwuUHJvZHVjdE9wdGlvbi5zYXZlX3dpdGgoCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c2VsZi5iaWtlX3JldHVybi5pZCwKICAgICAgICAgICAgc2x1Zz0nYmlrZS1yZXR1cm4nLAogICAgICAgICAgICBwcmljZV9pbl9jZW50cz0wKQo=</text>
+      <register name="&quot;" type="4">
+        <text>nyc_postal_code</text>
       </register>
       <register name="-" type="4">
-        <text>ux_warehouse1</text>
+        <text>nyc_postal_code</text>
       </register>
       <register name="/" type="4">
         <text>uxwarehouse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJpa2VfcmV0dXJuID0gTW9kZWwuUHJvZHVjdC5zYXZlX3dpdGgoCiAgICAgICAgICAgIGlzX3RhbmdpYmxlPVRydWUsCiAgICAgICAgICAgIHNsdWc9J2Jpa2UtcmV0dXJuJywKICAgICAgICAgICAgcHJvZHVjdF9saW5lPSdiaWtlX3JldHVybicsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UpCgogICAgICAgIHNlbGYuYmlrZV9yZXR1cm5fb3B0aW9uID0gTW9kZWwuUHJvZHVjdE9wdGlvbi5zYXZlX3dpdGgoCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c2VsZi5iaWtlX3JldHVybi5pZCwKICAgICAgICAgICAgc2x1Zz0nYmlrZS1yZXR1cm4nLAogICAgICAgICAgICBwcmljZV9pbl9jZW50cz0wKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm55Y19wb3N0YWxfY29kZSA9IE1vZGVsLlBvc3RhbENvZGUuc2F2ZV93aXRoKAogICAgICAgICAgICBjb2RlPScxMDAwMScsCiAgICAgICAgICAgIHdhcmVob3VzZV9pZD1zZWxmLndhcmVob3VzZS5pZCwKICAgICAgICAgICAgY2FuX3NoaXBfdG89VHJ1ZSwKICAgICAgICAgICAgY291bnRyeT1DT1VOVFJJRVMuVVMKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
