@@ -22,6 +22,13 @@
       <file name="$USER_HOME$/Development/api/lib/orm/base/models.py" timestamp="1555360642379">
         <mark key="'" line="304" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/data/test_subscription.py" timestamp="1555683893473">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="809" column="8" />
+        <mark key="]" line="810" column="7" />
+        <mark key="^" line="810" column="7" />
+        <mark key="." line="810" column="7" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
       </file>
@@ -112,8 +119,10 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555440424993">
-        <mark key="'" line="150" column="0" />
+      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1555683430916">
+        <mark key="'" line="140" column="9" />
+        <mark key="[" line="140" column="9" />
+        <mark key="]" line="140" column="38" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555513012275">
         <mark key="'" line="1295" column="8" />
@@ -176,16 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="30" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="33" column="6" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="34" column="18" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="36" column="27" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="37" column="22" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="38" column="22" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="58" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="68" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="76" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="83" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="93" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="12" column="3" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="389" column="74" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
@@ -276,19 +275,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shipping_quote.py" />
       <jump line="237" column="26" filename="$USER_HOME$/Development/api/data/models/shipping_quote.py" />
       <jump line="236" column="8" filename="$USER_HOME$/Development/api/data/models/shipping_quote.py" />
+      <jump line="140" column="9" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="491" column="23" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="499" column="43" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="558" column="33" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="80" column="43" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="170" column="43" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="323" column="13" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="324" column="43" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Development/api/tests/data/test_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StringIO.</text>
+        <text>use_balance_in_months_refactor</text>
       </register>
       <register name="-" type="4">
         <text>StringIO.</text>
       </register>
       <register name="/" type="4">
-        <text>zip</text>
+        <text>balance_in_months</text>
       </register>
       <register name="0" type="4">
-        <text>is_use_postal_code_only_enabled</text>
+        <text>use_balance_in_months_refactor</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB6aXBfY29kZSA9IHNoaXBwaW5nX2FkZHJlc3MuZ2V0KFNISVBQSU5HX1BPU1RBTF9DT0RFKQogICAgICAgIGNvdW50cnkgPSBzaGlwcGluZ19hZGRyZXNzLmdldChTSElQUElOR19DT1VOVFJZKQo=</text>
@@ -322,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>zip</last-search>
+      <last-search>balance_in_months</last-search>
       <last-offset />
-      <last-pattern>zip</last-pattern>
+      <last-pattern>balance_in_months</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -332,9 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postal</entry>
-        <entry>PostalCode</entry>
-        <entry encoding="base64">XDxaaXBjb2RlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3NoaXBwaW5nX3dhcmVob3VzZVw+</entry>
         <entry>submit_order</entry>
         <entry>Zipcode</entry>
@@ -352,6 +358,9 @@
         <entry>service_warehouse</entry>
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry>zip</entry>
+        <entry>use_balance</entry>
+        <entry encoding="base64">XDx1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3JcPg==</entry>
+        <entry>balance_in_months</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
