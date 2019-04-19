@@ -37,8 +37,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555688527203">
-        <mark key="'" line="2204" column="31" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1555691367732">
+        <mark key="'" line="436" column="17" />
         <mark key="n" line="843" column="61" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555687513725" />
@@ -124,8 +124,8 @@
         <mark key="[" line="140" column="9" />
         <mark key="]" line="140" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555688769666">
-        <mark key="'" line="1455" column="16" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555690451133">
+        <mark key="'" line="412" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
@@ -187,17 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="402" column="42" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="290" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="323" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="271" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="252" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="222" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="229" column="37" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="233" column="37" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="237" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
-      <jump line="243" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="2171" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="208" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
@@ -287,6 +276,17 @@
       <jump line="2204" column="31" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="1141" column="35" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1455" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="655" column="23" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1293" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="436" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="1320" column="23" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1334" column="34" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1336" column="47" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1342" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1346" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1945" column="43" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="38" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="412" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +296,7 @@
         <text>nj_zip</text>
       </register>
       <register name="/" type="4">
-        <text>is_paying(</text>
+        <text>get_balance_in_months</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY291bnRyeT1DT1VOVFJJRVMuVVMK</text>
@@ -333,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_paying(</last-search>
+      <last-search>get_balance_in_months</last-search>
       <last-offset />
-      <last-pattern>is_paying(</last-pattern>
+      <last-pattern>get_balance_in_months</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -343,10 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_request</entry>
-        <entry encoding="base64">XDxjcmVhdGVfcmVxdWVzdFw+</entry>
-        <entry>assert</entry>
-        <entry encoding="base64">XDxTdHJpbmdJT1w+</entry>
         <entry>service_warehouse</entry>
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry>zip</entry>
@@ -363,6 +359,10 @@
         <entry>nj_postal_code</entry>
         <entry>is_paying</entry>
         <entry>is_paying(</entry>
+        <entry>latest_payment_method</entry>
+        <entry>would_be_cancellation_time</entry>
+        <entry encoding="base64">XDxsYXN0X2JpbGxpbmdfYXR0ZW1wdGVkX2F0XD4=</entry>
+        <entry>get_balance_in_months</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
