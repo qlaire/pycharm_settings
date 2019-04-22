@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1555695165313">
-        <mark key="'" line="143" column="28" />
-        <mark key="[" line="797" column="22" />
-        <mark key="]" line="797" column="23" />
-        <mark key="." line="797" column="23" />
-        <mark key="^" line="821" column="31" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1555948931790">
+        <mark key="'" line="836" column="59" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/base/models.py" timestamp="1555360642379">
         <mark key="'" line="304" column="6" />
@@ -94,11 +94,12 @@
       <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1555695489937">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1555948877595">
+        <mark key="'" line="54" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
@@ -119,10 +120,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555695437983">
-        <mark key="'" line="1" column="53" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="23" column="61" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1555948908631">
+        <mark key="'" line="5" column="73" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
@@ -176,12 +179,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
         <mark key="'" line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" timestamp="1555688249196">
-        <mark key="'" line="511" column="13" />
-        <mark key="[" line="469" column="0" />
-        <mark key="]" line="469" column="0" />
-        <mark key="^" line="516" column="28" />
-        <mark key="." line="469" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" timestamp="1555948924214">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555942947065">
         <mark key="'" line="674" column="35" />
@@ -190,21 +193,18 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1555707933646" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1555948868190">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="15" filename="$USER_HOME$/Development/api/lib/unittest.py" />
-      <jump line="200" column="15" filename="$USER_HOME$/Development/api/lib/unittest.py" />
-      <jump line="394" column="8" filename="$USER_HOME$/Development/api/lib/unittest.py" />
-      <jump line="395" column="20" filename="$USER_HOME$/Development/api/lib/unittest.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/api/ecomm/app/shipping/delivery_dates/delivery_dates.py" />
-      <jump line="100" column="27" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="4" column="7" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="98" column="26" filename="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
       <jump line="19" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
       <jump line="116" column="33" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="29" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
@@ -296,19 +296,28 @@
       <jump line="227" column="41" filename="/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py" />
       <jump line="230" column="8" filename="/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py" />
       <jump line="239" column="8" filename="/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py" />
+      <jump line="398" column="30" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
+      <jump line="29" column="37" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
+      <jump line="52" column="32" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" />
+      <jump line="8" column="26" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
+      <jump line="5" column="73" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
+      <jump line="834" column="59" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.setUp()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="-" type="4">
-        <text>.setUp()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm55Y19wb3N0YWxfY29kZSA9IE1vZGVsLlBvc3RhbENvZGUuc2F2ZV93aXRoKAogICAgICAgICAgICBjb2RlPScxMDAwMScsCiAgICAgICAgICAgIHdhcmVob3VzZV9pZD1zZWxmLndhcmVob3VzZS5pZCwKICAgICAgICAgICAgY2FuX3NoaXBfdG89VHJ1ZSwKICAgICAgICAgICAgY291bnRyeT1DT1VOVFJJRVMuVVMKICAgICAgICApCgogICAgICAgIHNlbGYubmpfcG9zdGFsX2NvZGUgPSBNb2RlbC5Qb3N0YWxDb2RlLnNhdmVfd2l0aCgKICAgICAgICAgICAgY29kZT0nMDkwOTAnLAogICAgICAgICAgICB3YXJlaG91c2VfaWQ9c2VsZi53YXJlaG91c2UuaWQsCiAgICAgICAgICAgIGNhbl9zaGlwX3RvPVRydWUsCiAgICAgICAgICAgIGNvdW50cnk9Q09VTlRSSUVTLlVTCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -352,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postal_code</entry>
         <entry>postal_code(</entry>
         <entry>zipcode</entry>
         <entry>nj_postal_code</entry>
@@ -372,6 +380,7 @@
         <entry>uxwarehouse</entry>
         <entry encoding="base64">XDxiaWtlX3JldHVybl9vcHRpb25cPg==</entry>
         <entry>setup</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
