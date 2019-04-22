@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -117,6 +117,9 @@
       <file name="/fragment.py" timestamp="1555707044624">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/services/shipping.py" timestamp="1555957063951">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
@@ -205,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
-      <jump line="116" column="33" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
       <jump line="41" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
       <jump line="45" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
       <jump line="46" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" />
@@ -305,6 +305,9 @@
       <jump line="5" column="73" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" />
       <jump line="834" column="59" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
+      <jump line="68" column="22" filename="$USER_HOME$/Development/api/data/services/shipping.py" />
+      <jump line="156" column="22" filename="$USER_HOME$/Development/api/data/services/shipping.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Development/api/data/services/shipping.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -314,7 +317,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text encoding="base64">XDxzaGlwcGluZ19xdW90ZV9tYXBwZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
@@ -351,9 +354,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search encoding="base64">XDxzaGlwcGluZ19xdW90ZV9tYXBwZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern encoding="base64">XDxzaGlwcGluZ19xdW90ZV9tYXBwZXJcPg==</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -361,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postal_code(</entry>
         <entry>zipcode</entry>
         <entry>nj_postal_code</entry>
         <entry>is_paying</entry>
@@ -381,6 +383,7 @@
         <entry encoding="base64">XDxiaWtlX3JldHVybl9vcHRpb25cPg==</entry>
         <entry>setup</entry>
         <entry>filter</entry>
+        <entry encoding="base64">XDxzaGlwcGluZ19xdW90ZV9tYXBwZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
