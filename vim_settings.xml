@@ -52,8 +52,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556049458319">
-        <mark key="'" line="10073" column="7" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556050010078">
+        <mark key="'" line="9561" column="14" />
         <mark key="[" line="14574" column="68" />
         <mark key="]" line="14575" column="7" />
         <mark key="^" line="14575" column="7" />
@@ -227,74 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="30" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="114" column="27" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="390" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="3532" column="46" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2438" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7661" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="545" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="547" column="6" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="550" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7802" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11454" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11477" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
-      <jump line="111" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
-      <jump line="8015" column="36" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="12137" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="12566" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="12688" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13982" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14131" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14693" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="4222" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="4881" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5309" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5430" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="6723" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="6871" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7432" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9692" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10786" column="46" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10792" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="34" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="117" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="136" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2441" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="3535" column="46" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="3541" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="4203" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11382" column="36" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13958" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="6697" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14079" column="63" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
-      <jump line="71" column="37" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" />
-      <jump line="322" column="6" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="1214" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="1328" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="1439" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5411" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5415" column="37" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5416" column="49" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5441" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5468" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5519" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5520" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5521" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5522" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14650" column="6" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14653" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14768" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="309" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7386" column="6" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="12638" column="6" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5379" column="6" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="304" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="307" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7798" column="91" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10072" column="105" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="13287" column="89" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="13484" column="110" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
@@ -327,6 +259,74 @@
       <jump line="11541" column="19" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="8493" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10073" column="7" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="14599" column="39" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="14877" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="15030" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="562" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="649" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="716" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="817" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="915" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1026" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1118" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1543" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1624" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1709" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1823" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1939" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2043" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2132" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2210" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2267" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2310" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2360" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2444" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2498" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2567" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2641" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2709" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2763" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2844" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2946" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3046" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3146" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3247" column="18" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3348" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3448" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3547" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3647" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3747" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3847" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="3947" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="4047" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="4249" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="4362" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="4525" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="4852" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="6243" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="6422" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="6551" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="6627" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="6769" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="7599" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="7752" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="7813" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="7900" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="7967" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8068" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8166" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8277" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8369" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8794" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8875" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8960" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9074" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9190" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9294" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9383" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9461" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9518" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9561" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -336,7 +336,7 @@
         <text>TestSetupWithUseOnlyPostalCodeEnabled</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXN0U2V0dXBXaXRoVXNlT25seVBvc3RhbENvZGVFbmFibGVkXD4=</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3RfanNvbigKICAgICAgICAgICAgICAgICcvY29tcGxldGVfY2hlY2tvdXQnLAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJoYXNfYWNjZXB0ZWRfcG9saWN5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAicGF5bWVudHMiOiBbewogICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiAidG9rXzRxS3g1RWZWOHNIazloIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxhYmVsIjogInBheW1lbnQgMSBsYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnRfaW5fY2VudHMiOiAyMDAwMCwKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJ0b2tfNHFLeDVFZlY4c0hrOWgiLAogICAgICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiAicGF5bWVudCAyIGxhYmVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudF9pbl9jZW50cyI6IDcyMjEsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1jb29raWVzKQo=</text>
@@ -373,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXN0U2V0dXBXaXRoVXNlT25seVBvc3RhbENvZGVFbmFibGVkXD4=</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXN0U2V0dXBXaXRoVXNlT25seVBvc3RhbENvZGVFbmFibGVkXD4=</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdW90ZXNcPg==</entry>
         <entry encoding="base64">XDx6aXBjb2RlXD4=</entry>
         <entry>daterange</entry>
         <entry>zipcode</entry>
@@ -403,6 +402,7 @@
         <entry>Model.Enablement.save_with</entry>
         <entry>testreferral</entry>
         <entry encoding="base64">XDxUZXN0U2V0dXBXaXRoVXNlT25seVBvc3RhbENvZGVFbmFibGVkXD4=</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>11755</entry>
