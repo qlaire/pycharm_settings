@@ -52,12 +52,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556050706570">
-        <mark key="'" line="9561" column="14" />
-        <mark key="[" line="14574" column="68" />
-        <mark key="]" line="14575" column="7" />
-        <mark key="^" line="14575" column="7" />
-        <mark key="." line="14575" column="7" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556051878859">
+        <mark key="'" line="2221" column="14" />
+        <mark key="[" line="2093" column="29" />
+        <mark key="]" line="1796" column="51" />
+        <mark key="^" line="1796" column="51" />
+        <mark key="." line="2093" column="51" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -227,32 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10072" column="105" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13287" column="89" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13484" column="110" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13668" column="89" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13772" column="85" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13955" column="99" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14562" column="104" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14819" column="106" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="15062" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7997" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8201" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8312" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8399" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8607" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8718" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8827" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8910" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="8990" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9018" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9104" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9124" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9227" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9329" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9420" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9474" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="9500" column="23" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="9671" column="21" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10071" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10129" column="19" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
@@ -327,46 +301,104 @@
       <jump line="9461" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="9518" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="9561" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="548" column="20" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="546" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="553" column="11" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="555" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="302" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="303" column="11" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="305" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="557" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="573" column="50" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="575" column="23" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="658" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="719" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="721" column="23" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="818" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="912" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1019" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1107" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1528" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1605" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1686" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1796" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="1908" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2008" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2093" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2167" column="33" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="2221" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;admin@pelotoncycle.com&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>TestSetupWithUseOnlyPostalCodeEnabled</text>
+        <text>&quot;admin@pelotoncycle.com&quot;</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3RfanNvbigKICAgICAgICAgICAgICAgICcvY29tcGxldGVfY2hlY2tvdXQnLAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJoYXNfYWNjZXB0ZWRfcG9saWN5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAicGF5bWVudHMiOiBbewogICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiAidG9rXzRxS3g1RWZWOHNIazloIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxhYmVsIjogInBheW1lbnQgMSBsYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnRfaW5fY2VudHMiOiAyMDAwMCwKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJ0b2tfNHFLeDVFZlY4c0hrOWgiLAogICAgICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiAicGF5bWVudCAyIGxhYmVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudF9pbl9jZW50cyI6IDcyMjEsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1jb29raWVzKQo=</text>
+      <register name="0" type="4">
+        <text>&quot;admin@pelotoncycle.com&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5hdXRoX2FwcC5wb3N0X2pzb24oCiAgICAgICAgICAgICIvbG9naW4iLAogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfb3JfZW1haWw9ImFkbWluQHBlbG90b25jeWNsZS5jb20iLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ9InNlY3JldCEhIikpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;admin@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX3Bvc3RhbF9jb2RlX29ubHkiPVRydWUpCg==</text>
+      <register name="3" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;admin@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;admin@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihUZXN0UmVmZXJyYWxDb3Vwb25XaXRoVXNlUG9zdGFsQ29kZU9ubHlFbmFibGVkLCBzZWxmKS5zZXRVcCgpCg==</text>
+      <register name="5" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;admin@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+      <register name="6" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;admin@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+      <register name="7" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;buyer@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX29ubHkiKQo=</text>
+      <register name="8" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;buyer@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU9J05ZJywK</text>
+      <register name="9" type="4">
+        <text>self.auth_app.post_json(
+            &quot;/login&quot;,
+            dict(
+                username_or_email=&quot;buyer@pelotoncycle.com&quot;,
+                password=&quot;secret!!&quot;))</text>
       </register>
       <register name=":" type="4">
         <text>14575</text>
