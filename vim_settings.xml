@@ -74,8 +74,8 @@
       <file name="$USER_HOME$/Development/api/data/models/postalcode.py" timestamp="1556032690200">
         <mark key="'" line="114" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/api/pip-requirements.txt" timestamp="1555521600407">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api/pip-requirements.txt" timestamp="1556038889728">
+        <mark key="'" line="111" column="0" />
         <mark key="[" line="78" column="19" />
         <mark key="]" line="78" column="20" />
         <mark key="." line="78" column="20" />
@@ -217,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="52" column="32" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" />
       <jump line="8" column="26" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
       <jump line="5" column="73" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" />
@@ -317,6 +315,8 @@
       <jump line="11454" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10792" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="11477" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
+      <jump line="111" column="0" filename="$USER_HOME$/Development/api/pip-requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -326,7 +326,7 @@
         <text>Zipcode</text>
       </register>
       <register name="/" type="4">
-        <text>zip</text>
+        <text>snappy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
@@ -363,9 +363,9 @@
       </register>
     </registers>
     <search>
-      <last-search>zip</last-search>
+      <last-search>snappy</last-search>
       <last-offset />
-      <last-pattern>zip</last-pattern>
+      <last-pattern>snappy</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -373,7 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJzY3JpcHRpb25cPg==</entry>
         <entry>self.subscription</entry>
         <entry encoding="base64">XDx0ZXN0X2Jpa2VfcmV0dXJuXD4=</entry>
         <entry encoding="base64">XDxual96aXBcPg==</entry>
@@ -393,6 +392,7 @@
         <entry encoding="base64">XDxUZXN0Q29tcGxldGVDaGVja291dFw+</entry>
         <entry>testcompletecheckout</entry>
         <entry>zip</entry>
+        <entry>snappy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
