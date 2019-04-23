@@ -52,12 +52,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556046198240">
-        <mark key="'" line="11541" column="19" />
-        <mark key="[" line="11536" column="26" />
-        <mark key="]" line="11537" column="7" />
-        <mark key="^" line="11537" column="7" />
-        <mark key="." line="11537" column="7" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556049458319">
+        <mark key="'" line="10073" column="7" />
+        <mark key="[" line="14574" column="68" />
+        <mark key="]" line="14575" column="7" />
+        <mark key="^" line="14575" column="7" />
+        <mark key="." line="14575" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -227,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="98" column="6" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="102" column="30" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="114" column="27" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="390" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
@@ -327,10 +325,12 @@
       <jump line="10071" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10129" column="19" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="11541" column="19" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8493" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="10073" column="7" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3RfanNvbigKICAgICAgICAgICAgICAgICcvY29tcGxldGVfY2hlY2tvdXQnLAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJoYXNfYWNjZXB0ZWRfcG9saWN5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAicGF5bWVudHMiOiBbewogICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiAidG9rXzRxS3g1RWZWOHNIazloIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxhYmVsIjogInBheW1lbnQgMSBsYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnRfaW5fY2VudHMiOiAyMDAwMCwKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJ0b2tfNHFLeDVFZlY4c0hrOWgiLAogICAgICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiAicGF5bWVudCAyIGxhYmVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudF9pbl9jZW50cyI6IDcyMjEsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1jb29raWVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>TestSetupWithUseOnlyPostalCodeEnabled</text>
@@ -342,34 +342,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3RfanNvbigKICAgICAgICAgICAgICAgICcvY29tcGxldGVfY2hlY2tvdXQnLAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJoYXNfYWNjZXB0ZWRfcG9saWN5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAicGF5bWVudHMiOiBbewogICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiAidG9rXzRxS3g1RWZWOHNIazloIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxhYmVsIjogInBheW1lbnQgMSBsYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnRfaW5fY2VudHMiOiAyMDAwMCwKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJ0b2tfNHFLeDVFZlY4c0hrOWgiLAogICAgICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiAicGF5bWVudCAyIGxhYmVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudF9pbl9jZW50cyI6IDcyMjEsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1jb29raWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX3Bvc3RhbF9jb2RlX29ubHkiPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihUZXN0UmVmZXJyYWxDb3Vwb25XaXRoVXNlUG9zdGFsQ29kZU9ubHlFbmFibGVkLCBzZWxmKS5zZXRVcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX3Bvc3RhbF9jb2RlX29ubHkiPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihUZXN0UmVmZXJyYWxDb3Vwb25XaXRoVXNlUG9zdGFsQ29kZU9ubHlFbmFibGVkLCBzZWxmKS5zZXRVcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX29ubHkiKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU9J05ZJywK</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfcG9zdGFsX2NvZGVfb25seSIsIGVuYWJsZWQ9VHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU9J05ZJywK</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX29ubHkiKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhdGU9J05ZJywK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>14575</text>
       </register>
     </registers>
     <search>
@@ -405,13 +405,26 @@
         <entry encoding="base64">XDxUZXN0U2V0dXBXaXRoVXNlT25seVBvc3RhbENvZGVFbmFibGVkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/fixture_create_note_response/fixture_create_response/g</entry>
-        <entry>%s/fixture_create_response/fixture_note_response/gc</entry>
-        <entry>noh</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5yZWc=</entry>
-        <entry>ref</entry>
-        <entry>reg</entry>
+        <entry>11755</entry>
+        <entry>11823</entry>
+        <entry>11875</entry>
+        <entry>13327</entry>
+        <entry>13379</entry>
+        <entry>13495</entry>
+        <entry>13538</entry>
+        <entry>13601</entry>
+        <entry>13645</entry>
+        <entry>13725</entry>
+        <entry>13854</entry>
+        <entry>13930</entry>
+        <entry>13967</entry>
+        <entry>14624</entry>
+        <entry>14832</entry>
+        <entry>14896</entry>
+        <entry>14971</entry>
+        <entry>15043</entry>
+        <entry>15074</entry>
+        <entry>14575</entry>
       </history-cmd>
       <history-expr />
       <history-input />
