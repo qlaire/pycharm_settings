@@ -52,12 +52,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556043385248">
-        <mark key="'" line="14819" column="106" />
-        <mark key="[" line="14927" column="61" />
-        <mark key="]" line="14927" column="61" />
-        <mark key="." line="14927" column="97" />
-        <mark key="^" line="304" column="42" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556046198240">
+        <mark key="'" line="11541" column="19" />
+        <mark key="[" line="11536" column="26" />
+        <mark key="]" line="11537" column="7" />
+        <mark key="^" line="11537" column="7" />
+        <mark key="." line="11537" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -227,28 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="12" filename="$USER_HOME$/Development/api/ecomm/features/lib/steps.py" />
-      <jump line="405" column="18" filename="$USER_HOME$/Development/api/ecomm/features/lib/steps.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2198" column="38" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="3960" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="3979" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="4638" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5066" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="5187" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="6480" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="6628" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="7189" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="539" column="21" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="21" column="30" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="35" column="6" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="36" column="18" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="60" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="70" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="78" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
-      <jump line="85" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="95" column="25" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="98" column="6" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
       <jump line="102" column="30" filename="$USER_HOME$/Development/api/data/models/postalcode.py" />
@@ -327,10 +305,32 @@
       <jump line="13955" column="99" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="14562" column="104" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="14819" column="106" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="15062" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="7997" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8201" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8312" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8399" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8607" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8718" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8827" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8910" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="8990" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9018" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9104" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9124" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9227" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9329" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9420" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9474" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9500" column="23" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="9671" column="21" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="10071" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="10129" column="19" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
+      <jump line="11541" column="19" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TestSetupWithUseOnlyPostalCodeEnabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3RfanNvbigKICAgICAgICAgICAgICAgICcvY29tcGxldGVfY2hlY2tvdXQnLAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJoYXNfYWNjZXB0ZWRfcG9saWN5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAicGF5bWVudHMiOiBbewogICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiAidG9rXzRxS3g1RWZWOHNIazloIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxhYmVsIjogInBheW1lbnQgMSBsYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnRfaW5fY2VudHMiOiAyMDAwMCwKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJ0b2tfNHFLeDVFZlY4c0hrOWgiLAogICAgICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiAicGF5bWVudCAyIGxhYmVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudF9pbl9jZW50cyI6IDcyMjEsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1jb29raWVzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>TestSetupWithUseOnlyPostalCodeEnabled</text>
@@ -338,8 +338,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxUZXN0U2V0dXBXaXRoVXNlT25seVBvc3RhbENvZGVFbmFibGVkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>TestCompleteCheckoutWithUsePostalCodeOnlyEnabled</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3RfanNvbigKICAgICAgICAgICAgICAgICcvY29tcGxldGVfY2hlY2tvdXQnLAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJoYXNfYWNjZXB0ZWRfcG9saWN5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAicGF5bWVudHMiOiBbewogICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiAidG9rXzRxS3g1RWZWOHNIazloIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxhYmVsIjogInBheW1lbnQgMSBsYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnRfaW5fY2VudHMiOiAyMDAwMCwKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJ0b2tfNHFLeDVFZlY4c0hrOWgiLAogICAgICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiAicGF5bWVudCAyIGxhYmVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudF9pbl9jZW50cyI6IDcyMjEsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1jb29raWVzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgidXNlX3Bvc3RhbF9jb2RlX29ubHkiPVRydWUpCg==</text>
