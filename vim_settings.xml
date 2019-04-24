@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1554153704166">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1556135486869">
         <mark key="'" line="168" column="15" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
@@ -45,6 +45,17 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556138432571">
+        <mark key="[" line="2434" column="8" />
+        <mark key="]" line="2434" column="53" />
+        <mark key="^" line="2434" column="53" />
+        <mark key="." line="2434" column="53" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556139471962">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
@@ -149,16 +160,27 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1556139437475">
+        <mark key="'" line="427" column="25" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1555690451133">
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1556137934629">
         <mark key="'" line="412" column="0" />
+        <mark key="[" line="1138" column="39" />
+        <mark key="]" line="1138" column="39" />
+        <mark key="^" line="1138" column="39" />
+        <mark key="." line="1138" column="39" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1555968774707">
         <mark key="'" line="163" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556125530900">
+      <file name="/Dummy.txt" timestamp="1556138089757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_dates_for_postal_code.py" timestamp="1555968253807">
@@ -229,24 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2520" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2451" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2397" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2313" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2263" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="2220" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="308" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14919" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="14766" column="53" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13932" column="52" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13788" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13712" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13583" column="15" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="13403" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="12007" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11380" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11517" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11400" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="11192" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="11092" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10992" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
@@ -329,55 +333,73 @@
       <jump line="9329" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="311" column="54" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="437" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="430" column="27" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="431" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="432" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="433" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="456" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="476" column="69" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="484" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="510" column="69" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="518" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="557" column="69" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="565" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="574" column="32" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="610" column="59" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="427" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" />
+      <jump line="467" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="607" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="22" column="21" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>35</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQga2lwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>35</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb19sb2dpblw+</text>
+        <text encoding="base64">XDxza2lwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ1c2VfYmFsYW5jZV9pbl9tb250aHNfcmVmYWN0b3IiLCBlbmFibGVkPVRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>TestSubscriptionChargingStripeBalanceInMonthsRefactorEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgiIgogICAgICAgICAgICAndHJlYWRfcG9zdF9wdXJjaGFzZV9zY2hlZHVsaW5nJywgVHJ1ZSwgdXVpZC51dWlkNCgpLCAnJykK</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQga2lwCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihUZXN0U3Vic2NyaXB0aW9uQ2hhcmdpbmdTdHJpcGVCYWxhbmNlSW5Nb250aHNSZWZhY3RvckVuYWJsZWQsIHNlbGYpLnNldFVwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHdvCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lciA9IHNlbGYuc3RyaXBlX3dyYXBwZXIuY3JlYXRlX2N1c3RvbWVyKGVtYWlsPWVtYWlsX2FkZHJlc3MsIHRva2VuPVNUUklQRV9URVNUX1RPS0VOKQoKICAgICAgICB1c2VyID0gbWFrZS5hX3VzZXIoCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfaWQ9Y3VzdG9tZXIsCiAgICAgICAgICAgIHVzZXJfX2VtYWlsPWVtYWlsX2FkZHJlc3MsCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfZmxhZz0nc3RyaXBlJwogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbF9hZGRyZXNzID0gJ3BlbG90b25fZGV2aWNlX3VucGF1c2VfdXNlcl8xQGV4YW1wbGUuY29tJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZF9zdWJzY3JpcHRpb24gPSB1bnBhdXNlX3N1YnNjcmlwdGlvbigKICAgICAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9pZD1zZWxmLnN1YnNjcmlwdGlvbl9yZWNvcmQuaWQsCiAgICAgICAgICAgICAgICBsb2dnZWRfaW5fdXNlcj1zZWxmLnVzZXIKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWxfcGF1c2VfdGltZSA9IGFycm93LmdldChzdWIucGF1c2VkX29uKS5zaGlmdChkYXlzPTEpLnRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gbWFrZS5hX3VzZXIoCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfaWQ9Y3VzdG9tZXIsCiAgICAgICAgICAgIHVzZXJfX2VtYWlsPWVtYWlsX2FkZHJlc3MsCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfZmxhZz0nc3RyaXBlJwogICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgVGVzdCBwcm9wZXJ0aWVzIHdoZW4gdW5wYXVzaW5nIGFmdGVyIDEgZGF5IG9mIGJlaW5nIHBhdXNlZCAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lciA9IHNlbGYuc3RyaXBlX3dyYXBwZXIuY3JlYXRlX2N1c3RvbWVyKGVtYWlsPWVtYWlsX2FkZHJlc3MsIHRva2VuPVNUUklQRV9URVNUX1RPS0VOKQo=</text>
       </register>
       <register name=":" type="4">
         <text>9330</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb19sb2dpblw+</last-search>
+      <last-search encoding="base64">XDxza2lwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb19sb2dpblw+</last-pattern>
+      <last-pattern encoding="base64">XDxza2lwXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -385,9 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ups</entry>
-        <entry encoding="base64">XDxUZXN0Q29tcGxldGVDaGVja291dFw+</entry>
-        <entry>testcompletecheckout</entry>
         <entry>snappy</entry>
         <entry>zip</entry>
         <entry encoding="base64">XDx1c2Vfb25seVw+</entry>
@@ -405,6 +424,9 @@
         <entry>def do_login</entry>
         <entry>\/login</entry>
         <entry encoding="base64">XDxkb19sb2dpblw+</entry>
+        <entry>user</entry>
+        <entry encoding="base64">XDxwZWxvdG9uX2RpZ2l0YWxfdXNlcl8xXD4=</entry>
+        <entry encoding="base64">XDxza2lwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>13327</entry>
