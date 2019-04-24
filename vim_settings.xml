@@ -52,13 +52,6 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1556117521023">
-        <mark key="'" line="311" column="54" />
-        <mark key="[" line="9329" column="45" />
-        <mark key="]" line="9329" column="47" />
-        <mark key="." line="9329" column="47" />
-        <mark key="^" line="9329" column="47" />
-      </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
       </file>
