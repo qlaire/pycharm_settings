@@ -156,10 +156,11 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1556129630884">
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="422" column="87" />
-        <mark key="." line="422" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1556130248784">
+        <mark key="[" line="571" column="45" />
+        <mark key="]" line="571" column="46" />
+        <mark key="." line="571" column="46" />
+        <mark key="^" line="569" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
@@ -343,11 +344,11 @@
       <jump line="437" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aCgiIgogICAgICAgICAgICAndHJlYWRfcG9zdF9wdXJjaGFzZV9zY2hlZHVsaW5nJywgVHJ1ZSwgdXVpZC51dWlkNCgpLCAnJykK</text>
+      <register name="&quot;" type="4">
+        <text>35</text>
       </register>
       <register name="-" type="4">
-        <text>manager.set_enablement(</text>
+        <text>35</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb19sb2dpblw+</text>
