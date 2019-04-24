@@ -46,13 +46,6 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556129623807">
-        <mark key="'" line="439" column="41" />
-        <mark key="[" line="487" column="0" />
-        <mark key="]" line="487" column="87" />
-        <mark key="." line="580" column="29" />
-        <mark key="^" line="572" column="65" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
@@ -155,12 +148,6 @@
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1556130248784">
-        <mark key="[" line="571" column="45" />
-        <mark key="]" line="571" column="46" />
-        <mark key="." line="571" column="46" />
-        <mark key="^" line="569" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
