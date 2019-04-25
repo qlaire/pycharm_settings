@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -46,11 +46,11 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556209281451">
-        <mark key="[" line="3079" column="71" />
-        <mark key="]" line="3079" column="69" />
-        <mark key="^" line="3079" column="69" />
-        <mark key="." line="3079" column="69" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556210488411">
+        <mark key="[" line="3092" column="87" />
+        <mark key="]" line="3092" column="87" />
+        <mark key="^" line="3092" column="87" />
+        <mark key="." line="3092" column="87" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556139471962">
         <mark key="[" line="22" column="0" />
