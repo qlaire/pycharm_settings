@@ -46,12 +46,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556205381333">
-        <mark key="'" line="958" column="8" />
-        <mark key="[" line="3070" column="0" />
-        <mark key="]" line="3090" column="33" />
-        <mark key="^" line="3068" column="61" />
-        <mark key="." line="3070" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556206958914">
+        <mark key="'" line="2380" column="37" />
+        <mark key="[" line="3094" column="49" />
+        <mark key="]" line="3094" column="55" />
+        <mark key="^" line="3094" column="55" />
+        <mark key="." line="3094" column="55" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556139471962">
         <mark key="[" line="22" column="0" />
@@ -127,10 +127,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1556127069761">
+      <file name="/Python Console" timestamp="1556206609122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1556127086915">
+      <file name="/fragment.py" timestamp="1556206648702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/data/services/shipping.py" timestamp="1555957063951">
@@ -252,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10507" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10603" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10699" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="10795" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
@@ -352,46 +351,47 @@
       <jump line="24" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="231" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="242" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2380" column="37" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZGF0YS5zaWduYWxzLnN1YnNjcmlwdGlvbl9jYW5jZWxsZWQuc2VuZCcpCiAgICBkZWYgdGVzdF9yZWFjdGl2YXRlX2FmdGVyX3RyYW5zZmVyKHNlbGYsIHN1YnNjcmlwdGlvbl9jYW5jZWxsZWRfc2VuZCk6CiAgICAgICAgdHJhbnNmZXJfcmVhc29uID0gQ1VSUkVOVF9TVUJTQ1JJUFRJT05fVFJBTlNGRVJfUkVBU09OU1swXQoKICAgICAgICBzdWJzY3JpcHRpb24gPSBTdWJzY3JpcHRpb25SZXBvc2l0b3J5LmZpbmRfYnlfaWQoCiAgICAgICAgICAgIHNlbGYuc3ViLmlkKQoKICAgICAgICB0b19zdWJzY3JpcHRpb25faWQgPSBzdWJzY3JpcHRpb24udHJhbnNmZXIoCiAgICAgICAgICAgIGluaXRpYXRvcj1zZWxmLmFkbWluLAogICAgICAgICAgICB0b191c2VyX2lkPXNlbGYuYWRtaW4uaWQsCiAgICAgICAgICAgIHRyYW5zZmVyX3JlYXNvbj10cmFuc2Zlcl9yZWFzb24pCgogICAgICAgIFN1YnNjcmlwdGlvblJlcG9zaXRvcnkudXBkYXRlKHN1YnNjcmlwdGlvbikKCiAgICAgICAgc2VsZi5zdWIubG9hZCgpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGYuc3ViLmlzX2NhbmNlbGxlZCkKICAgICAgICBzdWJzY3JpcHRpb25fY2FuY2VsbGVkX3NlbmQuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoCiAgICAgICAgICAgIHNlbmRlcj1JbW1lZGlhdGVDYW5jZWxsYXRpb24sIHN1YnNjcmlwdGlvbj1zZWxmLnN1YikKCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhEb2VzTm90VmFsaWRhdGUpOgogICAgICAgICAgICBzZWxmLnN1Yi5yZWFjdGl2YXRlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>to_subscription_id</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>to_subscription_id</text>
       </register>
       <register name="/" type="4">
         <text>cancelled_on</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZGF0YS5zaWduYWxzLnN1YnNjcmlwdGlvbl9jYW5jZWxsZWQuc2VuZCcpCiAgICBkZWYgdGVzdF9yZWFjdGl2YXRlX2FmdGVyX3RyYW5zZmVyKHNlbGYsIHN1YnNjcmlwdGlvbl9jYW5jZWxsZWRfc2VuZCk6CiAgICAgICAgdHJhbnNmZXJfcmVhc29uID0gQ1VSUkVOVF9TVUJTQ1JJUFRJT05fVFJBTlNGRVJfUkVBU09OU1swXQoKICAgICAgICBzdWJzY3JpcHRpb24gPSBTdWJzY3JpcHRpb25SZXBvc2l0b3J5LmZpbmRfYnlfaWQoCiAgICAgICAgICAgIHNlbGYuc3ViLmlkKQoKICAgICAgICB0b19zdWJzY3JpcHRpb25faWQgPSBzdWJzY3JpcHRpb24udHJhbnNmZXIoCiAgICAgICAgICAgIGluaXRpYXRvcj1zZWxmLmFkbWluLAogICAgICAgICAgICB0b191c2VyX2lkPXNlbGYuYWRtaW4uaWQsCiAgICAgICAgICAgIHRyYW5zZmVyX3JlYXNvbj10cmFuc2Zlcl9yZWFzb24pCgogICAgICAgIFN1YnNjcmlwdGlvblJlcG9zaXRvcnkudXBkYXRlKHN1YnNjcmlwdGlvbikKCiAgICAgICAgc2VsZi5zdWIubG9hZCgpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGYuc3ViLmlzX2NhbmNlbGxlZCkKICAgICAgICBzdWJzY3JpcHRpb25fY2FuY2VsbGVkX3NlbmQuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoCiAgICAgICAgICAgIHNlbmRlcj1JbW1lZGlhdGVDYW5jZWxsYXRpb24sIHN1YnNjcmlwdGlvbj1zZWxmLnN1YikKCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhEb2VzTm90VmFsaWRhdGUpOgogICAgICAgICAgICBzZWxmLnN1Yi5yZWFjdGl2YXRlKCkK</text>
+      <register name="0" type="4">
+        <text>Model.Subscription.get(to_subscription_id)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19sYXN0X2JpbGxpbmdfZmFpbGVkX2F0PWxhc3RfYmlsbGluZ19mYWlsZWRfYXQK</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24ubG9hZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19sYXN0X2RlYml0X2F0PXNlbGYubGFzdF9kZWJpdF9hdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19sYXN0X2JpbGxpbmdfZmFpbGVkX2F0PWxhc3RfYmlsbGluZ19mYWlsZWRfYXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19sYXN0X2RlYml0X2F0PXNlbGYubGFzdF9kZWJpdF9hdCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQga2lwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19jb3N0X2luX2NlbnRzPTIwMDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQga2lwCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lciA9IHNlbGYuc3RyaXBlX3dyYXBwZXIuY3JlYXRlX2N1c3RvbWVyKGVtYWlsPWVtYWlsX2FkZHJlc3MsIHRva2VuPVNUUklQRV9URVNUX1RPS0VOKQoKICAgICAgICB1c2VyID0gbWFrZS5hX3VzZXIoCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfaWQ9Y3VzdG9tZXIsCiAgICAgICAgICAgIHVzZXJfX2VtYWlsPWVtYWlsX2FkZHJlc3MsCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfZmxhZz0nc3RyaXBlJwogICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbF9hZGRyZXNzID0gJ3BlbG90b25fZGV2aWNlX3VucGF1c2VfdXNlcl8xQGV4YW1wbGUuY29tJwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lciA9IHNlbGYuc3RyaXBlX3dyYXBwZXIuY3JlYXRlX2N1c3RvbWVyKGVtYWlsPWVtYWlsX2FkZHJlc3MsIHRva2VuPVNUUklQRV9URVNUX1RPS0VOKQoKICAgICAgICB1c2VyID0gbWFrZS5hX3VzZXIoCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfaWQ9Y3VzdG9tZXIsCiAgICAgICAgICAgIHVzZXJfX2VtYWlsPWVtYWlsX2FkZHJlc3MsCiAgICAgICAgICAgIHVzZXJfX3BhcnRuZXJfZmxhZz0nc3RyaXBlJwogICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbF9hZGRyZXNzID0gJ3BlbG90b25fZGV2aWNlX3VucGF1c2VfdXNlcl8xQGV4YW1wbGUuY29tJwo=</text>
       </register>
       <register name=":" type="4">
         <text>9330</text>
