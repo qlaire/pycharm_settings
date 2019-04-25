@@ -46,7 +46,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556138432571">
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556203794838">
+        <mark key="'" line="957" column="8" />
         <mark key="[" line="2434" column="8" />
         <mark key="]" line="2434" column="53" />
         <mark key="^" line="2434" column="53" />
@@ -251,18 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11192" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="11092" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10992" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10892" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10792" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10692" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10593" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10493" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10392" column="20" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10291" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10191" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
-      <jump line="10091" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="9989" column="16" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="11401" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
       <jump line="2761" column="51" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" />
@@ -351,6 +340,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
       <jump line="607" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
       <jump line="22" column="21" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" />
+      <jump line="2967" column="62" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2981" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2997" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="3007" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="3021" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="3037" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="3056" column="45" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="3205" column="42" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="136" column="13" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="440" column="13" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="2291" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
+      <jump line="957" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -360,7 +361,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxza2lwXD4=</text>
+        <text encoding="base64">XDx0ZXN0X3JlYWN0aXZhdGVfYWZ0ZXJfdHJhbnNmZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>TestSubscriptionChargingStripeBalanceInMonthsRefactorEnabled</text>
@@ -397,9 +398,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxza2lwXD4=</last-search>
+      <last-search encoding="base64">XDx0ZXN0X3JlYWN0aXZhdGVfYWZ0ZXJfdHJhbnNmZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxza2lwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0X3JlYWN0aXZhdGVfYWZ0ZXJfdHJhbnNmZXJcPg==</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -407,8 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snappy</entry>
-        <entry>zip</entry>
         <entry encoding="base64">XDx1c2Vfb25seVw+</entry>
         <entry>testcartshipmismatch</entry>
         <entry>model.enablement</entry>
@@ -427,6 +426,8 @@
         <entry>user</entry>
         <entry encoding="base64">XDxwZWxvdG9uX2RpZ2l0YWxfdXNlcl8xXD4=</entry>
         <entry encoding="base64">XDxza2lwXD4=</entry>
+        <entry>balance_in_months</entry>
+        <entry encoding="base64">XDx0ZXN0X3JlYWN0aXZhdGVfYWZ0ZXJfdHJhbnNmZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>13327</entry>
