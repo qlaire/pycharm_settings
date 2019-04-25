@@ -46,12 +46,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1555706657617">
         <mark key="'" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556211627726">
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556216711027">
         <mark key="'" line="858" column="62" />
-        <mark key="[" line="3112" column="69" />
-        <mark key="]" line="3113" column="42" />
-        <mark key="^" line="3113" column="42" />
-        <mark key="." line="3113" column="42" />
+        <mark key="[" line="3118" column="0" />
+        <mark key="]" line="3119" column="0" />
+        <mark key="^" line="3119" column="0" />
+        <mark key="." line="3119" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556139471962">
         <mark key="[" line="22" column="0" />
