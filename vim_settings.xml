@@ -236,12 +236,12 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1555948868190">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1557167441312">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
