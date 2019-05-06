@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/Development/api/docs/open_api/peloton-api.yaml" timestamp="1554143327791">
         <mark key="'" line="1781" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1555948931790">
-        <mark key="'" line="836" column="59" />
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" timestamp="1557179726853">
+        <mark key="'" line="558" column="90" />
+        <mark key="[" line="558" column="90" />
+        <mark key="]" line="558" column="97" />
+        <mark key="^" line="558" column="97" />
+        <mark key="." line="558" column="97" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/base/models.py" timestamp="1555360642379">
         <mark key="'" line="304" column="6" />
@@ -40,10 +40,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1557174026762">
-        <mark key="'" line="323" column="12" />
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="84" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1557179619695">
+        <mark key="'" line="579" column="0" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="51" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556289582732">
         <mark key="'" line="3420" column="0" />
@@ -64,10 +64,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/uk.py" timestamp="1555957461996">
         <mark key="'" line="41" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/shipping/quotes/test_us_get_shipper_method.py" timestamp="1556033154000">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="77" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
@@ -109,12 +105,11 @@
       <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1557171385744">
-        <mark key="'" line="41" column="36" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1557178893556">
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="73" />
+        <mark key="." line="42" column="73" />
+        <mark key="^" line="42" column="73" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
@@ -137,12 +132,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1557172383250">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1557178865305">
         <mark key="'" line="5" column="73" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-        <mark key="^" line="41" column="59" />
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="41" column="11" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="41" column="11" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
@@ -238,22 +233,17 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1557174035420">
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1557179628500">
         <mark key="'" line="303" column="48" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="672" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="673" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="716" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="717" column="48" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1293" column="58" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1356" column="53" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -350,62 +340,59 @@
       <jump line="240" column="23" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="302" column="48" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="323" column="12" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
+      <jump line="662" column="11" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
+      <jump line="558" column="90" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
+      <jump line="579" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_xpo_system_id_enabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{},</text>
+        <text>Mock()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFc3RpbWF0ZWREZWxpdmVyeURhdGVcPg==</text>
+        <text>origin</text>
       </register>
-      <register name="0" type="4">
-        <text>is_xpo_system_id_enabled</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhcmVob3VzZS5zaGlwcGluZ19zdHJlZXRfYWRkcmVzc18yCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGlwcGluZ19zdHJlZXRfYWRkcmVzc18yID0gKAogICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBpZiB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBlbHNlICIiCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHR5cGUgPT0gUElDS1VQOgogICAgZWxzZToKICAgICAgICB0eXBlX2luZm8gPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaGlwcGluZ19zdHJlZXRfYWRkcmVzc18yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlX2luZm8gPSB7CiAgICAgICAgICAgIFdBWVBPSU5UX1RZUEVfSUQ6IDAsCiAgICAgICAgICAgIE5BTUU6ICJQaWNrdXAiLAogICAgICAgICAgICBBQkJSRVZJQVRJT046ICJQaWNrdXAiLAogICAgICAgICAgICBERVNDUklQVElPTjogIlBpY2t1cCBMb2NhdGlvbiIKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBpZiB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBlbHNlICIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR5cGVfaW5mbyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdHJ1Y3Rpb25zPSIiLAogICAgICAgICAgICBpc193YXJlaG91c2U9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hpcHBpbmdfYWRkcmVzc2VlPXNlbGYuX2dldF93YXJlaG91c2Vfc2hpcHBpbmdfYWRkcmVzc2VlKHdhcmVob3VzZSksCiAgICAgICAgICAgIHNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzE9d2FyZWhvdXNlLnNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzEsCiAgICAgICAgICAgIHNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzI9d2FyZWhvdXNlLnNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzIsCiAgICAgICAgICAgIHNoaXBwaW5nX2NpdHk9d2FyZWhvdXNlLnNoaXBwaW5nX2NpdHksCiAgICAgICAgICAgIHNoaXBwaW5nX3N0YXRlPXdhcmVob3VzZS5zaGlwcGluZ19zdGF0ZSwKICAgICAgICAgICAgc2hpcHBpbmdfcG9zdGFsX2NvZGU9d2FyZWhvdXNlLnNoaXBwaW5nX3Bvc3RhbF9jb2RlLAogICAgICAgICAgICBzaGlwcGluZ19jb3VudHJ5PXdhcmVob3VzZS5zaGlwcGluZ19jb3VudHJ5LAogICAgICAgICAgICBzaGlwcGluZ19waG9uZV9udW1iZXI9d2FyZWhvdXNlLnNoaXBwaW5nX3Bob25lX251bWJlciwKICAgICAgICAgICAgc2hpcHBpbmdfZW1haWw9IlBlbG90b25AZXhhbXBsZS5jb20iLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-            
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXNfd2FyZWhvdXNlPVRydWUpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-            WAYPOINT_TYPE_ID: 0,
-            NAME: &quot;Pickup&quot;,
-            ABBREVIATION: &quot;Pickup&quot;,
-            DESCRIPTION: &quot;Pickup Location&quot;
-        },</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdHJ1Y3Rpb25zPSIiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hpcHBpbmdfYWRkcmVzc2VlPXNlbGYuX2dldF93YXJlaG91c2Vfc2hpcHBpbmdfYWRkcmVzc2VlKHdhcmVob3VzZSksCiAgICAgICAgICAgIHNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzE9d2FyZWhvdXNlLnNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzEsCiAgICAgICAgICAgIHNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzI9d2FyZWhvdXNlLnNoaXBwaW5nX3N0cmVldF9hZGRyZXNzXzIsCiAgICAgICAgICAgIHNoaXBwaW5nX2NpdHk9d2FyZWhvdXNlLnNoaXBwaW5nX2NpdHksCiAgICAgICAgICAgIHNoaXBwaW5nX3N0YXRlPXdhcmVob3VzZS5zaGlwcGluZ19zdGF0ZSwKICAgICAgICAgICAgc2hpcHBpbmdfcG9zdGFsX2NvZGU9d2FyZWhvdXNlLnNoaXBwaW5nX3Bvc3RhbF9jb2RlLAogICAgICAgICAgICBzaGlwcGluZ19jb3VudHJ5PXdhcmVob3VzZS5zaGlwcGluZ19jb3VudHJ5LAogICAgICAgICAgICBzaGlwcGluZ19waG9uZV9udW1iZXI9d2FyZWhvdXNlLnNoaXBwaW5nX3Bob25lX251bWJlciwKICAgICAgICAgICAgc2hpcHBpbmdfZW1haWw9IlBlbG90b25AZXhhbXBsZS5jb20iLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>3222</text>
+        <text>357</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFc3RpbWF0ZWREZWxpdmVyeURhdGVcPg==</last-search>
+      <last-search>origin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFc3RpbWF0ZWREZWxpdmVyeURhdGVcPg==</last-pattern>
+      <last-pattern>origin</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -413,8 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>capacity_per_day</entry>
-        <entry>get_balance_in_months</entry>
         <entry encoding="base64">XDxfZ2V0X3NoaXBwaW5nX3dhcmVob3VzZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X3BpY2t1cF93YXlwb2ludFw+</entry>
         <entry encoding="base64">XDxpc194cG9fc3lzdGVtX2lkX2VuYWJsZWRcPg==</entry>
@@ -433,9 +418,10 @@
         <entry encoding="base64">XDxQSUNLVVBcPg==</entry>
         <entry encoding="base64">XDxEUk9QT0ZGXD4=</entry>
         <entry encoding="base64">XDxFc3RpbWF0ZWREZWxpdmVyeURhdGVcPg==</entry>
+        <entry encoding="base64">XDxTWVNURU1fSURcPg==</entry>
+        <entry>origin</entry>
       </history-search>
       <history-cmd>
-        <entry>13538</entry>
         <entry>13601</entry>
         <entry>13645</entry>
         <entry>13725</entry>
@@ -455,6 +441,7 @@
         <entry encoding="base64">JzwsJz4zMTU2</entry>
         <entry>3156</entry>
         <entry>3222</entry>
+        <entry>357</entry>
       </history-cmd>
       <history-expr />
       <history-input />
