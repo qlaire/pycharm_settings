@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -40,12 +40,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1557172968460">
-        <mark key="'" line="240" column="23" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="^" line="262" column="27" />
-        <mark key="." line="246" column="0" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1557174026762">
+        <mark key="'" line="323" column="12" />
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="84" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556289582732">
         <mark key="'" line="3420" column="0" />
@@ -142,9 +140,9 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/tread_return.py" timestamp="1557172383250">
         <mark key="'" line="5" column="73" />
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="42" column="59" />
-        <mark key="." line="42" column="59" />
-        <mark key="^" line="42" column="59" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="41" column="59" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
@@ -240,19 +238,18 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1557173059455">
-        <mark key="'" line="349" column="35" />
-        <mark key="[" line="323" column="18" />
-        <mark key="]" line="328" column="13" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1557174035420">
+        <mark key="'" line="303" column="48" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="367" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="672" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="673" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
@@ -330,7 +327,6 @@
       <jump line="379" column="24" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="203" column="29" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="300" column="34" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="302" column="34" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="262" column="25" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="312" column="4" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="305" column="34" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
@@ -352,10 +348,12 @@
       <jump line="88" column="11" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="349" column="35" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="240" column="23" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
+      <jump line="302" column="48" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
+      <jump line="323" column="12" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>is_xpo_system_id_enabled</text>
       </register>
       <register name="-" type="4">
         <text>{},</text>
@@ -364,12 +362,7 @@
         <text encoding="base64">XDxFc3RpbWF0ZWREZWxpdmVyeURhdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>{
-                WAYPOINT_TYPE_ID: 0,
-                NAME: &quot;Dropoff&quot;,
-                ABBREVIATION: &quot;DROPOFF&quot;,
-                DESCRIPTION: &quot;DropOff Location&quot;
-            },</text>
+        <text>is_xpo_system_id_enabled</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
