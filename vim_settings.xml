@@ -37,9 +37,6 @@
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/stripe_.py" timestamp="1556135486869">
-        <mark key="'" line="168" column="15" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
@@ -47,11 +44,10 @@
         <mark key="'" line="31" column="59" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1556289582732">
-        <mark key="'" line="3154" column="0" />
-        <mark key="[" line="3154" column="0" />
-        <mark key="]" line="3154" column="0" />
-        <mark key="^" line="3062" column="0" />
-        <mark key="." line="3154" column="0" />
+        <mark key="'" line="3420" column="0" />
+        <mark key="[" line="3420" column="0" />
+        <mark key="]" line="3420" column="0" />
+        <mark key="." line="3420" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556139471962">
         <mark key="[" line="22" column="0" />
@@ -70,9 +66,6 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/shipping/quotes/test_us_get_shipper_method.py" timestamp="1556033154000">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="77" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/please/make.py" timestamp="1553717947686">
-        <mark key="'" line="167" column="8" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
@@ -177,12 +170,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1556209649425">
-        <mark key="'" line="1138" column="20" />
-        <mark key="[" line="1138" column="39" />
-        <mark key="]" line="1138" column="39" />
-        <mark key="^" line="1138" column="39" />
-        <mark key="." line="1138" column="39" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557162726801">
+        <mark key="'" line="1122" column="20" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1555968774707">
         <mark key="'" line="163" column="13" />
@@ -259,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2291" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="3067" column="50" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="23" column="25" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="149" column="13" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="957" column="30" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
@@ -359,6 +346,8 @@
       <jump line="3222" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="228" column="0" filename="$USER_HOME$/Development/api/data/models/warehouse.py" />
       <jump line="182" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
+      <jump line="1923" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1122" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -368,7 +357,7 @@
         <text>after_cancelled_sub_is_reactivated_has_balance</text>
       </register>
       <register name="/" type="4">
-        <text>capacity_per_day</text>
+        <text>get_balance_in_months</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VuZF9kdWVfc3Vic2NyaXB0aW9uc190b19jaGFyZ2VfcXVldWUoKQoKICAgICAgICAgICAgc3Vic2NyaXB0aW9uLmxvYWQoKQoKICAgICAgICAgICAgIyBjaGVjayBiYWxhbmNlIGluIG1vbnRocyBhZnRlciBzdWNjZXNzZnVsIGJpbGxpbmcKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgwLCBzdWJzY3JpcHRpb24uYmFsYW5jZV9pbl9tb250aHMpCg==</text>
@@ -405,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>capacity_per_day</last-search>
+      <last-search>get_balance_in_months</last-search>
       <last-offset />
-      <last-pattern>capacity_per_day</last-pattern>
+      <last-pattern>get_balance_in_months</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry encoding="base64">XDxwZWxvdG9uX2RpZ2l0YWxfdXNlcl8xXD4=</entry>
         <entry encoding="base64">XDxza2lwXD4=</entry>
         <entry>balance_in_months</entry>
@@ -435,6 +423,7 @@
         <entry encoding="base64">XDxwcm9jZXNzX21xXD4=</entry>
         <entry>is_capacity</entry>
         <entry>capacity_per_day</entry>
+        <entry>get_balance_in_months</entry>
       </history-search>
       <history-cmd>
         <entry>13538</entry>
