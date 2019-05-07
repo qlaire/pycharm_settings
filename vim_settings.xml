@@ -6,8 +6,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1557249086559">
-        <mark key="'" line="441" column="52" />
+      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1557261552146">
+        <mark key="'" line="386" column="24" />
+        <mark key="[" line="1406" column="8" />
+        <mark key="]" line="1406" column="18" />
+        <mark key="^" line="1406" column="18" />
+        <mark key="." line="1406" column="18" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
@@ -52,11 +56,6 @@
         <mark key="]" line="3420" column="0" />
         <mark key="." line="3420" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1556139471962">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
@@ -78,6 +77,13 @@
       <file name="$USER_HOME$/Development/api/data/models/postalcode.py" timestamp="1556032690200">
         <mark key="'" line="114" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" timestamp="1557262293264">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="311" column="27" />
+        <mark key="]" line="311" column="26" />
+        <mark key="." line="311" column="26" />
+        <mark key="^" line="311" column="26" />
+      </file>
       <file name="$USER_HOME$/Development/api/pip-requirements.txt" timestamp="1556131217692">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="78" column="19" />
@@ -90,6 +96,13 @@
       </file>
       <file name="$USER_HOME$/Development/api/errors/ecomm.py" timestamp="1554390553010">
         <mark key="'" line="574" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" timestamp="1557262608098">
+        <mark key="'" line="48" column="32" />
+        <mark key="[" line="1498" column="30" />
+        <mark key="]" line="1498" column="35" />
+        <mark key="^" line="1498" column="35" />
+        <mark key="." line="1498" column="35" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" timestamp="1555442438623">
         <mark key="'" line="330" column="42" />
@@ -118,10 +131,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1556209371652">
+      <file name="/Python Console" timestamp="1557262296345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1556209723855">
+      <file name="/fragment.py" timestamp="1557262320299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/warehouse.py" timestamp="1557240112145">
@@ -253,11 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1600" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="1611" column="28" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="2292" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="2300" column="28" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
-      <jump line="2351" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="2359" column="28" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="2397" column="61" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
       <jump line="3071" column="8" filename="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" />
@@ -339,7 +347,6 @@
       <jump line="397" column="24" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="306" column="9" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="386" column="4" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1207" column="60" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1111" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="818" column="52" filename="$USER_HOME$/Development/api/data/models/order.py" />
@@ -353,55 +360,61 @@
       <jump line="441" column="52" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="295" column="9" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="141" column="13" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
+      <jump line="386" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="38" column="8" filename="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" />
+      <jump line="1505" column="34" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
+      <jump line="1498" column="57" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
+      <jump line="48" column="32" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>ALUE</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>can_schedule</text>
+        <text>coupon</text>
       </register>
-      <register name="0" type="4">
-        <text>IHQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMgo=</text>
+        <text encoding="base64">ICAgIG1xIC8gYXBwIC8gaGFuZGxlcnMgLyBlbWFpbCAvIG9yZGVyX2NvbmZpcm1hdGlvbl9lbWFpbHMgLyBvcmRlcl9jb25maXJtYXRpb25fZW1haWwucHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChzZWxmLm9yZGVyLmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2F5cG9vb29pbnQnLCB3YXlwb2ludCkK</text>
+        <text encoding="base64">ICAgICAgICB1cmwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydE5vdEluKCdTeXN0ZW1JZCcsIHdheXBvaW50KQogICAgICAgIHNlbGYuYXNzZXJ0SW4oJ1N0cmVldEFkZHJlc3MnLCB3YXlwb2ludCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJ4cG9fc3lzdGVtX2lkIiwgZW5hYmxlZD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGRhdGEgLyBtb2RlbHMgLyBvcmRlci5weQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYW55KHNoaXBtZW50LmNhbl9zY2hlZHVsZV9kZWxpdmVyeSBmb3Igc2hpcG1lbnQgaW4gc2VsZi5zaGlwbWVudF9zZXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwcGluZ19zdHJlZXRfYWRkcmVzc18yID0gKAogICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBpZiB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBlbHNlICIiCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaGlwcGluZ19zdHJlZXRfYWRkcmVzc18yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBpZiB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMiBlbHNlICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2F5cG9vb29pbnQnLCB3YXlwb2ludCkK</text>
       </register>
       <register name=":" type="4">
         <text>357</text>
       </register>
     </registers>
     <search>
-      <last-search>can_schedule</last-search>
+      <last-search>coupon</last-search>
       <last-offset />
-      <last-pattern>can_schedule</last-pattern>
+      <last-pattern>coupon</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -409,8 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtYXR0ZWRfcG9zdGFsX2NvZGVcPg==</entry>
-        <entry encoding="base64">XDxzaGlwcGluZ19lbWFpbFw+</entry>
         <entry encoding="base64">XDxfZ2V0X29yaWdpbl9hZGRyXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3dheXBvaW50c1w+</entry>
         <entry encoding="base64">XDxfZ2V0X3dhcmVob3VzZV9zaGlwcGluZ19hZGRyZXNzZWVcPg==</entry>
@@ -429,6 +440,8 @@
         <entry encoding="base64">XDxTWVNURU1fSURcPg==</entry>
         <entry>shipment_set</entry>
         <entry>can_schedule</entry>
+        <entry>coupon'</entry>
+        <entry>coupon</entry>
       </history-search>
       <history-cmd>
         <entry>13601</entry>
