@@ -412,7 +412,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnd2F5cG9vb29pbnQnLCB3YXlwb2ludCkK</text>
       </register>
       <register name=":" type="4">
-        <text>357</text>
+        <text>649</text>
       </register>
     </registers>
     <search>
@@ -448,8 +448,6 @@
         <entry encoding="base64">XDxfZG9fdXhfY2FsbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>13601</entry>
-        <entry>13645</entry>
         <entry>13725</entry>
         <entry>13854</entry>
         <entry>13930</entry>
@@ -468,6 +466,8 @@
         <entry>3156</entry>
         <entry>3222</entry>
         <entry>357</entry>
+        <entry encoding="base64">JzwsJz42NDk=</entry>
+        <entry>649</entry>
       </history-cmd>
       <history-expr />
       <history-input />
