@@ -185,8 +185,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557344875720">
-        <mark key="'" line="1138" column="20" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557346768957">
+        <mark key="'" line="719" column="37" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1555968774707">
         <mark key="'" line="163" column="13" />
@@ -270,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="317" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="362" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="228" column="5" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
@@ -370,6 +369,7 @@
       <jump line="713" column="25" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="1118" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1138" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="719" column="37" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,7 +379,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19vdmVyZHVlXD4=</text>
+        <text>balance_in_months</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
@@ -416,9 +416,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19vdmVyZHVlXD4=</last-search>
+      <last-search>balance_in_months</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19vdmVyZHVlXD4=</last-pattern>
+      <last-pattern>balance_in_months</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -426,7 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>origin</entry>
         <entry>code</entry>
         <entry encoding="base64">XDxzaGlwcGluZ19hZGRyZXNzZWVcPg==</entry>
         <entry>locality</entry>
@@ -446,6 +445,7 @@
         <entry encoding="base64">XDxfZG9fdXhfY2FsbFw+</entry>
         <entry>is_overdue</entry>
         <entry encoding="base64">XDxpc19vdmVyZHVlXD4=</entry>
+        <entry>balance_in_months</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
