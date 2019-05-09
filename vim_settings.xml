@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1557261552146">
-        <mark key="'" line="386" column="24" />
+      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1557432968164">
+        <mark key="'" line="1366" column="29" />
         <mark key="[" line="1386" column="8" />
         <mark key="]" line="1386" column="18" />
         <mark key="^" line="1386" column="18" />
@@ -76,12 +76,12 @@
       <file name="$USER_HOME$/Development/api/data/models/postalcode.py" timestamp="1556032690200">
         <mark key="'" line="114" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" timestamp="1557262293264">
+      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" timestamp="1557432764716">
         <mark key="'" line="38" column="8" />
-        <mark key="[" line="311" column="27" />
-        <mark key="]" line="311" column="26" />
-        <mark key="." line="311" column="26" />
-        <mark key="^" line="311" column="26" />
+        <mark key="[" line="314" column="58" />
+        <mark key="]" line="314" column="61" />
+        <mark key="." line="314" column="61" />
+        <mark key="^" line="314" column="61" />
       </file>
       <file name="$USER_HOME$/Development/api/pip-requirements.txt" timestamp="1557416675738">
         <mark key="'" line="111" column="0" />
@@ -155,8 +155,12 @@
       <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
         <mark key="'" line="382" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1557252851229">
-        <mark key="'" line="295" column="9" />
+      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1557433018724">
+        <mark key="'" line="824" column="22" />
+        <mark key="[" line="830" column="52" />
+        <mark key="]" line="831" column="18" />
+        <mark key="^" line="831" column="18" />
+        <mark key="." line="831" column="18" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/features/lib/steps.py" timestamp="1556031019930">
         <mark key="'" line="405" column="18" />
@@ -209,6 +213,13 @@
         <mark key="]" line="270" column="13" />
         <mark key="." line="186" column="65" />
         <mark key="^" line="186" column="65" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" timestamp="1557433216518">
+        <mark key="'" line="391" column="46" />
+        <mark key="[" line="572" column="47" />
+        <mark key="]" line="574" column="45" />
+        <mark key="^" line="574" column="45" />
+        <mark key="." line="574" column="45" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -266,28 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="292" column="7" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="8" column="61" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="312" column="11" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="313" column="33" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="340" column="27" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="379" column="24" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="203" column="29" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="300" column="34" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="262" column="25" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="312" column="4" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="305" column="34" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="396" column="44" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="211" column="29" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="535" column="16" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="188" column="8" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="41" column="36" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" />
-      <jump line="687" column="27" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="430" column="17" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="248" column="19" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="249" column="27" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="250" column="26" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="87" column="10" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="90" column="13" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="88" column="11" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
@@ -308,7 +297,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="56" column="31" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
       <jump line="397" column="24" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="306" column="9" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1207" column="60" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1111" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
@@ -366,16 +354,39 @@
       <jump line="1040" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1054" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1117" column="20" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="449" column="15" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="466" column="55" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="1422" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="824" column="22" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="272" column="8" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="348" column="35" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="925" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1064" column="21" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1065" column="21" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1077" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1094" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1283" column="39" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1366" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="55" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="70" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="134" column="21" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="269" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="287" column="28" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="354" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="391" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>snappy</text>
+        <text>postal_code</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
@@ -412,9 +423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>snappy</last-search>
+      <last-search>postal_code</last-search>
       <last-offset />
-      <last-pattern>snappy</last-pattern>
+      <last-pattern>postal_code</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -422,11 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submit_order</entry>
-        <entry>submit</entry>
-        <entry>submit_shipment</entry>
-        <entry>systemid</entry>
-        <entry encoding="base64">XDxfZ2V0X3dheXBvaW50c1w+</entry>
         <entry encoding="base64">XDxnZXRfcmVxdWVzdF9ib2R5XD4=</entry>
         <entry encoding="base64">XDxfZG9fdXhfY2FsbFw+</entry>
         <entry encoding="base64">XDxpc19vdmVyZHVlXD4=</entry>
@@ -442,6 +448,11 @@
         <entry>get_debit_time</entry>
         <entry>balance_in_months</entry>
         <entry>snappy</entry>
+        <entry>postal_code(</entry>
+        <entry>shipping_postal_code)</entry>
+        <entry>shipping_postal_code(</entry>
+        <entry encoding="base64">XDxzaGlwcGluZ19wb3N0YWxfY29kZVw+</entry>
+        <entry>postal_code</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
