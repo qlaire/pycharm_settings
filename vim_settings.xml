@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -185,8 +185,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557353398920">
-        <mark key="'" line="117" column="33" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557414333519">
+        <mark key="'" line="361" column="4" />
         <mark key="[" line="719" column="35" />
         <mark key="]" line="719" column="35" />
         <mark key="." line="719" column="35" />
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_unpause_subscription.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-497732817/data/models/warehouse.py" />
       <jump line="19" column="37" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-497732817/data/models/warehouse.py" />
       <jump line="19" column="40" filename="$USER_HOME$/Development/api/data/models/warehouse.py" />
@@ -373,6 +372,7 @@
       <jump line="1451" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="1934" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="117" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="361" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -382,7 +382,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJzY3JpcHRpb25faXJyZWd1bGFyX2NoYXJnZVw+</text>
+        <text>balance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
@@ -419,9 +419,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJzY3JpcHRpb25faXJyZWd1bGFyX2NoYXJnZVw+</last-search>
+      <last-search>balance</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJzY3JpcHRpb25faXJyZWd1bGFyX2NoYXJnZVw+</last-pattern>
+      <last-pattern>balance</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -429,7 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shipment_set</entry>
         <entry>can_schedule</entry>
         <entry>coupon'</entry>
         <entry>coupon</entry>
@@ -449,6 +448,7 @@
         <entry>last_billing_attempted_at</entry>
         <entry>irregular</entry>
         <entry encoding="base64">XDxzdWJzY3JpcHRpb25faXJyZWd1bGFyX2NoYXJnZVw+</entry>
+        <entry>balance</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
