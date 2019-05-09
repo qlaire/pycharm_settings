@@ -119,12 +119,6 @@
       <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/bike_return.py" timestamp="1557178893556">
-        <mark key="[" line="42" column="74" />
-        <mark key="]" line="42" column="73" />
-        <mark key="." line="42" column="73" />
-        <mark key="^" line="42" column="73" />
-      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
       </file>
@@ -195,7 +189,7 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1555968774707">
         <mark key="'" line="163" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556138089757">
+      <file name="/Dummy.txt" timestamp="1557417390827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/__init__.py" timestamp="1557241252751">
@@ -383,7 +377,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>balance_in_months</text>
+        <text>snappy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
@@ -420,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>balance_in_months</last-search>
+      <last-search>snappy</last-search>
       <last-offset />
-      <last-pattern>balance_in_months</last-pattern>
+      <last-pattern>snappy</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -430,7 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X29yaWdpbl9hZGRyXD4=</entry>
         <entry>submit_order</entry>
         <entry>submit</entry>
         <entry>submit_shipment</entry>
@@ -450,6 +443,7 @@
         <entry>get_balance_</entry>
         <entry>get_debit_time</entry>
         <entry>balance_in_months</entry>
+        <entry>snappy</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
