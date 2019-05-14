@@ -181,6 +181,13 @@
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" timestamp="1557857895323">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="278" column="8" />
+        <mark key="]" line="278" column="8" />
+        <mark key="." line="278" column="8" />
+        <mark key="^" line="278" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557415861128">
         <mark key="'" line="1117" column="20" />
         <mark key="[" line="1173" column="28" />
@@ -265,8 +272,8 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1557856106139">
-        <mark key="'" line="21" column="63" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1557857488013">
+        <mark key="'" line="455" column="16" />
         <mark key="[" line="21" column="65" />
         <mark key="]" line="21" column="63" />
         <mark key="^" line="21" column="63" />
@@ -284,10 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="662" column="11" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="558" column="90" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
-      <jump line="579" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/warehouse.py" />
       <jump line="13" column="20" filename="$USER_HOME$/Development/api/data/models/warehouse.py" />
       <jump line="29" column="7" filename="$USER_HOME$/Development/api/data/models/warehouse.py" />
@@ -382,57 +385,64 @@
       <jump line="152" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
       <jump line="257" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
       <jump line="280" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="455" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
       <jump line="21" column="63" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="455" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="261" column="12" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
+      <jump line="340" column="22" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>authenticated</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>authenticated</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</text>
+        <text>artist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5jbXNfYXBwLnBvc3QoCiAgICAgICAgICAgICIvbG9naW4iLAogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfb3JfZW1haWw9c2VsZi5hZG1pbi5lbWFpbCwKICAgICAgICAgICAgICAgIHBhc3N3b3JkPSdhZG1pbl9zZWNyZXQnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1xIC8gYXBwIC8gaGFuZGxlcnMgLyBlbWFpbCAvIG9yZGVyX2NvbmZpcm1hdGlvbl9lbWFpbHMgLyBvcmRlcl9jb25maXJtYXRpb25fZW1haWwucHkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNtc19hcHAgPSBUZXN0QXBwKGNoZXJyeXB5LnRyZWUubW91bnQoUm9vdCgpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChzZWxmLm9yZGVyLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5jbXNfYXBwLnBvc3QoICIvbG9naW4iLAogICAgICAgICAgICBkaWN0KAogICAgICAgICAgICAgICAgdXNlcm5hbWVfb3JfZW1haWw9c2VsZi5tZW1iZXJfZW1haWwsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1zZWxmLm5ld19wYXNzd29yZAogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluX3VzZXIuaXNfYWRtaW4gPSBUcnVlCiAgICAgICAgc2VsZi5hZG1pbl91c2VyLmlzX3N1cGVyYWRtaW4gPSBGYWxzZQogICAgICAgIHNlbGYuYWRtaW5fdXNlci5zYXZlKCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+      <register name="4" type="4">
+        <text>(
+            user__password='brads_password',
+            user__email='admin@onepeloton.com'
+        )</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgLyBtb2RlbHMgLyBvcmRlci5weQo=</text>
+        <text encoding="base64">ICAgIG1xIC8gYXBwIC8gaGFuZGxlcnMgLyBlbWFpbCAvIG9yZGVyX2NvbmZpcm1hdGlvbl9lbWFpbHMgLyBvcmRlcl9jb25maXJtYXRpb25fZW1haWwucHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYW55KHNoaXBtZW50LmNhbl9zY2hlZHVsZV9kZWxpdmVyeSBmb3Igc2hpcG1lbnQgaW4gc2VsZi5zaGlwbWVudF9zZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChzZWxmLm9yZGVyLmlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YXJlaG91c2Uuc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMgo=</text>
+        <text encoding="base64">ICAgICAgICB1cmwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2F5cG9vb29pbnQnLCB3YXlwb2ludCkK</text>
+        <text encoding="base64">ICAgIGRhdGEgLyBtb2RlbHMgLyBvcmRlci5weQo=</text>
       </register>
       <register name=":" type="4">
         <text>649</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</last-search>
+      <last-search>artist</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</last-pattern>
+      <last-pattern>artist</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -440,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZG9fdXhfY2FsbFw+</entry>
         <entry encoding="base64">XDxpc19vdmVyZHVlXD4=</entry>
         <entry>make_payment</entry>
         <entry>is_overdue</entry>
@@ -460,6 +469,7 @@
         <entry encoding="base64">XDxzaGlwcGluZ19wb3N0YWxfY29kZVw+</entry>
         <entry>postal_code</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</entry>
+        <entry>artist</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
