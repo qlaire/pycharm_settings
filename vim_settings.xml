@@ -265,6 +265,13 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1557856106139">
+        <mark key="'" line="21" column="63" />
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="63" />
+        <mark key="^" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" timestamp="1557327322425">
         <mark key="'" line="304" column="38" />
         <mark key="[" line="306" column="94" />
@@ -277,13 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="10" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="90" column="13" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="88" column="11" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="349" column="35" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="240" column="23" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
-      <jump line="302" column="48" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/xpo_us/xpo_us_request.py" />
-      <jump line="323" column="12" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
       <jump line="662" column="11" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
       <jump line="558" column="90" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_xpo_us_request.py" />
@@ -377,16 +377,23 @@
       <jump line="287" column="28" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="354" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="391" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
+      <jump line="46" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="69" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="152" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="257" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="280" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="455" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="21" column="63" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>authenticated</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>authenticated</text>
       </register>
       <register name="/" type="4">
-        <text>postal_code</text>
+        <text encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSAiaHR0cHM6Ly93d3cub25lcGVsb3Rvbi5jb20vZGVsaXZlcnkve30iLmZvcm1hdChvcmRlci5pZCkK</text>
@@ -423,9 +430,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postal_code</last-search>
+      <last-search encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern>postal_code</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -433,7 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfcmVxdWVzdF9ib2R5XD4=</entry>
         <entry encoding="base64">XDxfZG9fdXhfY2FsbFw+</entry>
         <entry encoding="base64">XDxpc19vdmVyZHVlXD4=</entry>
         <entry>make_payment</entry>
@@ -453,6 +459,7 @@
         <entry>shipping_postal_code(</entry>
         <entry encoding="base64">XDxzaGlwcGluZ19wb3N0YWxfY29kZVw+</entry>
         <entry>postal_code</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
