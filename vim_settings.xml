@@ -55,7 +55,12 @@
         <mark key="]" line="3420" column="0" />
         <mark key="." line="3420" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/server.py" timestamp="1557953511845" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/server.py" timestamp="1557957876963">
+        <mark key="[" line="168" column="41" />
+        <mark key="]" line="168" column="45" />
+        <mark key="." line="168" column="45" />
+        <mark key="^" line="168" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
@@ -286,8 +291,8 @@
         <mark key="^" line="2592" column="47" />
         <mark key="." line="2592" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1557951877711">
-        <mark key="'" line="459" column="39" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1557957819722">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -305,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="295" column="9" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="141" column="13" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
       <jump line="386" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
@@ -405,13 +409,14 @@
       <jump line="44" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/decorators.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
       <jump line="459" column="39" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlcnJvcnMgaW1wb3J0IE1pc3NpbmdQYXJhbWV0ZXJFcnJvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WW91IGRvIG5vdCBoYXZlIHBlcm1pc3Npb24g</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>has_perm</text>
