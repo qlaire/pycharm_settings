@@ -207,7 +207,12 @@
         <mark key="." line="331" column="35" />
         <mark key="^" line="331" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/api/lib/utils/csrf.py" timestamp="1558019002028" />
+      <file name="$USER_HOME$/Development/api/lib/utils/csrf.py" timestamp="1558020261075">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="13" column="61" />
+        <mark key="^" line="13" column="61" />
+        <mark key="." line="13" column="61" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557415861128">
         <mark key="'" line="1117" column="20" />
         <mark key="[" line="1173" column="28" />
