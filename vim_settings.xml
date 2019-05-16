@@ -137,7 +137,7 @@
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1557262296345">
+      <file name="/Python Console" timestamp="1558019026540">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557262320299">
@@ -207,6 +207,7 @@
         <mark key="." line="331" column="35" />
         <mark key="^" line="331" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/api/lib/utils/csrf.py" timestamp="1558019002028" />
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557415861128">
         <mark key="'" line="1117" column="20" />
         <mark key="[" line="1173" column="28" />
@@ -419,7 +420,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>has_perm</text>
+        <text>stdin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hlcnJ5cHkucmVzcG9uc2Uuc3RhdHVzID0gNDAzCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVycm9yKGhlYWRlcj0iQWNjZXNzIGRlbmllZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ9Ikluc3VmZmljaWVudCBwZXJtaXNzaW9ucy4iKQo=</text>
@@ -456,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>has_perm</last-search>
+      <last-search>stdin</last-search>
       <last-offset />
-      <last-pattern>has_perm</last-pattern>
+      <last-pattern>stdin</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -466,8 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>balance</entry>
-        <entry>create_transa</entry>
         <entry>get_balance_</entry>
         <entry>get_debit_time</entry>
         <entry>balance_in_months</entry>
@@ -486,6 +485,8 @@
         <entry>permission</entry>
         <entry encoding="base64">XDxjaGVycnlweVw+</entry>
         <entry>has_perm</entry>
+        <entry>tty</entry>
+        <entry>stdin</entry>
       </history-search>
       <history-cmd>
         <entry>13725</entry>
