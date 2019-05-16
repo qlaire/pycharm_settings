@@ -207,10 +207,12 @@
         <mark key="." line="331" column="35" />
         <mark key="^" line="331" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/api/lib/utils/csrf.py" timestamp="1558024907818">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Development/api/lib/utils/csrf.py" timestamp="1558031370841">
+        <mark key="'" line="5" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1557415861128">
         <mark key="'" line="1117" column="20" />
@@ -315,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="38" column="8" filename="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" />
       <jump line="1505" column="34" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
       <jump line="1498" column="57" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/order_confirmation_emails/test_order_confirmation_email.py" />
@@ -415,6 +416,7 @@
       <jump line="457" column="42" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
       <jump line="487" column="26" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
+      <jump line="4" column="37" filename="$USER_HOME$/Development/api/lib/utils/csrf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
