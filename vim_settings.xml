@@ -39,20 +39,8 @@
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/netsuite/sales_order.py" timestamp="1558723528523">
-        <mark key="'" line="0" column="33" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="14" />
-        <mark key="." line="158" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_subscription.py" timestamp="1557415205860">
-        <mark key="'" line="3117" column="35" />
-        <mark key="[" line="3420" column="0" />
-        <mark key="]" line="3420" column="0" />
-        <mark key="." line="3420" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1559164802922">
         <mark key="'" line="15" column="23" />
@@ -275,6 +263,11 @@
       <file name="$USER_HOME$/Development/api/data/models/product.py" timestamp="1560266948092">
         <mark key="'" line="190" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" timestamp="1560527283059">
+        <mark key="[" line="282" column="45" />
+        <mark key="]" line="282" column="45" />
+        <mark key="." line="282" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1556208786883">
         <mark key="'" line="13" column="6" />
       </file>
@@ -429,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disabled=True,</text>
+        <text>is_</text>
       </register>
       <register name="-" type="4">
-        <text>disabled=True,</text>
+        <text>is_</text>
       </register>
       <register name="/" type="4">
         <text>find_single</text>
