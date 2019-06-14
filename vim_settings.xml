@@ -123,6 +123,9 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" timestamp="1555423394092">
         <mark key="'" line="72" column="8" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" timestamp="1560526092521">
+        <mark key="'" line="1784" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/shared/consts.py" timestamp="1557864856296">
         <mark key="'" line="158" column="30" />
         <mark key="[" line="1018" column="39" />
@@ -266,6 +269,9 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/default/installers/models.py" timestamp="1560525525831">
+        <mark key="'" line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/product.py" timestamp="1560266948092">
         <mark key="'" line="190" column="34" />
       </file>
@@ -320,17 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1065" column="21" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1077" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1094" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1283" column="39" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1366" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="55" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="70" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="134" column="21" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="269" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="287" column="28" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="354" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="391" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="46" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
@@ -420,6 +415,17 @@
       <jump line="71" column="24" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="69" column="13" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="100" column="4" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="23" column="28" filename="$USER_HOME$/Development/api/data/default/installers/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="2847" column="70" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1110" column="12" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1379" column="42" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1400" column="45" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1413" column="48" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1433" column="57" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1442" column="50" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1460" column="57" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
+      <jump line="1784" column="28" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -429,7 +435,7 @@
         <text>disabled=True,</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>find_single</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3NfcmVkaXJlY3RfdXJsID0gZnVsbF91cmxfY29tcG9zZXIoImRlbGl2ZXJ5LyIgKyBvcmRlci5pZCkK</text>
@@ -466,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>profile</last-search>
+      <last-search>find_single</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
+      <last-pattern>find_single</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -476,10 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>balance_in</entry>
-        <entry>balance_in_months(</entry>
-        <entry>enum</entry>
-        <entry>partner_flags</entry>
         <entry>assert</entry>
         <entry encoding="base64">XDxEb2VzTm90VmFsaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxzaGlwcGluZ1w+</entry>
@@ -496,6 +498,10 @@
         <entry>next</entry>
         <entry>iter</entry>
         <entry>profile</entry>
+        <entry>create_users</entry>
+        <entry>get</entry>
+        <entry>find</entry>
+        <entry>find_single</entry>
       </history-search>
       <history-cmd>
         <entry>13930</entry>
