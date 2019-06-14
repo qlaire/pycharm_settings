@@ -263,10 +263,11 @@
       <file name="$USER_HOME$/Development/api/data/models/product.py" timestamp="1560266948092">
         <mark key="'" line="190" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" timestamp="1560527283059">
-        <mark key="[" line="282" column="45" />
-        <mark key="]" line="282" column="45" />
-        <mark key="." line="282" column="45" />
+      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" timestamp="1560528221651">
+        <mark key="[" line="284" column="35" />
+        <mark key="]" line="284" column="53" />
+        <mark key="." line="284" column="53" />
+        <mark key="^" line="284" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1556208786883">
         <mark key="'" line="13" column="6" />
@@ -422,10 +423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is_</text>
+        <text>can_post_purchase_schedule</text>
       </register>
       <register name="-" type="4">
-        <text>is_</text>
+        <text>can_post_purchase_schedule</text>
       </register>
       <register name="/" type="4">
         <text>find_single</text>
