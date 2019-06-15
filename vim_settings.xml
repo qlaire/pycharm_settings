@@ -105,6 +105,13 @@
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" timestamp="1555442438623">
         <mark key="'" line="330" column="42" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" timestamp="1560546982203">
+        <mark key="'" line="313" column="8" />
+        <mark key="[" line="392" column="26" />
+        <mark key="]" line="392" column="32" />
+        <mark key="^" line="392" column="32" />
+        <mark key="." line="392" column="32" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
         <mark key="'" line="62" column="16" />
       </file>
@@ -326,27 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="152" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="257" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="280" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="21" column="63" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="455" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="261" column="12" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="340" column="22" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="49" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" />
-      <jump line="248" column="42" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="331" column="23" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="6" column="4" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="159" column="25" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/admin/test_admin.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
-      <jump line="287" column="4" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="71" column="21" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="991" column="4" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
-      <jump line="1255" column="20" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
-      <jump line="158" column="30" filename="$USER_HOME$/Development/api/data/models/shared/consts.py" />
       <jump line="158" column="12" filename="$USER_HOME$/Development/api/cms/app/server/controllers/decorators.py" />
       <jump line="130" column="24" filename="$USER_HOME$/Development/api/cms/app/server/controllers/decorators.py" />
       <jump line="112" column="41" filename="$USER_HOME$/Development/api/cms/app/server/controllers/decorators.py" />
@@ -426,55 +412,76 @@
       <jump line="236" column="52" filename="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" />
       <jump line="198" column="48" filename="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" />
       <jump line="137" column="16" filename="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" />
+      <jump line="382" column="54" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="381" column="24" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="310" column="25" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="413" column="8" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="392" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="389" column="56" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="384" column="26" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="383" column="8" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="362" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="359" column="52" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="330" column="25" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="329" column="25" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="328" column="25" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="312" column="8" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="287" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="258" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="229" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="198" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="152" column="12" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
+      <jump line="313" column="8" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPSJwYXJ0bmVyX2ZsYWdfY2hhbmdlZCh0aGlzKSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc19vcHRzPSIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiBwYXJ0bmVyX2ZsYWdfY2hhbmdlZChzZWxlY3RPYmopIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZHggPSBzZWxlY3RPYmouc2VsZWN0ZWRJbmRleDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB3aGljaCA9IHNlbGVjdE9iai5vcHRpb25zW2lkeF0udmFsdWU7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieHBvX3N5c3RlbV9pZF9kaXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh4ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdoaWNoID09ICJ1eCIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeC5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiIiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>fsl</text>
       </register>
       <register name="-" type="4">
-        <text>Warehouse.PARTNER_FLAGS</text>
+        <text>fsl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb3J0ZWRcPg==</text>
+        <text encoding="base64">XDxwYXJ0bmVyX2ZsYWdfb3B0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRyb2xHcm91cCgKICAgICAgICAgICAgICAgICAgICAiUGFydG5lciBGbGFnIiwKICAgICAgICAgICAgICAgICAgICBTZWxlY3RJbnB1dCgKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFydG5lcl9mbGFnIiwKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9c2VsZi5fZ2V0X3ZhbHVlKHdhcmVob3VzZSwgInBhcnRuZXJfZmxhZyIpLAogICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPXR1cGxlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VsZWN0T3B0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXBhcnRuZXJfZmxhZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0PXBhcnRuZXJfZmxhZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZD1wYXJ0bmVyX2ZsYWcgPT0gc2VsZi5fZ2V0X3ZhbHVlKHdhcmVob3VzZSwgInBhcnRuZXJfZmxhZyIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgcGFydG5lcl9mbGFnIGluIHNvcnRlZChXYXJlaG91c2UuUEFSVE5FUl9GTEFHUykKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgb25jaGFuZ2U9InBhcnRuZXJfZmxhZ19jaGFuZ2VkKHRoaXMpIiwKICAgICAgICAgICAgICAgICAgICAgICAganNfb3B0cz0iIiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ1bmN0aW9uIHBhcnRuZXJfZmxhZ19jaGFuZ2VkKHNlbGVjdE9iaikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZHggPSBzZWxlY3RPYmouc2VsZWN0ZWRJbmRleDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgd2hpY2ggPSBzZWxlY3RPYmoub3B0aW9uc1tpZHhdLnZhbHVlOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgeCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ4cG9fc3lzdGVtX2lkX2RpdiIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh4ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdoaWNoID09ICJ1eCIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeC5zdHlsZS5kaXNwbGF5ID0gImJsb2NrIjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHguc3R5bGUuZGlzcGxheSA9ICJub25lIjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICIiIiwKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlbmRlcl91cGRhdGVfZnNsX3dhcmVob3VzZV9jYW5fY2hhbmdlX3BhcnRuZXJfZmxhZyhzZWxmKToKICAgICAgICB3YXJlaG91c2Vfdmlld19tb2RlbCA9IFdhcmVob3VzZVZpZXdNb2RlbCgKICAgICAgICAgICAgaWQ9IjAiICogMzIsCiAgICAgICAgICAgIHBhcnRuZXJfZmxhZz0iZnNsIiwKICAgICAgICAgICAgY29kZT0ieHl6IiwKICAgICAgICAgICAgc2hpcHBpbmdfYWRkcmVzc2VlPSJBbGljZSBCb2IiLAogICAgICAgICAgICBzaGlwcGluZ19zdHJlZXRfYWRkcmVzc18xPSJhYmMiLAogICAgICAgICAgICBzaGlwcGluZ19zdHJlZXRfYWRkcmVzc18yPSJkZWYiLAogICAgICAgICAgICBzaGlwcGluZ19jaXR5PSJOZXcgWW9yayIsCiAgICAgICAgICAgIHNoaXBwaW5nX3N0YXRlPSJOWSIsCiAgICAgICAgICAgIHNoaXBwaW5nX3Bvc3RhbF9jb2RlPSIxMjM0NSIsCiAgICAgICAgICAgIHNoaXBwaW5nX2NvdW50cnk9IlVTIiwKICAgICAgICAgICAgc2hpcHBpbmdfcGhvbmVfbnVtYmVyPSI1NTU1NTU1NTU1IiwKICAgICAgICAgICAgZGF5c190b19maXJzdF9vZmZlcj0yLAogICAgICAgICAgICBibGFja291dF9kYXRlcz1bMTAwMDAwMDAwMCwgMjAwMDAwMDAwMF0sCiAgICAgICAgICAgIHJlc2VydmF0aW9ucz1Ob25lLAogICAgICAgICAgICBjYW5fcG9zdF9wdXJjaGFzZV9zY2hlZHVsZT1GYWxzZSwKICAgICAgICAgICAgY2FuX3NoaXBfYWNjZXNzb3JpZXM9VHJ1ZSwKICAgICAgICAgICAgY2FuX3NoaXBfc3BhcmVfcGFydHM9VHJ1ZSwKICAgICAgICAgICAgY2FwYWNpdGllcz1Ob25lLAogICAgICAgICAgICB4cG9fYWRkcmVzc19zeXN0ZW1faWQ9Tm9uZSkKCiAgICAgICAgbm9kZSA9IFdhcmVob3VzZUZvcm0oImZvb2JhciIsIFdhcmVob3VzZUZvcm0uQUNUSU9OLlVQREFURSwgd2FyZWhvdXNlPXdhcmVob3VzZV92aWV3X21vZGVsKQogICAgICAgIHJlbmRlcmVkX25vZGUgPSBCZWF1dGlmdWxTb3VwKERPTS5yZW5kZXIobm9kZSkpCiAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gc2VsZi5fZmluZF9ieV9uYW1lKHJlbmRlcmVkX25vZGUsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgIHBhcnRuZXJfb3B0aW9ucyA9IHBhcnRuZXJfZmxhZ19pbnB1dC5maW5kX2FsbCgib3B0aW9uIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBhcnRuZXJfb3B0aW9uc1swXS5nZXQoInZhbHVlIiksICJmc2wiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocGFydG5lcl9vcHRpb25zWzFdLmdldCgidmFsdWUiKSwgInBlbG90b24iKQogICAgICAgIHNlbGYuYXNzZXJ0TGVuKHBhcnRuZXJfb3B0aW9ucywgMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPSJwYXJ0bmVyX2ZsYWdfY2hhbmdlZCh0aGlzKSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc19vcHRzPSIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiBwYXJ0bmVyX2ZsYWdfY2hhbmdlZChzZWxlY3RPYmopIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZHggPSBzZWxlY3RPYmouc2VsZWN0ZWRJbmRleDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB3aGljaCA9IHNlbGVjdE9iai5vcHRpb25zW2lkeF0udmFsdWU7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieHBvX3N5c3RlbV9pZF9kaXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh4ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdoaWNoID09ICJ1eCIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeC5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncGFydG5lciBmbGFnIGlucHV0IC0tLS0tLS0tLScsIHBhcnRuZXJfb3B0aW9ucykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5Qcm9kdWN0LnNhdmVfd2l0aCgKICAgICAgICAgICAgc2x1Zz0nc3Vic2NyaXB0aW9uJywKICAgICAgICAgICAgaXNfdGFuZ2libGU9RmFsc2UsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UKICAgICAgICApCiAgICAgICAgc3Vic2NyaXB0aW9uX29wdGlvbiA9IE1vZGVsLlByb2R1Y3RPcHRpb24uc2F2ZV93aXRoKAogICAgICAgICAgICBza3U9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHNsdWc9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHByaWNlX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c3Vic2NyaXB0aW9uLmlkCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBhcnRuZXJfZmxhZ19pbnB1dC5hdHRyc1sidmFsdWUiXSwgImZzbCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwYXJ0bmVyX2ZsYWdfaW5wdXQuYXR0cnNbImRpc2FibGVkIl0sICJkaXNhYmxlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5Qcm9kdWN0LnNhdmVfd2l0aCgKICAgICAgICAgICAgc2x1Zz0nc3Vic2NyaXB0aW9uJywKICAgICAgICAgICAgaXNfdGFuZ2libGU9RmFsc2UsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UKICAgICAgICApCiAgICAgICAgc3Vic2NyaXB0aW9uX29wdGlvbiA9IE1vZGVsLlByb2R1Y3RPcHRpb24uc2F2ZV93aXRoKAogICAgICAgICAgICBza3U9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHNsdWc9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHByaWNlX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c3Vic2NyaXB0aW9uLmlkCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtID0gb25seShyZW5kZXJlZF9ub2RlLmZpbmRfYWxsKCJmb3JtIikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHN1Y2Nlc3NfcmVkaXJlY3RfdXJsID0gZnVsbF91cmxfY29tcG9zZXIoImNoZWNrb3V0L3N1Y2Nlc3MvIiArIG9yZGVyLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBhcnRuZXJfZmxhZ19pbnB1dC5hdHRyc1sidHlwZSJdLCAidGV4dCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgidGVzdHMucGxlYXNlLm1ha2UuTW9kZWwub3JkZXIuY2FuX3Jlc3BvbmRfdG9fdHJlYWRfc3VydmV5IiwgbmV3PVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPSJwYXJ0bmVyX2ZsYWdfY2hhbmdlZCh0aGlzKSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc19vcHRzPSIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiBwYXJ0bmVyX2ZsYWdfY2hhbmdlZChzZWxlY3RPYmopIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZHggPSBzZWxlY3RPYmouc2VsZWN0ZWRJbmRleDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB3aGljaCA9IHNlbGVjdE9iai5vcHRpb25zW2lkeF0udmFsdWU7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieHBvX3N5c3RlbV9pZF9kaXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh4ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHdoaWNoID09ICJ1eCIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeC5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE1vZGVsLlVzZXIubWFuYWdlci5nZXQocmVzcC5qc29uWyd1c2VyX2lkJ10pLAogICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5idXllcikKCiAgICAgICAgc2VsZi5hc3NlcnRGYWxzZShNb2RlbC5DYXJ0Lm1hbmFnZXIuZXhpc3RzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5Qcm9kdWN0LnNhdmVfd2l0aCgKICAgICAgICAgICAgc2x1Zz0nc3Vic2NyaXB0aW9uJywKICAgICAgICAgICAgaXNfdGFuZ2libGU9RmFsc2UsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UKICAgICAgICApCiAgICAgICAgc3Vic2NyaXB0aW9uX29wdGlvbiA9IE1vZGVsLlByb2R1Y3RPcHRpb24uc2F2ZV93aXRoKAogICAgICAgICAgICBza3U9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHNsdWc9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHByaWNlX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c3Vic2NyaXB0aW9uLmlkCiAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2ludCwgMjAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24gPSBNb2RlbC5Qcm9kdWN0LnNhdmVfd2l0aCgKICAgICAgICAgICAgc2x1Zz0nc3Vic2NyaXB0aW9uJywKICAgICAgICAgICAgaXNfdGFuZ2libGU9RmFsc2UsCiAgICAgICAgICAgIGNhbl91c2VybGVzc19jaGFyZ2U9RmFsc2UKICAgICAgICApCiAgICAgICAgc3Vic2NyaXB0aW9uX29wdGlvbiA9IE1vZGVsLlByb2R1Y3RPcHRpb24uc2F2ZV93aXRoKAogICAgICAgICAgICBza3U9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHNsdWc9J3N1YnNjcmlwdGlvbicsCiAgICAgICAgICAgIHByaWNlX2luX2NlbnRzPTEsCiAgICAgICAgICAgIHByb2R1Y3RfaWQ9c3Vic2NyaXB0aW9uLmlkCiAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHN1Y2Nlc3NfcmVkaXJlY3RfdXJsID0gZnVsbF91cmxfY29tcG9zZXIoImNoZWNrb3V0L3N1Y2Nlc3MvIiArIG9yZGVyLmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE1vZGVsLkNhcnQubWFuYWdlci5jb3VudCgpLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RmFsc2UoTW9kZWwuT3JkZXIubWFuYWdlci5leGlzdHMoKSkK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgidGVzdHMucGxlYXNlLm1ha2UuTW9kZWwub3JkZXIuY2FuX3Jlc3BvbmRfdG9fdHJlYWRfc3VydmV5IiwgbmV3PVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb3J0ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxwYXJ0bmVyX2ZsYWdfb3B0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb3J0ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0bmVyX2ZsYWdfb3B0aW9uc1w+</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -482,9 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGlwcGluZ1w+</entry>
-        <entry>delivery</entry>
-        <entry>can_schedule</entry>
         <entry>can_respond</entry>
         <entry>can_userless</entry>
         <entry encoding="base64">XDxDQU5fVVNFUkxFU1NfQ0hBUkdFXD4=</entry>
@@ -502,6 +506,9 @@
         <entry>find_single</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxzb3J0ZWRcPg==</entry>
+        <entry>form</entry>
+        <entry>partner_flag</entry>
+        <entry encoding="base64">XDxwYXJ0bmVyX2ZsYWdfb3B0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>13930</entry>
