@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
@@ -12,6 +12,13 @@
         <mark key="]" line="1386" column="18" />
         <mark key="^" line="1386" column="18" />
         <mark key="." line="1386" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/survey/domain/test_survey.py" timestamp="1560795831847">
+        <mark key="'" line="310" column="0" />
+        <mark key="[" line="557" column="8" />
+        <mark key="]" line="558" column="7" />
+        <mark key="^" line="558" column="7" />
+        <mark key="." line="558" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
@@ -46,6 +53,9 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1560795347566">
+        <mark key="'" line="552" column="36" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/subscriptions/commands/test_pause_subscription.py" timestamp="1559164802922">
         <mark key="'" line="15" column="23" />
@@ -150,8 +160,8 @@
       <file name="$USER_HOME$/Development/api/data/models/warehouse.py" timestamp="1558723296896">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" timestamp="1560275371911">
-        <mark key="'" line="78" column="11" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" timestamp="1560795295483">
+        <mark key="'" line="89" column="35" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
@@ -159,12 +169,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/data/services/shipping.py" timestamp="1557331283667">
         <mark key="'" line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/utils.py" timestamp="1560793896516">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" timestamp="1560278103171">
         <mark key="'" line="69" column="13" />
@@ -188,6 +192,12 @@
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" timestamp="1557865167024">
         <mark key="'" line="397" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/shipping/survey/domain/survey.py" timestamp="1560795884991">
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="68" column="18" />
+        <mark key="." line="68" column="18" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
         <mark key="'" line="382" column="12" />
@@ -223,10 +233,10 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/save_capacities_for_warehouse.py" timestamp="1560535070600" />
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_utils.py" timestamp="1560794145100">
-        <mark key="'" line="44" column="66" />
+        <mark key="'" line="11" column="66" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
-        <mark key="^" line="44" column="47" />
+        <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1556139437475">
@@ -356,11 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="32" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="20" column="19" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="72" column="17" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="103" column="29" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="402" column="29" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="71" column="24" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
@@ -456,55 +461,60 @@
       <jump line="2239" column="74" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="3076" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="935" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="88" column="27" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" />
+      <jump line="89" column="35" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" />
+      <jump line="299" column="20" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
+      <jump line="552" column="36" filename="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" />
+      <jump line="310" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/survey/domain/test_survey.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N1cnZleV9ub3RfY29tcGxldGVkKHNlbGYpOgogICAgICAgIHN1cnZleSA9IFN1cnZleVJlcG8uZmluZF9ieV9vcmRlcl9pZChzZWxmLm9yZGVyLmlkKQogICAgICAgIGZvcm1hdHRlZF90ZXh0ID0gc3VydmV5LmdldF9mb3JtYXR0ZWRfc3VydmV5KCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdHRlZF90ZXh0LCAiIikK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>\\n</text>
+        <text>get_formatted_survey</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhY3Rpb24gPT0gc2VsZi5BQ1RJT04uQ1JFQVRFOgogICAgICAgICAgICBwYXJ0bmVyX2ZsYWdfaW5wdXQgPSAoCiAgICAgICAgICAgICAgICBDb250cm9sR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgIlBhcnRuZXIgRmxhZyIsCiAgICAgICAgICAgICAgICAgICAgU2VsZWN0SW5wdXQoCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InBhcnRuZXJfZmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKSwKICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz10dXBsZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dD1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ9cGFydG5lcl9mbGFnID09IHNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHBhcnRuZXJfZmxhZyBpbiBzb3J0ZWQoV2FyZWhvdXNlLlBBUlRORVJfRkxBR1MpCiAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPSJwYXJ0bmVyX2ZsYWdfY2hhbmdlZCh0aGlzKSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGpzX29wdHM9IiIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiBwYXJ0bmVyX2ZsYWdfY2hhbmdlZChzZWxlY3RPYmopIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgaWR4ID0gc2VsZWN0T2JqLnNlbGVjdGVkSW5kZXg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHdoaWNoID0gc2VsZWN0T2JqLm9wdGlvbnNbaWR4XS52YWx1ZTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieHBvX3N5c3RlbV9pZF9kaXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoeCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh3aGljaCA9PSAidXgiKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHguc3R5bGUuZGlzcGxheSA9ICJibG9jayI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgd2FyZWhvdXNlLnBhcnRuZXJfZmxhZyA9PSAnZnNsJyBvciB3YXJlaG91c2UucGFydG5lcl9mbGFnID09ICdwZWxvdG9uJzoKICAgICAgICAgICAgICAgIHBhcnRuZXJfZmxhZ19pbnB1dCA9ICgKICAgICAgICAgICAgICAgICAgICBDb250cm9sR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgICAgICJQYXJ0bmVyIEZsYWciLAogICAgICAgICAgICAgICAgICAgICAgICBTZWxlY3RJbnB1dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InBhcnRuZXJfZmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1zZWxmLl9nZXRfdmFsdWUod2FyZWhvdXNlLCAicGFydG5lcl9mbGFnIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPXR1cGxlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9cGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0PXBhcnRuZXJfZmxhZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ9cGFydG5lcl9mbGFnID09IHNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgcGFydG5lcl9mbGFnIGluIHNvcnRlZChbJ3BlbG90b24nLCAnZnNsJ10pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gV2FyZWhvdXNlRmllbGQoCiAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFydG5lcl9mbGFnIiwKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iUGFydG5lciBGbGFnIiwKICAgICAgICAgICAgICAgICAgICB2YWx1ZT13YXJlaG91c2UucGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgIGlzX2Rpc2FibGVkPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXJ2ZXkgPSBTdXJ2ZXlSZXBvLmZpbmRfYnlfb3JkZXJfaWQoc2VsZi5vcmRlci5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N1cnZleV9ub3RfY29tcGxldGVkKHNlbGYpOgogICAgICAgIHN1cnZleSA9IFN1cnZleVJlcG8uZmluZF9ieV9vcmRlcl9pZChzZWxmLm9yZGVyLmlkKQogICAgICAgIGZvcm1hdHRlZF90ZXh0ID0gc3VydmV5LmdldF9mb3JtYXR0ZWRfc3VydmV5KCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvcm1hdHRlZF90ZXh0LCAiIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>315</text>
       </register>
     </registers>
     <search>
-      <last-search>\\n</last-search>
+      <last-search>get_formatted_survey</last-search>
       <last-offset />
-      <last-pattern>\\n</last-pattern>
+      <last-pattern>get_formatted_survey</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -512,10 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidW5kbGVfb3B0aW9uX3NldFw+</entry>
-        <entry>next</entry>
-        <entry>iter</entry>
-        <entry>profile</entry>
         <entry>create_users</entry>
         <entry>get</entry>
         <entry>find</entry>
@@ -532,6 +538,10 @@
         <entry>permission</entry>
         <entry>\n</entry>
         <entry>\\n</entry>
+        <entry>url</entry>
+        <entry encoding="base64">XDxmdWxsX3VybF9jb21wb3Nlclw+</entry>
+        <entry>survey_repo</entry>
+        <entry>get_formatted_survey</entry>
       </history-search>
       <history-cmd>
         <entry>13967</entry>
