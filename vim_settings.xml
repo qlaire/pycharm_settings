@@ -37,11 +37,9 @@
         <mark key="'" line="239" column="8" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1560783743193">
-        <mark key="'" line="230" column="35" />
-        <mark key="[" line="283" column="60" />
-        <mark key="]" line="283" column="60" />
-        <mark key="." line="283" column="65" />
-        <mark key="^" line="269" column="55" />
+        <mark key="[" line="133" column="60" />
+        <mark key="]" line="133" column="60" />
+        <mark key="." line="133" column="65" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -125,6 +123,11 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" timestamp="1555423394092">
         <mark key="'" line="72" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1560793833980">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" timestamp="1560526092521">
         <mark key="'" line="1784" column="28" />
       </file>
@@ -156,6 +159,12 @@
       </file>
       <file name="$USER_HOME$/Development/api/data/services/shipping.py" timestamp="1557331283667">
         <mark key="'" line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/utils.py" timestamp="1560793896516">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" timestamp="1560278103171">
         <mark key="'" line="69" column="13" />
@@ -203,10 +212,23 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1560793826204">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-497732817/data/models/warehouse.py" timestamp="1556218333037">
         <mark key="'" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/save_capacities_for_warehouse.py" timestamp="1560535070600" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_utils.py" timestamp="1560794145100">
+        <mark key="'" line="44" column="66" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/end_to_end/test_subscription_charging.py" timestamp="1556139437475">
         <mark key="'" line="427" column="25" />
         <mark key="[" line="29" column="0" />
@@ -278,13 +300,7 @@
       <file name="$USER_HOME$/Development/api/data/models/product.py" timestamp="1560266948092">
         <mark key="'" line="190" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" timestamp="1560785209829">
-        <mark key="'" line="276" column="62" />
-        <mark key="[" line="315" column="61" />
-        <mark key="]" line="315" column="80" />
-        <mark key="." line="315" column="80" />
-        <mark key="^" line="315" column="80" />
-      </file>
+      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" timestamp="1560785209829" />
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1556208786883">
         <mark key="'" line="13" column="6" />
       </file>
@@ -314,12 +330,12 @@
         <mark key="." line="271" column="33" />
         <mark key="^" line="271" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1555952816491">
-        <mark key="'" line="674" column="35" />
-        <mark key="[" line="2592" column="55" />
-        <mark key="]" line="2592" column="55" />
-        <mark key="^" line="2592" column="47" />
-        <mark key="." line="2592" column="55" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1560794507262">
+        <mark key="'" line="935" column="42" />
+        <mark key="[" line="935" column="42" />
+        <mark key="]" line="935" column="42" />
+        <mark key="^" line="935" column="42" />
+        <mark key="." line="935" column="42" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1558025038958">
         <mark key="'" line="0" column="0" />
@@ -340,25 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1407" column="28" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1402" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1406" column="8" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/product.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/Development/api/data/models/product.py" />
-      <jump line="166" column="26" filename="$USER_HOME$/Development/api/data/models/product.py" />
-      <jump line="190" column="34" filename="$USER_HOME$/Development/api/data/models/product.py" />
-      <jump line="479" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_affirm.py" />
-      <jump line="150" column="49" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_affirm.py" />
-      <jump line="383" column="5" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="115" column="49" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="218" column="49" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="289" column="57" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="413" column="49" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="93" column="15" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" />
-      <jump line="78" column="11" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" />
-      <jump line="378" column="25" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
-      <jump line="101" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_affirm.py" />
       <jump line="459" column="32" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="20" column="19" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
       <jump line="303" column="0" filename="$USER_HOME$/Development/api/tests/integration/ecomm/test_affirm_order.py" />
@@ -440,55 +437,74 @@
       <jump line="10" column="66" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="11" column="36" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="82" column="40" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
+      <jump line="45" column="66" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_utils.py" />
+      <jump line="2225" column="95" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2226" column="97" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2227" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2228" column="65" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2229" column="36" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2230" column="70" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2231" column="55" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2232" column="56" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2233" column="65" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2234" column="57" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2235" column="24" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2236" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2237" column="95" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2238" column="62" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="2239" column="74" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="3076" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
+      <jump line="935" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self._get_value(warehouse, &quot;partner_flag&quot;)</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>self._get_value(warehouse, &quot;partner_flag&quot;)</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>permission</text>
+        <text>\\n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBhY3Rpb24gPT0gc2VsZi5BQ1RJT04uQ1JFQVRFOgogICAgICAgICAgICBwYXJ0bmVyX2ZsYWdfaW5wdXQgPSAoCiAgICAgICAgICAgICAgICBDb250cm9sR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgIlBhcnRuZXIgRmxhZyIsCiAgICAgICAgICAgICAgICAgICAgU2VsZWN0SW5wdXQoCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InBhcnRuZXJfZmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKSwKICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz10dXBsZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dD1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ9cGFydG5lcl9mbGFnID09IHNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHBhcnRuZXJfZmxhZyBpbiBzb3J0ZWQoV2FyZWhvdXNlLlBBUlRORVJfRkxBR1MpCiAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPSJwYXJ0bmVyX2ZsYWdfY2hhbmdlZCh0aGlzKSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGpzX29wdHM9IiIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiBwYXJ0bmVyX2ZsYWdfY2hhbmdlZChzZWxlY3RPYmopIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgaWR4ID0gc2VsZWN0T2JqLnNlbGVjdGVkSW5kZXg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHdoaWNoID0gc2VsZWN0T2JqLm9wdGlvbnNbaWR4XS52YWx1ZTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieHBvX3N5c3RlbV9pZF9kaXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoeCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh3aGljaCA9PSAidXgiKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHguc3R5bGUuZGlzcGxheSA9ICJibG9jayI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgd2FyZWhvdXNlLnBhcnRuZXJfZmxhZyA9PSAnZnNsJyBvciB3YXJlaG91c2UucGFydG5lcl9mbGFnID09ICdwZWxvdG9uJzoKICAgICAgICAgICAgICAgIHBhcnRuZXJfZmxhZ19pbnB1dCA9ICgKICAgICAgICAgICAgICAgICAgICBDb250cm9sR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgICAgICJQYXJ0bmVyIEZsYWciLAogICAgICAgICAgICAgICAgICAgICAgICBTZWxlY3RJbnB1dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InBhcnRuZXJfZmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1zZWxmLl9nZXRfdmFsdWUod2FyZWhvdXNlLCAicGFydG5lcl9mbGFnIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPXR1cGxlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9cGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0PXBhcnRuZXJfZmxhZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ9cGFydG5lcl9mbGFnID09IHNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgcGFydG5lcl9mbGFnIGluIHNvcnRlZChbJ3BlbG90b24nLCAnZnNsJ10pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gV2FyZWhvdXNlRmllbGQoCiAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFydG5lcl9mbGFnIiwKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iUGFydG5lciBGbGFnIiwKICAgICAgICAgICAgICAgICAgICB2YWx1ZT13YXJlaG91c2UucGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgIGlzX2Rpc2FibGVkPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X3BhcnRuZXJfZmxhZ19maWVsZChzZWxmLCBhY3Rpb24sIHdhcmVob3VzZSk6CiAgICAgICAgaWYgYWN0aW9uID09IHNlbGYuQUNUSU9OLkNSRUFURToKICAgICAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gKAogICAgICAgICAgICAgICAgQ29udHJvbEdyb3VwKAogICAgICAgICAgICAgICAgICAgICJQYXJ0bmVyIEZsYWciLAogICAgICAgICAgICAgICAgICAgIFNlbGVjdElucHV0KAogICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJwYXJ0bmVyX2ZsYWciLAogICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1zZWxmLl9nZXRfdmFsdWUod2FyZWhvdXNlLCAicGFydG5lcl9mbGFnIiksCiAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM9dHVwbGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTZWxlY3RPcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9cGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9cGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkPXBhcnRuZXJfZmxhZyA9PSBzZWxmLl9nZXRfdmFsdWUod2FyZWhvdXNlLCAicGFydG5lcl9mbGFnIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBwYXJ0bmVyX2ZsYWcgaW4gc29ydGVkKFdhcmVob3VzZS5QQVJUTkVSX0ZMQUdTKQogICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICBvbmNoYW5nZT0icGFydG5lcl9mbGFnX2NoYW5nZWQodGhpcykiLAogICAgICAgICAgICAgICAgICAgICAgICBqc19vcHRzPSIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gcGFydG5lcl9mbGFnX2NoYW5nZWQoc2VsZWN0T2JqKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGlkeCA9IHNlbGVjdE9iai5zZWxlY3RlZEluZGV4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB3aGljaCA9IHNlbGVjdE9iai5vcHRpb25zW2lkeF0udmFsdWU7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB4ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInhwb19zeXN0ZW1faWRfZGl2Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHggPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAod2hpY2ggPT0gInV4IikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeC5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgIiIiLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGVkaXRhYmxlX3BhcnRuZXJfZmxhZ3MgPSBbJ3BlbG90b24nLCAnZnNsJ10KICAgICAgICAgICAgaWYgd2FyZWhvdXNlLnBhcnRuZXJfZmxhZyBpbiBlZGl0YWJsZV9wYXJ0bmVyX2ZsYWdzOgogICAgICAgICAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gKAogICAgICAgICAgICAgICAgICAgIENvbnRyb2xHcm91cCgKICAgICAgICAgICAgICAgICAgICAgICAgIlBhcnRuZXIgRmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdElucHV0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFydG5lcl9mbGFnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM9dHVwbGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VsZWN0T3B0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9cGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZD1wYXJ0bmVyX2ZsYWcgPT0gc2VsZi5fZ2V0X3ZhbHVlKHdhcmVob3VzZSwgInBhcnRuZXJfZmxhZyIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBwYXJ0bmVyX2ZsYWcgaW4gc29ydGVkKGVkaXRhYmxlX3BhcnRuZXJfZmxhZ3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gV2FyZWhvdXNlRmllbGQoCiAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFydG5lcl9mbGFnIiwKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iUGFydG5lciBGbGFnIiwKICAgICAgICAgICAgICAgICAgICB2YWx1ZT13YXJlaG91c2UucGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgIGlzX2Rpc2FibGVkPVRydWUpCgogICAgICAgIHJldHVybiBwYXJ0bmVyX2ZsYWdfaW5wdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgd2FyZWhvdXNlLnBhcnRuZXJfZmxhZyA9PSAnZnNsJyBvciB3YXJlaG91c2UucGFydG5lcl9mbGFnID09ICdwZWxvdG9uJzoK</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0YWJsZV9wYXJ0bmVyX2ZsYWdzID0gWydwZWxvdG9uJywgJ2ZzbCddCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhY3Rpb24gPT0gc2VsZi5BQ1RJT04uQ1JFQVRFOgogICAgICAgICAgICBwYXJ0bmVyX2ZsYWdfaW5wdXQgPSAoCiAgICAgICAgICAgICAgICBDb250cm9sR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgIlBhcnRuZXIgRmxhZyIsCiAgICAgICAgICAgICAgICAgICAgU2VsZWN0SW5wdXQoCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InBhcnRuZXJfZmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKSwKICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz10dXBsZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dD1wYXJ0bmVyX2ZsYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ9cGFydG5lcl9mbGFnID09IHNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHBhcnRuZXJfZmxhZyBpbiBzb3J0ZWQoV2FyZWhvdXNlLlBBUlRORVJfRkxBR1MpCiAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIG9uY2hhbmdlPSJwYXJ0bmVyX2ZsYWdfY2hhbmdlZCh0aGlzKSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGpzX29wdHM9IiIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiBwYXJ0bmVyX2ZsYWdfY2hhbmdlZChzZWxlY3RPYmopIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgaWR4ID0gc2VsZWN0T2JqLnNlbGVjdGVkSW5kZXg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHdoaWNoID0gc2VsZWN0T2JqLm9wdGlvbnNbaWR4XS52YWx1ZTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieHBvX3N5c3RlbV9pZF9kaXYiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoeCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh3aGljaCA9PSAidXgiKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHguc3R5bGUuZGlzcGxheSA9ICJibG9jayI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgd2FyZWhvdXNlLnBhcnRuZXJfZmxhZyA9PSAnZnNsJyBvciB3YXJlaG91c2UucGFydG5lcl9mbGFnID09ICdwZWxvdG9uJzoKICAgICAgICAgICAgICAgIHBhcnRuZXJfZmxhZ19pbnB1dCA9ICgKICAgICAgICAgICAgICAgICAgICBDb250cm9sR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgICAgICJQYXJ0bmVyIEZsYWciLAogICAgICAgICAgICAgICAgICAgICAgICBTZWxlY3RJbnB1dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InBhcnRuZXJfZmxhZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT1zZWxmLl9nZXRfdmFsdWUod2FyZWhvdXNlLCAicGFydG5lcl9mbGFnIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPXR1cGxlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9cGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0PXBhcnRuZXJfZmxhZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ9cGFydG5lcl9mbGFnID09IHNlbGYuX2dldF92YWx1ZSh3YXJlaG91c2UsICJwYXJ0bmVyX2ZsYWciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgcGFydG5lcl9mbGFnIGluIHNvcnRlZChbJ3BlbG90b24nLCAnZnNsJ10pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcGFydG5lcl9mbGFnX2lucHV0ID0gV2FyZWhvdXNlRmllbGQoCiAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFydG5lcl9mbGFnIiwKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iUGFydG5lciBGbGFnIiwKICAgICAgICAgICAgICAgICAgICB2YWx1ZT13YXJlaG91c2UucGFydG5lcl9mbGFnLAogICAgICAgICAgICAgICAgICAgIGlzX2Rpc2FibGVkPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVyX29wdGlvbnMgPSBwYXJ0bmVyX2ZsYWdfaW5wdXQuZmluZF9hbGwoIm9wdGlvbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBhcnRuZXJfb3B0aW9uc1swXS5nZXQoInZhbHVlIiksICJmc2wiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocGFydG5lcl9vcHRpb25zWzFdLmdldCgidmFsdWUiKSwgInBlbG90b24iKQogICAgICAgIHNlbGYuYXNzZXJ0TGVuKHBhcnRuZXJfb3B0aW9ucywgMikK</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbC5FbmFibGVtZW50LnNhdmVfd2l0aChuYW1lPSJzdHJpcF94cG9faW5zdHJ1Y3Rpb24iLCBlbmFibGVkPVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>315</text>
       </register>
     </registers>
     <search>
-      <last-search>permission</last-search>
+      <last-search>\\n</last-search>
       <last-offset />
-      <last-pattern>permission</last-pattern>
+      <last-pattern>\\n</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -496,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secure</entry>
-        <entry>tread</entry>
         <entry encoding="base64">XDxidW5kbGVfb3B0aW9uX3NldFw+</entry>
         <entry>next</entry>
         <entry>iter</entry>
@@ -516,6 +530,8 @@
         <entry>update</entry>
         <entry encoding="base64">XDxfZ2V0X3ZhbHVlXD4=</entry>
         <entry>permission</entry>
+        <entry>\n</entry>
+        <entry>\\n</entry>
       </history-search>
       <history-cmd>
         <entry>13967</entry>
