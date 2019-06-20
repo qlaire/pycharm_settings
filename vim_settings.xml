@@ -16,6 +16,12 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1560795347566">
         <mark key="'" line="552" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/templates/ecomm/warehouses/profile.html" timestamp="1560454090354">
+        <mark key="[" line="76" column="67" />
+        <mark key="]" line="76" column="65" />
+        <mark key="." line="76" column="65" />
+        <mark key="^" line="76" column="65" />
+      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
       </file>
@@ -232,6 +238,12 @@
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/W-N-Stride-code-test/main.py" timestamp="1561050050486">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
@@ -458,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>without_partner</text>
+        <text>orders</text>
       </register>
       <register name="-" type="4">
-        <text>without_partner</text>
+        <text>orders</text>
       </register>
       <register name="/" type="4">
         <text>assertNotIn</text>
