@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/models/user.py" timestamp="1561057009922">
+        <mark key="'" line="429" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1560795347566">
         <mark key="'" line="552" column="36" />
       </file>
@@ -103,10 +106,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/save_and_rerate_service.py" timestamp="1544644033125">
         <mark key="'" line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/default/installers/models.py" timestamp="1560525525831">
+        <mark key="'" line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/product.py" timestamp="1560266948092">
         <mark key="'" line="190" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_form.py" timestamp="1560785209829" />
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1556208786883">
         <mark key="'" line="13" column="6" />
       </file>
@@ -271,6 +276,9 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
       </file>
+      <file name="$USER_HOME$/Development/api/lib/orm/base/mixins.py" timestamp="1561057094469">
+        <mark key="'" line="134" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
       </file>
@@ -367,12 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="8" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
-      <jump line="42" column="62" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
-      <jump line="46" column="30" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
-      <jump line="443" column="47" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="32" column="35" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="33" column="35" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="37" column="43" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
@@ -467,6 +469,12 @@
       <jump line="26" column="21" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
       <jump line="40" column="42" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_form.py" />
       <jump line="545" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="429" column="4" filename="$USER_HOME$/Development/api/data/models/user.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
+      <jump line="56" column="64" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
+      <jump line="127" column="13" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
+      <jump line="130" column="13" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
+      <jump line="134" column="28" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -476,7 +484,7 @@
         <text>orders</text>
       </register>
       <register name="/" type="4">
-        <text>assertNotIn</text>
+        <text encoding="base64">XDxNQVBQSU5HX1BST1BFUlRJRVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgo=</text>
@@ -516,9 +524,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assertNotIn</last-search>
+      <last-search encoding="base64">XDxNQVBQSU5HX1BST1BFUlRJRVNcPg==</last-search>
       <last-offset />
-      <last-pattern>assertNotIn</last-pattern>
+      <last-pattern encoding="base64">XDxNQVBQSU5HX1BST1BFUlRJRVNcPg==</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +534,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disabled</entry>
         <entry encoding="base64">XDxfZ2V0X3ZhbHVlXD4=</entry>
         <entry>permission</entry>
         <entry>\n</entry>
@@ -546,6 +553,7 @@
         <entry>update</entry>
         <entry>options</entry>
         <entry>assertNotIn</entry>
+        <entry encoding="base64">XDxNQVBQSU5HX1BST1BFUlRJRVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
