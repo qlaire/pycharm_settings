@@ -48,9 +48,6 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/user.py" timestamp="1561057009922">
-        <mark key="'" line="429" column="4" />
-      </file>
       <file name="$USER_HOME$/Downloads/R-B-Stride-code-test/CHOCOLATE/README.md" timestamp="1561571834984" />
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1560795347566">
         <mark key="'" line="552" column="36" />
@@ -89,11 +86,11 @@
         <mark key="'" line="114" column="27" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" timestamp="1561563389700">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="314" column="58" />
-        <mark key="]" line="314" column="61" />
-        <mark key="." line="314" column="61" />
-        <mark key="^" line="314" column="61" />
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="315" column="58" />
+        <mark key="]" line="315" column="61" />
+        <mark key="." line="315" column="61" />
+        <mark key="^" line="315" column="61" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" timestamp="1555537271437">
         <mark key="'" line="53" column="25" />
@@ -131,11 +128,6 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" timestamp="1555423394092">
         <mark key="'" line="72" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/services/test_enablement.py" timestamp="1560793833980">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" timestamp="1560526092521">
         <mark key="'" line="1784" column="28" />
       </file>
@@ -163,13 +155,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/data/models/warehouse.py" timestamp="1558723296896">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/affirm.py" timestamp="1560795295483">
-        <mark key="'" line="89" column="35" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="73" column="57" />
       </file>
       <file name="$USER_HOME$/Development/api/data/services/shipping.py" timestamp="1557331283667">
         <mark key="'" line="72" column="0" />
@@ -327,13 +312,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
-      </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1560965398842">
-        <mark key="'" line="306" column="16" />
-        <mark key="[" line="306" column="41" />
-        <mark key="]" line="306" column="66" />
-        <mark key="." line="306" column="66" />
-        <mark key="^" line="306" column="66" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1560802048028">
         <mark key="'" line="3213" column="0" />
