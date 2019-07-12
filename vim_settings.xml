@@ -304,9 +304,6 @@
       <file name="$USER_HOME$/Development/api/scripts/cron/send_due_subscriptions_to_charge_queue.py" timestamp="1554305314698">
         <mark key="'" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/xpo_us/test_tread_return.py" timestamp="1560868910686">
-        <mark key="'" line="289" column="25" />
-      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/tests/backend/accounts/conftest.py" timestamp="1544117439238">
         <mark key="'" line="73" column="4" />
       </file>
@@ -314,8 +311,8 @@
         <mark key="'" line="1326" column="14" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1560802048028">
-        <mark key="'" line="3213" column="0" />
-        <mark key="^" line="3071" column="43" />
+        <mark key="'" line="712" column="0" />
+        <mark key="^" line="570" column="43" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1558025038958">
         <mark key="'" line="0" column="0" />
