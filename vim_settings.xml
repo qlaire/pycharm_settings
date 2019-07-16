@@ -23,6 +23,7 @@
         <mark key="." line="76" column="65" />
         <mark key="^" line="76" column="65" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1563304814708" />
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/losses_mapper.py" timestamp="1548269615784">
         <mark key="'" line="27" column="8" />
       </file>
@@ -115,10 +116,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/scripts/cron/send_due_subscriptions_to_charge_queue.py" timestamp="1554305314698">
         <mark key="'" line="11" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" timestamp="1560802048028">
-        <mark key="'" line="712" column="0" />
-        <mark key="^" line="570" column="43" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/admin/admin.py" timestamp="1558025038958">
         <mark key="'" line="0" column="0" />
