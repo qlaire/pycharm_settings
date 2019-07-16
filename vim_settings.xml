@@ -294,6 +294,9 @@
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/buy/test_shipping_price_override.py" timestamp="1563305434228">
+        <mark key="'" line="145" column="29" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1555968774707">
         <mark key="'" line="163" column="13" />
       </file>
@@ -338,10 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="38" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
-      <jump line="56" column="35" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
-      <jump line="57" column="35" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
-      <jump line="116" column="45" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="128" column="33" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="130" column="35" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="173" column="35" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
@@ -438,6 +437,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" />
+      <jump line="19" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/buy/test_shipping_price_override.py" />
+      <jump line="64" column="21" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/buy/test_shipping_price_override.py" />
+      <jump line="111" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/buy/test_shipping_price_override.py" />
+      <jump line="145" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/buy/test_shipping_price_override.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,7 +450,7 @@
         <text>orders</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>postal_code</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgo=</text>
@@ -487,9 +490,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>postal_code</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>postal_code</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +500,6 @@
     </search>
     <history>
       <history-search>
-        <entry>permission</entry>
         <entry>\n</entry>
         <entry>\\n</entry>
         <entry encoding="base64">XDxmdWxsX3VybF9jb21wb3Nlclw+</entry>
@@ -517,6 +519,7 @@
         <entry encoding="base64">XDxNQVBQSU5HX1BST1BFUlRJRVNcPg==</entry>
         <entry>search</entry>
         <entry>url</entry>
+        <entry>postal_code</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
