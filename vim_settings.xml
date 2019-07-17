@@ -20,6 +20,13 @@
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/domain/delivery_time_slot.py" timestamp="1563311075970">
         <mark key="'" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_order.py" timestamp="1563393823515">
+        <mark key="'" line="56" column="26" />
+        <mark key="[" line="747" column="32" />
+        <mark key="]" line="748" column="7" />
+        <mark key="^" line="748" column="7" />
+        <mark key="." line="748" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_buy.py" timestamp="1563304814708" />
       <file name="$USER_HOME$/Development/api/db/ecommerce/schema/change-logs/changelog-201907151938.json" timestamp="1563376046559">
         <mark key="'" line="0" column="0" />
@@ -151,12 +158,12 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1563392249513">
+      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1563393755879">
         <mark key="'" line="1406" column="8" />
-        <mark key="[" line="1436" column="54" />
-        <mark key="]" line="1436" column="59" />
-        <mark key="^" line="1436" column="59" />
-        <mark key="." line="1436" column="59" />
+        <mark key="[" line="1436" column="70" />
+        <mark key="]" line="1437" column="65" />
+        <mark key="." line="1437" column="65" />
+        <mark key="^" line="1437" column="65" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
@@ -260,12 +267,12 @@
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" timestamp="1557865167024">
         <mark key="'" line="397" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1563391234653">
+      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1563392801501">
         <mark key="'" line="765" column="8" />
         <mark key="[" line="364" column="42" />
-        <mark key="]" line="364" column="42" />
-        <mark key="^" line="809" column="18" />
-        <mark key="." line="364" column="42" />
+        <mark key="]" line="794" column="16" />
+        <mark key="^" line="794" column="16" />
+        <mark key="." line="794" column="16" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/test_affirm.py" timestamp="1560276106957">
         <mark key="'" line="101" column="14" />
@@ -313,12 +320,12 @@
         <mark key="." line="186" column="65" />
         <mark key="^" line="186" column="65" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" timestamp="1563390964643">
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" timestamp="1563393481686">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="637" column="63" />
-        <mark key="]" line="637" column="63" />
-        <mark key="^" line="619" column="49" />
-        <mark key="." line="637" column="63" />
+        <mark key="[" line="627" column="0" />
+        <mark key="]" line="628" column="62" />
+        <mark key="^" line="627" column="9" />
+        <mark key="." line="627" column="9" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -343,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2140" column="24" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="2135" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="732" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
       <jump line="2052" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/partners/shipping/test_ux_ship.py" />
@@ -443,49 +449,50 @@
       <jump line="368" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/app/graphql/test_order.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/graphql/test_order.py" />
       <jump line="85" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/graphql/test_order.py" />
+      <jump line="56" column="26" filename="$USER_HOME$/Development/api/tests/data/models/test_order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;scheduled_delivery_end_date&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeV9lbmRfdGltZXN0YW1wPWRlbGl2ZXJ5X2VuZF90aW1lc3RhbXAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;scheduled_delivery_end_date&quot;</text>
+        <text>schedule_delivery</text>
       </register>
       <register name="/" type="4">
-        <text>mutation</text>
+        <text>test_schedule_delivery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FyZWhvdXNlID0gTW9kZWwuV2FyZWhvdXNlLnNhdmVfd2l0aChjb2RlPSd0ZXN0JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJ0bmVyX2ZsYWc9VVgpCiAgICAgICAgICAgIHNlbGYucG9zdGFsY29kZS53YXJlaG91c2VfaWQgPSB3YXJlaG91c2UuaWQKICAgICAgICAgICAgc2VsZi5wb3N0YWxjb2RlLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9zdGFydCA9IDE1NjMwMjI4MDAgICMgMDcvMTMvMjAxOSBAIDE6MDBwbSAoVVRDKQogICAgICAgIGRlbGl2ZXJ5X2VuZCA9IDE1NjMwMjY0MDAgICMgMDcvMTMvMjAxOSBAIDI6MDBwbSAoVVRDKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>(SCHEDULED_DELIVERY_DATE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeV9lbmRfdGltZXN0YW1wPWRlbGl2ZXJ5X2VuZF90aW1lc3RhbXAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hpcG1lbnRfX3dhcmVob3VzZV9pZD13YXJlaG91c2UuaWQsCg==</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbHVtbiI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogInNjaGVkdWxlZF9kZWxpdmVyeV9ncmFkZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJkZWNpbWFsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogInNjaGVkdWxlZF9kZWxpdmVyeV9lbmRfZGF0ZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfYXNzZXJ0X2lucHV0X2hhc192YWx1ZShzZWxmLCBib2R5LCBpbnB1dF9uYW1lLCB2YWx1ZSk6CiAgICAgICAgaW5wdXRfZWxlbSA9IGJvZHkuZmluZChhdHRycz17Im5hbWUiOiBpbnB1dF9uYW1lfSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbHVtbiI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogInNjaGVkdWxlZF9kZWxpdmVyeV9ncmFkZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJkZWNpbWFsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogInNjaGVkdWxlZF9kZWxpdmVyeV9lbmRfZGF0ZSIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -495,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mutation</last-search>
+      <last-search>test_schedule_delivery</last-search>
       <last-offset />
-      <last-pattern>mutation</last-pattern>
+      <last-pattern>test_schedule_delivery</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBlY3RlZF9wYXlsb2FkX21pbnVzX2xpbmVfaXRlbXNcPg==</entry>
         <entry>delivery_instruction</entry>
         <entry>maxDiff</entry>
         <entry>partner_flag</entry>
@@ -525,6 +531,7 @@
         <entry>postalcode</entry>
         <entry>Model</entry>
         <entry>mutation</entry>
+        <entry>test_schedule_delivery</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
