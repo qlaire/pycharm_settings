@@ -114,8 +114,8 @@
         <mark key="." line="331" column="35" />
         <mark key="^" line="331" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1558455646246">
-        <mark key="'" line="1162" column="38" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1563476907319">
+        <mark key="'" line="675" column="21" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_dates_for_postal_code.py" timestamp="1555968253807">
         <mark key="'" line="65" column="36" />
@@ -379,11 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
-      <jump line="56" column="64" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
-      <jump line="127" column="13" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
-      <jump line="130" column="13" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
-      <jump line="134" column="28" filename="$USER_HOME$/Development/api/lib/orm/base/mixins.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Development/api/mq/app/handlers/email/order_confirmation_emails/order_confirmation_email.py" />
@@ -479,6 +474,11 @@
       <jump line="198" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="522" column="20" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="276" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="450" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="675" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,7 +488,7 @@
         <text>delivery_timestamp</text>
       </register>
       <register name="/" type="4">
-        <text>find_first</text>
+        <text>is_active</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9zdGFydF90aW1lc3RhbXAgPSAxNTYyNzYzNjAwICAjIDA3LzEwLzIwMTkgMTowMHBtIFVUQyAwOTowMGFtIEVTVAo=</text>
@@ -531,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search>find_first</last-search>
+      <last-search>is_active</last-search>
       <last-offset />
-      <last-pattern>find_first</last-pattern>
+      <last-pattern>is_active</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -541,7 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grade</entry>
         <entry>slot</entry>
         <entry>schedule_delivery</entry>
         <entry encoding="base64">XDxtb2NrX3NlbmRfZW1haWxzXD4=</entry>
@@ -561,6 +560,7 @@
         <entry>find</entry>
         <entry>get</entry>
         <entry>find_first</entry>
+        <entry>is_active</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
