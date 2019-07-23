@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1563915145478">
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1563919348199">
         <mark key="'" line="30" column="13" />
-        <mark key="[" line="533" column="66" />
-        <mark key="]" line="533" column="80" />
-        <mark key="." line="533" column="80" />
-        <mark key="^" line="533" column="80" />
+        <mark key="[" line="555" column="43" />
+        <mark key="]" line="555" column="44" />
+        <mark key="." line="555" column="44" />
+        <mark key="^" line="554" column="45" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
@@ -256,12 +256,12 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1563916844895">
-        <mark key="'" line="239" column="66" />
-        <mark key="[" line="241" column="16" />
-        <mark key="]" line="241" column="18" />
-        <mark key="^" line="241" column="18" />
-        <mark key="." line="241" column="18" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1563919559227">
+        <mark key="'" line="236" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="236" column="17" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
@@ -279,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="497" column="12" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="503" column="12" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="813" column="24" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="293" column="9" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
@@ -379,49 +378,50 @@
       <jump line="955" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" />
       <jump line="207" column="13" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
       <jump line="305" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="236" column="17" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>set(rows[0].keys())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBlcnJvcnMuc2VydmVyIGltcG9ydCBCYWREYXRhRXJyb3IK</text>
       </register>
       <register name="-" type="4">
-        <text>set(rows[0].keys())</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>rows[0].keys()[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2luKHNlbGYuYWRtaW5fd2l0aF9wZXJtaXNzaW9uLCAiYWRtaW5fc2VjcmV0IikKCiAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3QoIi9lY29tbS93YXJlaG91c2UvYmF0Y2gtdXBkYXRlLWZzbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyJmc2xfdXBkYXRlX2NzdiI6ICJiYWRfZmlsZSJ9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz01MDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwLnN0YXR1c19jb2RlLCA1MDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlzc2luZ19maWVsZHMgPSByZXF1aXJlZF9maWVsZHMuZGlmZmVyZW5jZQo=</text>
+        <text encoding="base64">ZnJvbSBlcnJvcnMuc2VydmVyIGltcG9ydCBCYWREYXRhRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUgdGhleSBhcmUnLCByb3dzWzBdLmtleXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCByb3dzWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBmc2xfdXBkYXRlX2NzdjoK</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93cyA9IFsKICAgICAgICAgICAgICAgIGRpY3QoKGsuc3RyaXAoKSwgdikgZm9yIGssIHYgaW4gcm93Lml0ZW1zKCkpIGZvciByb3cgaW4gcmVhZGVyXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXM9NTAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ImZzbF91cGRhdGVfY3N2IjogImJhZF9maWxlIn0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKCdObyBjc3YgcHJvdmlkZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoJ0ludmFsaWQgQ1NWOiAlcycgJSBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGNzdi5FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnSW52YWxpZCBDU1Y6ICVzJyAlIGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlzc2luZ19maWVsZHMgPSByZXF1aXJlZF9maWVsZHMuZGlmZmVyZW5jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUgdGhleSBhcmUnLCByb3dzWzBdLmtleXMoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCByb3dzWzBdKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
