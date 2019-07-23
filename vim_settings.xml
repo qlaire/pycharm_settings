@@ -256,12 +256,12 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1563915266737">
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1563916844895">
         <mark key="'" line="239" column="66" />
-        <mark key="[" line="238" column="32" />
-        <mark key="]" line="238" column="49" />
-        <mark key="^" line="238" column="31" />
-        <mark key="." line="238" column="32" />
+        <mark key="[" line="241" column="16" />
+        <mark key="]" line="241" column="18" />
+        <mark key="^" line="241" column="18" />
+        <mark key="." line="241" column="18" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rows[0].keys()[0]</text>
+        <text>set(rows[0].keys())</text>
       </register>
       <register name="-" type="4">
-        <text>salesforce_id</text>
+        <text>set(rows[0].keys())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</text>
@@ -394,34 +394,34 @@
         <text>rows[0].keys()[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCByb3dzWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlzc2luZ19maWVsZHMgPSByZXF1aXJlZF9maWVsZHMuZGlmZmVyZW5jZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93cyA9IFsKICAgICAgICAgICAgICAgIGRpY3QoKGsuc3RyaXAoKSwgdikgZm9yIGssIHYgaW4gcm93Lml0ZW1zKCkpIGZvciByb3cgaW4gcmVhZGVyXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2hlcmUgdGhleSBhcmUnLCByb3dzWzBdLmtleXMoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCByb3dzWzBdKQo=</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKCdObyBjc3YgcHJvdmlkZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93cyA9IFsKICAgICAgICAgICAgICAgIGRpY3QoKGsuc3RyaXAoKSwgdikgZm9yIGssIHYgaW4gcm93Lml0ZW1zKCkpIGZvciByb3cgaW4gcmVhZGVyXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGNzdi5FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnSW52YWxpZCBDU1Y6ICVzJyAlIGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKCdObyBjc3YgcHJvdmlkZWQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGNzdi5FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnSW52YWxpZCBDU1Y6ICVzJyAlIGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoIkFjY2VzcyBkZW5pZWQiIGluIHJlc3AuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBoYXNfcGVybWlzc2lvbigidXBkYXRlX3dhcmVob3VzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
