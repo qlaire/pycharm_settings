@@ -377,6 +377,7 @@
         <mark key="^" line="60" column="66" />
         <mark key="." line="60" column="66" />
       </file>
+      <file name="$USER_HOME$/Downloads/J-B-Stride-code-test/Readme.md" timestamp="1563895263506" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" />
