@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1563905113151">
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1563915145478">
         <mark key="'" line="30" column="13" />
-        <mark key="[" line="519" column="31" />
-        <mark key="]" line="519" column="44" />
-        <mark key="." line="519" column="44" />
-        <mark key="^" line="519" column="44" />
+        <mark key="[" line="533" column="66" />
+        <mark key="]" line="533" column="80" />
+        <mark key="." line="533" column="80" />
+        <mark key="^" line="533" column="80" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
@@ -40,8 +40,8 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" timestamp="1555537271437">
         <mark key="'" line="53" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" timestamp="1563905630103">
-        <mark key="'" line="314" column="8" />
+      <file name="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" timestamp="1563914417092">
+        <mark key="'" line="305" column="8" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" timestamp="1555442438623">
         <mark key="'" line="330" column="42" />
@@ -212,8 +212,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/features/lib/steps.py" timestamp="1556031019930">
         <mark key="'" line="405" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" timestamp="1563897112494">
-        <mark key="'" line="8" column="21" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" timestamp="1563914298338">
+        <mark key="'" line="955" column="8" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-497732817/data/models/warehouse.py" timestamp="1556218333037">
         <mark key="'" line="19" column="37" />
@@ -256,12 +256,12 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1563909752732">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="239" column="35" />
-        <mark key="]" line="239" column="51" />
-        <mark key="^" line="239" column="51" />
-        <mark key="." line="239" column="51" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1563915266737">
+        <mark key="'" line="239" column="66" />
+        <mark key="[" line="238" column="32" />
+        <mark key="]" line="238" column="49" />
+        <mark key="^" line="238" column="31" />
+        <mark key="." line="238" column="32" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
@@ -279,9 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="38" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="463" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="479" column="37" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="497" column="12" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="503" column="12" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="813" column="24" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
@@ -375,53 +372,56 @@
       <jump line="497" column="11" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="491" column="12" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="487" column="13" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="305" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
       <jump line="261" column="16" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
       <jump line="314" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
       <jump line="35" column="4" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="239" column="66" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="955" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" />
+      <jump line="207" column="13" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="305" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>errors.append('Shipment ID is required')</text>
+        <text>rows[0].keys()[0]</text>
       </register>
       <register name="-" type="4">
-        <text>errors.append('Shipment ID is required')</text>
+        <text>salesforce_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZV9ibGFja291dF9iYXRjaGVzXD4=</text>
+        <text encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGNzdi5FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnSW52YWxpZCBDU1Y6ICVzJyAlIGUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnTm8gY3N2IHByb3ZpZGVkJykK</text>
+      <register name="0" type="4">
+        <text>rows[0].keys()[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCByb3dzWzBdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKCdObyBjc3YgcHJvdmlkZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93cyA9IFsKICAgICAgICAgICAgICAgIGRpY3QoKGsuc3RyaXAoKSwgdikgZm9yIGssIHYgaW4gcm93Lml0ZW1zKCkpIGZvciByb3cgaW4gcmVhZGVyXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGNzdi5FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnSW52YWxpZCBDU1Y6ICVzJyAlIGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKCdObyBjc3YgcHJvdmlkZWQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGNzdi5FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgnSW52YWxpZCBDU1Y6ICVzJyAlIGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoIkFjY2VzcyBkZW5pZWQiIGluIHJlc3AuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBoYXNfcGVybWlzc2lvbigidXBkYXRlX3dhcmVob3VzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIDMwMikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoIkFjY2VzcyBkZW5pZWQiIGluIHJlc3AuYm9keSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFuX3N0YXR1cyA9IG9ubHkoTW9kZWwuV29ya2VyUGxhbi5tYW5hZ2VyLmdldF9hbGwoKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBsYW5fc3RhdHVzLnN1YnRhc2tzX3Blcl9qb2IsIDEwMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBsYW5fc3RhdHVzLnRvdGFsX3Rhc2tzLCAxKQo=</text>
+        <text encoding="base64">ICAgIEBoYXNfcGVybWlzc2lvbigidXBkYXRlX3dhcmVob3VzZSIpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -431,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZV9ibGFja291dF9iYXRjaGVzXD4=</last-search>
+      <last-search encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZV9ibGFja291dF9iYXRjaGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -441,8 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>peloton</entry>
-        <entry>partner_flag</entry>
         <entry>find</entry>
         <entry>get</entry>
         <entry>find_first</entry>
@@ -457,10 +455,12 @@
         <entry encoding="base64">XDxQb3N0YWxDb2RlUGFyc2luZ0Vycm9yXD4=</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVfZGF0YV9tYXBwaW5nXD4=</entry>
         <entry>partner_id</entry>
-        <entry encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</entry>
         <entry encoding="base64">XDxzaGlwbWVudF9xdW90ZV9maWVsZHNcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9tYXBwaW5nc1w+</entry>
         <entry encoding="base64">XDxwYXJzZV9ibGFja291dF9iYXRjaGVzXD4=</entry>
+        <entry>reader</entry>
+        <entry>validate</entry>
+        <entry encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
