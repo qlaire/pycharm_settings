@@ -193,8 +193,8 @@
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" timestamp="1557865167024">
         <mark key="'" line="397" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" timestamp="1563399495499">
-        <mark key="'" line="55" column="40" />
+      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" timestamp="1563994541231">
+        <mark key="'" line="146" column="24" />
         <mark key="[" line="193" column="30" />
         <mark key="]" line="193" column="57" />
         <mark key="." line="193" column="57" />
@@ -279,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="46" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="514" column="17" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="40" column="47" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
       <jump line="94" column="26" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
@@ -379,6 +378,7 @@
       <jump line="231" column="33" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="242" column="60" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="230" column="40" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="146" column="24" filename="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -388,7 +388,7 @@
         <text>''</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJlZF9ib2R5XD4=</text>
+        <text>delivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlcnJvcnMgPSByZW5kZXJlZF9ib2R5LmZpbmRfYWxsKHRleHQ9IkNTViBkb2VzIG5vdCBoYXZlIGFsbCByZXF1aXJlZCBjb2x1bW5zIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihlcnJvcnMpLCAxKQo=</text>
@@ -431,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJlZF9ib2R5XD4=</last-search>
+      <last-search>delivery</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJlZF9ib2R5XD4=</last-pattern>
+      <last-pattern>delivery</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>find_first</entry>
         <entry>is_active</entry>
         <entry encoding="base64">XDx3YXJlaG91c2VfemlwY29kZV91cGxvYWRcPg==</entry>
@@ -461,6 +460,7 @@
         <entry>validate</entry>
         <entry encoding="base64">XDxfZmluZF9taXNzaW5nX2ZpZWxkc19pbl9yb3dcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJlZF9ib2R5XD4=</entry>
+        <entry>delivery</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
