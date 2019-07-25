@@ -27,12 +27,15 @@
       <file name="/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py" timestamp="1555943043207">
         <mark key="'" line="239" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564005556371">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="557" column="7" />
-        <mark key="]" line="557" column="6" />
-        <mark key="." line="557" column="6" />
-        <mark key="^" line="557" column="6" />
+      <file name="$USER_HOME$/Development/api/data/services/worker_service.py" timestamp="1564078234406">
+        <mark key="'" line="105" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564080193467">
+        <mark key="'" line="574" column="49" />
+        <mark key="[" line="662" column="50" />
+        <mark key="]" line="662" column="58" />
+        <mark key="." line="662" column="58" />
+        <mark key="^" line="662" column="58" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -123,23 +126,14 @@
       <file name="$USER_HOME$/Development/api/mq/app/handlers/ecomm/ecommerce.py" timestamp="1554153159541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/db/ecommerce/schema/change-logs/changelog-201907171108.json" timestamp="1563376613396">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-      </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" timestamp="1563397892652">
-        <mark key="[" line="371" column="21" />
-        <mark key="]" line="371" column="23" />
-        <mark key="." line="371" column="23" />
-        <mark key="^" line="371" column="23" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/base_subscription.py" timestamp="1554834248887">
         <mark key="'" line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/scripts/scourgify/workers/refund_sub_charges/test_with_already_refunded_subscription.py" timestamp="1564077940731">
+        <mark key="'" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/warehouse.py" timestamp="1558723296896">
         <mark key="'" line="0" column="0" />
@@ -149,6 +143,11 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/api/scripts/backfill/backfill_update_shipments_migrated_to_fsl.py" timestamp="1564080273431">
+        <mark key="'" line="122" column="29" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="62" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
@@ -185,6 +184,10 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-497732817/data/models/warehouse.py" timestamp="1556218333037">
         <mark key="'" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/scripts/backfill/test_backfill_update_shipments_migrated_to_fsl.py" timestamp="1564079853308">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="102" column="9" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/commands/get_available_delivery_dates_for_postal_code.py" timestamp="1556031416282">
         <mark key="'" line="32" column="4" />
@@ -260,21 +263,15 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564076947057">
-        <mark key="'" line="234" column="26" />
-        <mark key="[" line="234" column="29" />
-        <mark key="]" line="234" column="55" />
-        <mark key="^" line="234" column="55" />
-        <mark key="." line="234" column="55" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564080622315">
+        <mark key="'" line="246" column="33" />
+        <mark key="[" line="79" column="46" />
+        <mark key="]" line="80" column="17" />
+        <mark key="^" line="80" column="17" />
+        <mark key="." line="80" column="17" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/field_service_lightning.py" timestamp="1563397980738">
-        <mark key="[" line="59" column="71" />
-        <mark key="]" line="60" column="66" />
-        <mark key="^" line="60" column="66" />
-        <mark key="." line="60" column="66" />
       </file>
       <file name="$USER_HOME$/Downloads/J-B-Stride-code-test/Readme.md" timestamp="1563898966987">
         <mark key="[" line="38" column="44" />
@@ -286,31 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="698" column="47" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="702" column="34" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="707" column="47" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="711" column="34" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="178" column="52" filename="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" />
-      <jump line="163" column="8" filename="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" />
-      <jump line="158" column="31" filename="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" />
-      <jump line="55" column="40" filename="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/prepare_for_delivery/test_prepare_for_delivery_emails.py" />
-      <jump line="250" column="47" filename="$USER_HOME$/Development/api/tests/mq/app/handlers/email/prepare_for_delivery/test_prepare_for_delivery_emails.py" />
-      <jump line="906" column="56" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="296" column="13" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="765" column="12" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="129" column="47" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="284" column="55" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="102" column="15" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="1432" column="17" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="198" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="522" column="20" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="276" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
-      <jump line="450" column="24" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="675" column="21" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="652" column="51" filename="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" />
       <jump line="911" column="62" filename="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" />
@@ -360,7 +332,6 @@
       <jump line="526" column="46" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="229" column="37" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="231" column="33" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="242" column="60" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="230" column="40" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="146" column="24" filename="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" />
       <jump line="529" column="17" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
@@ -374,7 +345,6 @@
       <jump line="530" column="45" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="249" column="61" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="246" column="27" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="239" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="188" column="30" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="92" column="14" filename="$USER_HOME$/Development/api/cms/components/shared/deprecated_layout.py" />
@@ -386,28 +356,52 @@
       <jump line="45" column="13" filename="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_index.py" />
       <jump line="234" column="26" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="47" column="32" filename="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_index.py" />
+      <jump line="242" column="22" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="359" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="4" column="17" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="494" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="96" column="5" filename="$USER_HOME$/Development/api/tests/scripts/scourgify/workers/refund_sub_charges/test_with_already_refunded_subscription.py" />
+      <jump line="77" column="5" filename="$USER_HOME$/Development/api/tests/scripts/scourgify/workers/refund_sub_charges/test_with_already_refunded_subscription.py" />
+      <jump line="56" column="17" filename="$USER_HOME$/Development/api/tests/scripts/scourgify/workers/refund_sub_charges/test_with_already_refunded_subscription.py" />
+      <jump line="5" column="23" filename="$USER_HOME$/Development/api/tests/scripts/scourgify/workers/refund_sub_charges/test_with_already_refunded_subscription.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="505" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="211" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="243" column="16" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="246" column="33" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="102" column="11" filename="$USER_HOME$/Development/api/data/services/worker_service.py" />
+      <jump line="103" column="31" filename="$USER_HOME$/Development/api/data/services/worker_service.py" />
+      <jump line="105" column="24" filename="$USER_HOME$/Development/api/data/services/worker_service.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="577" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="122" column="29" filename="$USER_HOME$/Development/api/scripts/backfill/backfill_update_shipments_migrated_to_fsl.py" />
+      <jump line="660" column="68" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="497" column="66" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="511" column="66" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="524" column="69" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="565" column="66" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="573" column="49" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="574" column="49" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fsl_batch_update_upload</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdyb3ctLS0tLS0tLS0tLS0nLCByb3cpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>fsl_batch_update_upload</text>
+        <text encoding="base64">c3AgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>postal</text>
+        <text encoding="base64">XDxzYWxlc2ZvcmNlX2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB3aGVuKHNlbGYuY2FuX3VwZGF0ZV93YXJlaG91c2VzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFtYmRhOiB3YXJlaG91c2VfYmxhY2tvdXRfdXBsb2FkKHNlbGYuY3NyZl90b2tlbikpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hpcG1lbnQgPSBNb2RlbC5TaGlwbWVudC5tYW5hZ2VyLmdldChzaGlwbWVudF9pZCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>DOM.br(),
-                                DOM.b('Example:'),
-                                DOM.br(),
-                                DOM.pre('10001, mxd_warehouse_chelsea, TRUE')</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdyb3ctLS0tLS0tLS0tLS0nLCByb3cpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET00uYnIoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET00uYignRXhhbXBsZTonKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET00uYnIoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET00ucHJlKCcxMDAwMSwgbXhkX3dhcmVob3VzZV9jaGVsc2VhLCBUUlVFJykpLAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -416,22 +410,22 @@
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdGVzdF93YXJlaG91c2VfemlwY29kZV91cGxvYWQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9zaGlwbWVudF9mb3JfZnNsKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZm9yIHJvdyBpbiByb3dzOgogICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfc2hpcG1lbnRfZm9yX2ZzbChyb3cpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFt1cGRhdGVfc2hpcG1lbnRfZm9yX2ZzbChyb3cpIGZvciByb3cgaW4gcm93c10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJzaGlwbWVudF9pZCI6ICJnaGk3ODkiLCAic2FsZXNmb3JjZV9pZCI6ICJqa2wxMjMifQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgY2hlcnJ5cHkuSFRUUFJlZGlyZWN0KCIvZWNvbW0vd2FyZWhvdXNlP2Vycm9ycz0lcyIgJSBlcnJvcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJzaGlwbWVudF9pZCI6ICJhYmMxMjMiLCAic2FsZXNmb3JjZV9pZCI6ICJkZWY0NTYifSwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -441,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postal</last-search>
+      <last-search encoding="base64">XDxzYWxlc2ZvcmNlX2lkXD4=</last-search>
       <last-offset />
-      <last-pattern>postal</last-pattern>
+      <last-pattern encoding="base64">XDxzYWxlc2ZvcmNlX2lkXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -451,12 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batch_update</entry>
-        <entry>shipment_quotes</entry>
-        <entry encoding="base64">XDxfdmFsaWRhdGVfcG9zdGFsX2NvZGVzXD4=</entry>
-        <entry encoding="base64">XDxQb3N0YWxDb2RlUGFyc2luZ0Vycm9yXD4=</entry>
-        <entry encoding="base64">XDxfZ2VuZXJhdGVfZGF0YV9tYXBwaW5nXD4=</entry>
-        <entry>partner_id</entry>
         <entry encoding="base64">XDxzaGlwbWVudF9xdW90ZV9maWVsZHNcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9tYXBwaW5nc1w+</entry>
         <entry encoding="base64">XDxwYXJzZV9ibGFja291dF9iYXRjaGVzXD4=</entry>
@@ -471,6 +459,12 @@
         <entry encoding="base64">XDx3YXJlaG91c2VfemlwY29kZV91cGxvYWRcPg==</entry>
         <entry>zipcode</entry>
         <entry>postal</entry>
+        <entry>fsl</entry>
+        <entry encoding="base64">XDxwYXRjaFw+</entry>
+        <entry>rows</entry>
+        <entry encoding="base64">XDxyb3dzXD4=</entry>
+        <entry encoding="base64">XDxjbXNfb3JkZXJfaWRfdG9fc2FsZXNfZm9yY2VfaWRcPg==</entry>
+        <entry encoding="base64">XDxzYWxlc2ZvcmNlX2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
