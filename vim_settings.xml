@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Development/api/data/services/worker_service.py" timestamp="1564078234406">
         <mark key="'" line="105" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564159455597">
-        <mark key="'" line="598" column="12" />
-        <mark key="[" line="691" column="0" />
-        <mark key="]" line="691" column="0" />
-        <mark key="." line="691" column="0" />
-        <mark key="^" line="689" column="68" />
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564163021460">
+        <mark key="'" line="576" column="29" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="74" />
+        <mark key="." line="507" column="0" />
+        <mark key="^" line="576" column="66" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -61,6 +61,9 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/data/models/peloton_postgres.py" timestamp="1564161269480">
+        <mark key="'" line="230" column="32" />
       </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
@@ -264,12 +267,12 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564159708106">
-        <mark key="'" line="377" column="8" />
-        <mark key="[" line="85" column="7" />
-        <mark key="]" line="85" column="52" />
-        <mark key="^" line="85" column="52" />
-        <mark key="." line="85" column="52" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564162810290">
+        <mark key="'" line="34" column="9" />
+        <mark key="[" line="287" column="30" />
+        <mark key="]" line="287" column="47" />
+        <mark key="^" line="287" column="47" />
+        <mark key="." line="287" column="47" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
@@ -284,15 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="6" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
-      <jump line="326" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
-      <jump line="839" column="58" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="936" column="25" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="930" column="60" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="925" column="60" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="919" column="35" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="914" column="20" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="762" column="20" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="761" column="12" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="498" column="17" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="497" column="11" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
@@ -384,49 +378,58 @@
       <jump line="152" column="50" filename="$USER_HOME$/Development/api/scripts/backfill/backfill_update_shipments_migrated_to_fsl.py" />
       <jump line="676" column="52" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="598" column="12" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/Development/api/data/models/peloton_postgres.py" />
+      <jump line="72" column="9" filename="$USER_HOME$/Development/api/data/models/peloton_postgres.py" />
+      <jump line="202" column="63" filename="$USER_HOME$/Development/api/data/models/peloton_postgres.py" />
+      <jump line="223" column="37" filename="$USER_HOME$/Development/api/data/models/peloton_postgres.py" />
+      <jump line="230" column="32" filename="$USER_HOME$/Development/api/data/models/peloton_postgres.py" />
+      <jump line="105" column="11" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="34" column="9" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="722" column="29" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
+      <jump line="576" column="29" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNoaXBtZW50LnBhcnRuZXJfd29ya19vcmRlcl9pZCA9IHJvd1snc2FsZXNmb3JjZV93b3JrX29yZGVyX2lkJ10K</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgiY21zLmFwcC5zZXJ2ZXIuY29udHJvbGxlcnMud2FyZWhvdXNlLnVwZGF0ZV9zaGlwbWVudF9mb3JfZnNsIikK</text>
       </register>
       <register name="-" type="4">
-        <text>efg789</text>
+        <text>Shipment does not exist</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0bmVyX3dvcmtfb3JkZXJfaWRcPg==</text>
+        <text encoding="base64">XDxhc3NlcnRfaGFzX2NhbGxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuc2hpcG1lbnQxLnBhcnRuZXJfd29ya19vcmRlcl9pZCwgJ2VmZzc4OScpCg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgiY21zLmFwcC5zZXJ2ZXIuY29udHJvbGxlcnMud2FyZWhvdXNlLnVwZGF0ZV9zaGlwbWVudF9mb3JfZnNsIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNoaXBtZW50LnBhcnRuZXJfd29ya19vcmRlcl9pZCA9IHJvd1snc2FsZXNmb3JjZV93b3JrX29yZGVyX2lkJ10K</text>
+        <text encoding="base64">ICAgICAgICAjIEZzbFN0YXR1c0V2ZW50UXVldWUucHV0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxscyA9IFtjYWxsKHsic2hpcG1lbnRfaWQiOiAiYWJjMTIzIiwgInNhbGVzZm9yY2VfaWQiOiAiZGVmNDU2In0pLAogICAgICAgICAgICAgICAgIGNhbGwoeyJzaGlwbWVudF9pZCI6ICJnaGk3ODkiLCAic2FsZXNmb3JjZV9pZCI6ICJqa2wxMjMifSldCiAgICAgICAgbW9ja19zaGlwbWVudF91cGRhdGUuYXNzZXJ0X2hhc19jYWxscyhjYWxscykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hhbmRsZXNfbm9uZXhpc3RlbnRfc2hpcG1lbnQoc2VsZik6CiAgICAgICAgdXBkYXRlX3NoaXBtZW50X2Zvcl9mc2woCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICdzaGlwbWVudF9pZCc6ICcxMjMnLAogICAgICAgICAgICAgICAgJ3NhbGVzZm9yY2VfaWQnOiAnYWJjMTIzJywKICAgICAgICAgICAgICAgICdzYWxlc2ZvcmNlX3dvcmtfb3JkZXJfaWQnOiAnZWZnNzg5JwogICAgICAgICAgICB9CiAgICAgICAgKQo=</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzYWxlc2ZvcmNlX3dvcmtfb3JkZXJfaWQnOiAnZWZnNzg5Jwo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBEb2VzTm90RXhpc3QgYXMgZToKICAgICAgICBwcmludCgnZXhjZXB0aW9uJywgZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIyMK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHdvcmtfb3JkZXJfaWQ6CiAgICAgICBzaGlwbWVudC5wYXJ0bmVyX3dvcmtfb3JkZXJfaWQgPSB3b3JrX29yZGVyX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdyb3ctLS0tLS0tLS0tLS0nLCByb3cpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9zaGlwbWVudF9mb3JfZnNsX2RvZXNfbm90X3VwZGF0ZV9wYXJ0bmVyX3dvcmtfb3JkZXIoc2VsZik6CiAgICAgICAgIiIiIHNhbGVzZm9yY2Ugd29yayBvcmRlciBpZCBpcyBvcHRpb25hbCBzbyBpZiBpdCBkb2Vzbid0IGV4aXN0LAogICAgICAgIHdlIHNob3VsZG4ndCB1cGRhdGUgdGhlIHNoaXBtZW50J3MgY3VycmVudCBwYXJ0bmVyIHdvcmsgb3JkZXIgaWQKICAgICAgICAiIiIKCiAgICAgICAgdXBkYXRlX3NoaXBtZW50X2Zvcl9mc2woCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICdzaGlwbWVudF9pZCc6IHNlbGYuc2hpcG1lbnQxLmlkLAogICAgICAgICAgICAgICAgJ3NhbGVzZm9yY2VfaWQnOiAnYWJjMTIzJwogICAgICAgICAgICB9CiAgICAgICAgKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuc2hpcG1lbnQxLnBhcnRuZXJfd29ya19vcmRlcl9pZCwgJzEyMzQ1JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHNoaXBtZW50LnBhcnRuZXJfd29ya19vcmRlcl9pZCA9IHJvd1snc2FsZXNmb3JjZV93b3JrX29yZGVyX2lkJ10K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -436,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0bmVyX3dvcmtfb3JkZXJfaWRcPg==</last-search>
+      <last-search encoding="base64">XDxhc3NlcnRfaGFzX2NhbGxzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0bmVyX3dvcmtfb3JkZXJfaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NlcnRfaGFzX2NhbGxzXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -446,9 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJlZF9ib2R5XD4=</entry>
-        <entry>create</entry>
-        <entry encoding="base64">XDxyZVw+</entry>
         <entry encoding="base64">XDxjc3ZcPg==</entry>
         <entry encoding="base64">XDx3YXJlaG91c2VfemlwY29kZV91cGxvYWRcPg==</entry>
         <entry>zipcode</entry>
@@ -466,6 +466,9 @@
         <entry encoding="base64">XDxmc2xfc3RhdHVzX2V2ZW50c1w+</entry>
         <entry encoding="base64">XDxjb3VudGVyXD4=</entry>
         <entry encoding="base64">XDxwYXJ0bmVyX3dvcmtfb3JkZXJfaWRcPg==</entry>
+        <entry>get</entry>
+        <entry encoding="base64">XDxEb2VzTm90RXhpc3RcPg==</entry>
+        <entry encoding="base64">XDxhc3NlcnRfaGFzX2NhbGxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
