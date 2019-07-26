@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Development/api/data/services/worker_service.py" timestamp="1564078234406">
         <mark key="'" line="105" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564168310855">
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564170259419">
         <mark key="'" line="650" column="13" />
-        <mark key="[" line="649" column="0" />
-        <mark key="]" line="649" column="0" />
-        <mark key="." line="649" column="0" />
-        <mark key="^" line="508" column="54" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="0" />
+        <mark key="." line="507" column="0" />
+        <mark key="^" line="533" column="32" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/blackboard-slate-api-py-hpJx4-Qj/lib/python3.6/site-packages/dateutil/relativedelta.py" timestamp="1548274002704">
         <mark key="'" line="95" column="8" />
@@ -267,12 +267,12 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564168563222">
-        <mark key="'" line="186" column="15" />
-        <mark key="[" line="286" column="53" />
-        <mark key="]" line="286" column="53" />
-        <mark key="^" line="286" column="53" />
-        <mark key="." line="286" column="53" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564170143817">
+        <mark key="'" line="253" column="41" />
+        <mark key="[" line="290" column="87" />
+        <mark key="]" line="290" column="87" />
+        <mark key="^" line="290" column="87" />
+        <mark key="." line="290" column="87" />
       </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
@@ -287,11 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
-      <jump line="955" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" />
-      <jump line="207" column="13" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
-      <jump line="305" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
       <jump line="236" column="17" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="383" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
       <jump line="526" column="46" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" />
@@ -387,49 +382,54 @@
       <jump line="388" column="20" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="24" column="19" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
       <jump line="186" column="15" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="326" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="289" column="15" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="290" column="41" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="12" column="63" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
+      <jump line="253" column="41" filename="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Shipment does not exist</text>
+        <text>message=&quot;All shipments updated&quot;))</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEb2VzTm90VmFsaWRhdGVcPg==</text>
+        <text encoding="base64">XDxCYXRjaFVwZGF0ZVJlc3VsdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgiY21zLmFwcC5zZXJ2ZXIuY29udHJvbGxlcnMud2FyZWhvdXNlLnVwZGF0ZV9zaGlwbWVudF9mb3JfZnNsIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIDIwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yZGVyMiA9IE1vZGVsLk9yZGVyLnNhdmVfd2l0aCgKICAgICAgICAgICAgdXNlcl9pZD1zZWxmLnVzZXIuaWQsCiAgICAgICAgICAgIHNoaXBwaW5nX2FkZHJlc3NlZT0iUmljaCBQZXJzb24iLAogICAgICAgICAgICBzaGlwcGluZ19jaXR5PSJOZXcgWW9yayIsCiAgICAgICAgICAgIHNoaXBwaW5nX2NvdW50cnk9IlVTIiwKICAgICAgICAgICAgc2hpcHBpbmdfcGhvbmVfbnVtYmVyPSI0MTU0NTA4MDAwIiwKICAgICAgICAgICAgc2hpcHBpbmdfcG9zdGFsX2NvZGU9IjEwMDAxIiwKICAgICAgICAgICAgc2hpcHBpbmdfc3RhdGU9Ik5ZIiwKICAgICAgICAgICAgc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMT0iMTN0aCBNYW5zaW9uIEF2ZS4iLAogICAgICAgICAgICBlbWFpbD0icmljaC5wZXJzb25AZXhhbXBsZS5jb20iLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgiY21zLmFwcC5zZXJ2ZXIuY29udHJvbGxlcnMud2FyZWhvdXNlLnVwZGF0ZV9zaGlwbWVudF9mb3JfZnNsIikKICAgIGRlZiB0ZXN0X2JhdGNoX3VwZGF0ZV9mc2xfc3VjY2VzcyhzZWxmLCBtb2NrX3VwZGF0ZSk6CiAgICAgICAgc2VsZi5sb2dpbihzZWxmLmFkbWluX3dpdGhfcGVybWlzc2lvbiwgImFkbWluX3NlY3JldCIpCgogICAgICAgIHdpdGggdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKCkgYXMgY3N2X2ZpbGU6CiAgICAgICAgICAgIHdyaXRlciA9IGNzdi53cml0ZXIoY3N2X2ZpbGUsIGVuY29kaW5nPSJ1dGYtOC1zaWciKQogICAgICAgICAgICB3cml0ZXIud3JpdGVyb3coW3Uic2hpcG1lbnRfaWQiLmVuY29kZSgidXRmLTgtc2lnIiksICJzYWxlc2ZvcmNlX2lkIl0pCiAgICAgICAgICAgIHdyaXRlci53cml0ZXJvdyhbdSJhYmMxMjMiLmVuY29kZSgidXRmLTgtc2lnIiksICJkZWY0NTYiXSkKICAgICAgICAgICAgY3N2X2ZpbGUuZmx1c2goKQoKICAgICAgICAgICAgcmVzcCA9IHNlbGYuYXBwLnBvc3QoIi9lY29tbS93YXJlaG91c2UvYmF0Y2gtdXBkYXRlLWZzbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwbG9hZF9maWxlcz1bKCJmc2xfdXBkYXRlX2NzdiIsIGNzdl9maWxlLm5hbWUpXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIDIwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBtZW50MiA9IE1vZGVsLlNoaXBtZW50LnNhdmVfd2l0aCgKICAgICAgICAgICAgb3JkZXJfaWQ9c2VsZi5vcmRlcjIuaWQsCiAgICAgICAgICAgIHNoaXBwaW5nX21ldGhvZD1HUk9VTkRfREVMSVZFUlksCiAgICAgICAgICAgIGxldmVsX29mX3NlcnZpY2U9Q1VSQlNJREUsCiAgICAgICAgICAgIHBhcnRuZXJfZmxhZz1QRUxPVE9OCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgiY21zLmFwcC5zZXJ2ZXIuY29udHJvbGxlcnMud2FyZWhvdXNlLnVwZGF0ZV9zaGlwbWVudF9mb3JfZnNsIikKICAgIGRlZiB0ZXN0X2JhdGNoX3VwZGF0ZV9mc2xfdXBkYXRlc19lYWNoX3NoaXBtZW50X2luX3JvdyhzZWxmLCBtb2NrX3NoaXBtZW50X3VwZGF0ZSk6CiAgICAgICAgc2VsZi5sb2dpbihzZWxmLmFkbWluX3dpdGhfcGVybWlzc2lvbiwgImFkbWluX3NlY3JldCIpCgogICAgICAgIHdpdGggdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKCkgYXMgY3N2X2ZpbGU6CiAgICAgICAgICAgIHdyaXRlciA9IGNzdi53cml0ZXIoY3N2X2ZpbGUsIGVuY29kaW5nPSJ1dGYtOC1zaWciKQogICAgICAgICAgICB3cml0ZXIud3JpdGVyb3coW3Uic2hpcG1lbnRfaWQiLmVuY29kZSgidXRmLTgtc2lnIiksICJzYWxlc2ZvcmNlX2lkIl0pCiAgICAgICAgICAgIHdyaXRlci53cml0ZXJvdyhbdSJhYmMxMjMiLmVuY29kZSgidXRmLTgtc2lnIiksICJkZWY0NTYiXSkKICAgICAgICAgICAgd3JpdGVyLndyaXRlcm93KFt1ImdoaTc4OSIuZW5jb2RlKCJ1dGYtOC1zaWciKSwgImprbDEyMyJdKQogICAgICAgICAgICBjc3ZfZmlsZS5mbHVzaCgpCgogICAgICAgICAgICBzZWxmLmFwcC5wb3N0KCIvZWNvbW0vd2FyZWhvdXNlL2JhdGNoLXVwZGF0ZS1mc2wiLAogICAgICAgICAgICAgICAgICAgICAgICAgIHVwbG9hZF9maWxlcz1bKCJmc2xfdXBkYXRlX2NzdiIsIGNzdl9maWxlLm5hbWUpXSkKCiAgICAgICAgY2FsbHMgPSBbY2FsbCh7InNoaXBtZW50X2lkIjogImFiYzEyMyIsICJzYWxlc2ZvcmNlX2lkIjogImRlZjQ1NiJ9KSwKICAgICAgICAgICAgICAgICBjYWxsKHsic2hpcG1lbnRfaWQiOiAiZ2hpNzg5IiwgInNhbGVzZm9yY2VfaWQiOiAiamtsMTIzIn0pXQogICAgICAgIG1vY2tfc2hpcG1lbnRfdXBkYXRlLmFzc2VydF9oYXNfY2FsbHMoY2FsbHMsIGFueV9vcmRlcj1UcnVlKQo=</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudDMgPSBNb2RlbC5Gc2xTdGF0dXNFdmVudC5zYXZlX3dpdGgoCiAgICAgICAgICAgIG9yZGVyX2lkPXNlbGYub3JkZXIyLmlkLAogICAgICAgICAgICBqc29uX3BheWxvYWQ9Int9IiwKICAgICAgICAgICAgYWN0dWFsX3N0YXJ0X2F0PU5vbmUsCiAgICAgICAgICAgIGFjdHVhbF9lbmRfYXQ9Tm9uZSwKICAgICAgICAgICAgYXJyaXZhbF93aW5kb3dfc3RhcnRfYXQ9YXJyb3cuZ2V0KCIyMDE5LTA3LTA5VDEzOjAwOjAwLjAwMFoiKS50aW1lc3RhbXAsCiAgICAgICAgICAgIGFycml2YWxfd2luZG93X2VuZF9hdD1hcnJvdy5nZXQoIjIwMTktMDctMDlUMTU6MDA6MDAuMDAwWiIpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZHVlX2F0PWFycm93LmdldCgiMjAxOS0wNy0yMVQwMDowMDowMC4wMDBaIikudGltZXN0YW1wLAogICAgICAgICAgICBlYXJsaWVzdF9zdGFydF9hdD1hcnJvdy5nZXQoIjIwMTktMDctMDhUMTM6MDA6MDAuMDAwWiIpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZnNsX2xhc3RfbW9kaWZpZWRfYXQ9YXJyb3cudXRjbm93KCkudGltZXN0YW1wLAogICAgICAgICAgICBzY2hlZHVsZWRfc3RhcnRfYXQ9YXJyb3cuZ2V0KCIyMDE5LTA3LTA4VDEzOjAwOjAwLjAwMFoiKS50aW1lc3RhbXAsCiAgICAgICAgICAgIHNjaGVkdWxlZF9lbmRfYXQ9YXJyb3cuZ2V0KCIyMDE5LTA3LTA4VDE1OjAwOjAwLjAwMFoiKS50aW1lc3RhbXAsCiAgICAgICAgICAgIHN0YXR1cz0iU2NoZWR1bGVkIgogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYucmVuZGVyX2NvbXBvbmVudChCYXRjaFVwZGF0ZVJlc3VsdChlcnJvcnM9am9iX3N0YXR1cy5lcnJvcnMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZzbFN0YXR1c0V2ZW50UXVldWUucHV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYucmVuZGVyX2NvbXBvbmVudChCYXRjaFVwZGF0ZVJlc3VsdChlcnJvcnM9am9iX3N0YXR1cy5lcnJvcnMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxscyA9IFtjYWxsKHsic2hpcG1lbnRfaWQiOiAiYWJjMTIzIiwgInNhbGVzZm9yY2VfaWQiOiAiZGVmNDU2In0pLAogICAgICAgICAgICAgICAgIGNhbGwoeyJzaGlwbWVudF9pZCI6ICJnaGk3ODkiLCAic2FsZXNmb3JjZV9pZCI6ICJqa2wxMjMifSldCiAgICAgICAgbW9ja19zaGlwbWVudF91cGRhdGUuYXNzZXJ0X2hhc19jYWxscyhjYWxscykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2hhbmRsZXNfbm9uZXhpc3RlbnRfc2hpcG1lbnQoc2VsZik6CiAgICAgICAgdXBkYXRlX3NoaXBtZW50X2Zvcl9mc2woCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICdzaGlwbWVudF9pZCc6ICcxMjMnLAogICAgICAgICAgICAgICAgJ3NhbGVzZm9yY2VfaWQnOiAnYWJjMTIzJywKICAgICAgICAgICAgICAgICdzYWxlc2ZvcmNlX3dvcmtfb3JkZXJfaWQnOiAnZWZnNzg5JwogICAgICAgICAgICB9CiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9yZGVyMiA9IE1vZGVsLk9yZGVyLnNhdmVfd2l0aCgKICAgICAgICAgICAgdXNlcl9pZD1zZWxmLnVzZXIuaWQsCiAgICAgICAgICAgIHNoaXBwaW5nX2FkZHJlc3NlZT0iUmljaCBQZXJzb24iLAogICAgICAgICAgICBzaGlwcGluZ19jaXR5PSJOZXcgWW9yayIsCiAgICAgICAgICAgIHNoaXBwaW5nX2NvdW50cnk9IlVTIiwKICAgICAgICAgICAgc2hpcHBpbmdfcGhvbmVfbnVtYmVyPSI0MTU0NTA4MDAwIiwKICAgICAgICAgICAgc2hpcHBpbmdfcG9zdGFsX2NvZGU9IjEwMDAxIiwKICAgICAgICAgICAgc2hpcHBpbmdfc3RhdGU9Ik5ZIiwKICAgICAgICAgICAgc2hpcHBpbmdfc3RyZWV0X2FkZHJlc3NfMT0iMTN0aCBNYW5zaW9uIEF2ZS4iLAogICAgICAgICAgICBlbWFpbD0icmljaC5wZXJzb25AZXhhbXBsZS5jb20iLAogICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBEb2VzTm90RXhpc3QgYXMgZToKICAgICAgICBwcmludCgnZXhjZXB0aW9uJywgZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBtZW50MiA9IE1vZGVsLlNoaXBtZW50LnNhdmVfd2l0aCgKICAgICAgICAgICAgb3JkZXJfaWQ9c2VsZi5vcmRlcjIuaWQsCiAgICAgICAgICAgIHNoaXBwaW5nX21ldGhvZD1HUk9VTkRfREVMSVZFUlksCiAgICAgICAgICAgIGxldmVsX29mX3NlcnZpY2U9Q1VSQlNJREUsCiAgICAgICAgICAgIHBhcnRuZXJfZmxhZz1QRUxPVE9OCiAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBldmVudDMgPSBNb2RlbC5Gc2xTdGF0dXNFdmVudC5zYXZlX3dpdGgoCiAgICAgICAgICAgIG9yZGVyX2lkPXNlbGYub3JkZXIyLmlkLAogICAgICAgICAgICBqc29uX3BheWxvYWQ9Int9IiwKICAgICAgICAgICAgYWN0dWFsX3N0YXJ0X2F0PU5vbmUsCiAgICAgICAgICAgIGFjdHVhbF9lbmRfYXQ9Tm9uZSwKICAgICAgICAgICAgYXJyaXZhbF93aW5kb3dfc3RhcnRfYXQ9YXJyb3cuZ2V0KCIyMDE5LTA3LTA5VDEzOjAwOjAwLjAwMFoiKS50aW1lc3RhbXAsCiAgICAgICAgICAgIGFycml2YWxfd2luZG93X2VuZF9hdD1hcnJvdy5nZXQoIjIwMTktMDctMDlUMTU6MDA6MDAuMDAwWiIpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZHVlX2F0PWFycm93LmdldCgiMjAxOS0wNy0yMVQwMDowMDowMC4wMDBaIikudGltZXN0YW1wLAogICAgICAgICAgICBlYXJsaWVzdF9zdGFydF9hdD1hcnJvdy5nZXQoIjIwMTktMDctMDhUMTM6MDA6MDAuMDAwWiIpLnRpbWVzdGFtcCwKICAgICAgICAgICAgZnNsX2xhc3RfbW9kaWZpZWRfYXQ9YXJyb3cudXRjbm93KCkudGltZXN0YW1wLAogICAgICAgICAgICBzY2hlZHVsZWRfc3RhcnRfYXQ9YXJyb3cuZ2V0KCIyMDE5LTA3LTA4VDEzOjAwOjAwLjAwMFoiKS50aW1lc3RhbXAsCiAgICAgICAgICAgIHNjaGVkdWxlZF9lbmRfYXQ9YXJyb3cuZ2V0KCIyMDE5LTA3LTA4VDE1OjAwOjAwLjAwMFoiKS50aW1lc3RhbXAsCiAgICAgICAgICAgIHN0YXR1cz0iU2NoZWR1bGVkIgogICAgICAgICkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -439,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEb2VzTm90VmFsaWRhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxCYXRjaFVwZGF0ZVJlc3VsdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEb2VzTm90VmFsaWRhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCYXRjaFVwZGF0ZVJlc3VsdFw+</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postal</entry>
         <entry>fsl</entry>
         <entry encoding="base64">XDxwYXRjaFw+</entry>
         <entry>rows</entry>
@@ -469,6 +468,7 @@
         <entry encoding="base64">XDxzaGlwbWVudDJcPg==</entry>
         <entry encoding="base64">XDxvcmRlcjJcPg==</entry>
         <entry encoding="base64">XDxEb2VzTm90VmFsaWRhdGVcPg==</entry>
+        <entry encoding="base64">XDxCYXRjaFVwZGF0ZVJlc3VsdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>14832</entry>
