@@ -258,6 +258,9 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" timestamp="1564778248593">
+        <mark key="'" line="91" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/order/logistics.py" timestamp="1563311234353">
         <mark key="'" line="42" column="43" />
       </file>
@@ -321,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
       <jump line="628" column="25" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
       <jump line="627" column="8" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
       <jump line="620" column="25" filename="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_shipment.py" />
@@ -421,6 +423,7 @@
       <jump line="62" column="4" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
       <jump line="144" column="33" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
       <jump line="145" column="31" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
+      <jump line="91" column="23" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -430,7 +433,7 @@
         <text>self.returnable_order.unreturnable_items</text>
       </register>
       <register name="/" type="4">
-        <text>subscription</text>
+        <text>finalize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RlZF9iaWtlX2l0ZW0gPSBsaXN0KG9yZGVyLml0ZW1fc2V0KVswXQo=</text>
@@ -473,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subscription</last-search>
+      <last-search>finalize</last-search>
       <last-offset />
-      <last-pattern>subscription</last-pattern>
+      <last-pattern>finalize</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mapping</entry>
         <entry>mapping(</entry>
         <entry>item</entry>
         <entry>item_set(</entry>
@@ -503,6 +505,7 @@
         <entry encoding="base64">XDxVTlNVUFBPUlRFRFw+</entry>
         <entry encoding="base64">XDxmaW5hbGl6ZVw+</entry>
         <entry>subscription</entry>
+        <entry>finalize</entry>
       </history-search>
       <history-cmd>
         <entry>14575</entry>
