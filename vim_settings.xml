@@ -9,9 +9,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/return_result_item_builder.py" timestamp="1564683454879">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="25" />
+      <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564421790435">
+        <mark key="'" line="624" column="12" />
+        <mark key="[" line="681" column="9" />
+        <mark key="]" line="682" column="7" />
+        <mark key="." line="682" column="7" />
+        <mark key="^" line="682" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
@@ -28,6 +31,13 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/shipping/logistics/domain/delivery_time_slot.py" timestamp="1563311075970">
         <mark key="'" line="35" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_order.py" timestamp="1563393823515">
+        <mark key="'" line="56" column="26" />
+        <mark key="[" line="747" column="32" />
+        <mark key="]" line="748" column="7" />
+        <mark key="^" line="748" column="7" />
+        <mark key="." line="748" column="7" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/peloton_postgres.py" timestamp="1564161269480">
         <mark key="'" line="230" column="32" />
@@ -53,6 +63,13 @@
         <mark key="." line="17" column="90" />
         <mark key="^" line="17" column="92" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_index.py" timestamp="1564413461379">
+        <mark key="'" line="48" column="46" />
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="62" />
+        <mark key="." line="48" column="62" />
+        <mark key="^" line="48" column="62" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/billing/subscription_charge.py" timestamp="1554153690088">
         <mark key="'" line="62" column="16" />
       </file>
@@ -66,12 +83,6 @@
       <file name="$USER_HOME$/Development/api/data/models/warehouse.py" timestamp="1558723296896">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/rmas/commands/return_items.py" timestamp="1564675480607">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/rma/commands/create_rma_for_orderitem.py" timestamp="1565018429184" />
       <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
         <mark key="'" line="382" column="12" />
@@ -79,12 +90,12 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_order_details.py" timestamp="1564507494164">
         <mark key="'" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_order_builder.py" timestamp="1565112771211">
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_order_builder.py" timestamp="1565113460168">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="46" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="70" />
+        <mark key="^" line="30" column="70" />
+        <mark key="." line="30" column="70" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/iqos_transaction_accessor.py" timestamp="1548190689249">
         <mark key="'" line="10" column="6" />
@@ -206,6 +217,13 @@
       <file name="$USER_HOME$/Development/api/errors/ecomm.py" timestamp="1554390553010">
         <mark key="'" line="574" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/components/ecomm/warehouse/test_warehouse_index.py" timestamp="1564077000300">
+        <mark key="'" line="47" column="32" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" timestamp="1555423394092">
         <mark key="'" line="72" column="8" />
       </file>
@@ -265,6 +283,27 @@
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" timestamp="1565105274826">
         <mark key="'" line="87" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/shipment.py" timestamp="1564427445657">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="196" column="56" />
+        <mark key="]" line="196" column="70" />
+        <mark key="." line="196" column="70" />
+        <mark key="^" line="196" column="70" />
+      </file>
+      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/__init__.py" timestamp="1563994541231">
+        <mark key="'" line="146" column="24" />
+        <mark key="[" line="193" column="30" />
+        <mark key="]" line="193" column="57" />
+        <mark key="." line="193" column="57" />
+        <mark key="^" line="193" column="57" />
+      </file>
+      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1565113614221">
+        <mark key="'" line="108" column="26" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="435" column="69" />
+        <mark key="^" line="436" column="89" />
+        <mark key="." line="436" column="89" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/order/logistics.py" timestamp="1563311234353">
         <mark key="'" line="42" column="43" />
       </file>
@@ -286,11 +325,19 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1563399716924">
         <mark key="'" line="163" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/order_item_builder.py" timestamp="1564683484622">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/order_item_builder.py" timestamp="1565113673808">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" timestamp="1563399259300">
+        <mark key="'" line="711" column="34" />
+        <mark key="[" line="699" column="36" />
+        <mark key="]" line="699" column="62" />
+        <mark key="^" line="699" column="62" />
+        <mark key="." line="699" column="62" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
@@ -301,16 +348,18 @@
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1555344830464">
         <mark key="'" line="1517" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/zendesk/commands/test_return_order.py" timestamp="1564501926468">
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="34" column="47" />
-        <mark key="." line="34" column="47" />
-        <mark key="^" line="34" column="47" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/graphql/test_order.py" timestamp="1563397311592">
+        <mark key="'" line="85" column="13" />
+        <mark key="[" line="377" column="30" />
+        <mark key="]" line="377" column="33" />
+        <mark key="." line="377" column="33" />
+        <mark key="^" line="377" column="33" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/peloton_digital_subscription.py" timestamp="1554153510916">
         <mark key="'" line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/order_item.py" timestamp="1565104398134">
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/order_item.py" timestamp="1565113691109">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="17" />
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
@@ -322,36 +371,18 @@
       <file name="$USER_HOME$/Development/api/tests/integration/ecomm/test_order_response.py" timestamp="1555968521579">
         <mark key="'" line="1326" column="14" />
       </file>
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/warehouse.py" timestamp="1564421619728">
+        <mark key="'" line="102" column="61" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="106" column="3" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api/lib/orm/postgres/managers.py" timestamp="1561127055830">
         <mark key="'" line="32" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="64" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="74" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="1263" column="22" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1351" column="42" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1352" column="20" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1353" column="40" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1354" column="42" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1356" column="40" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1366" column="50" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1367" column="23" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1396" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1521" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1525" column="18" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1209" column="25" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1213" column="21" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1217" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1236" column="22" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="319" column="8" filename="$USER_HOME$/Development/api/data/models/orderitem.py" />
-      <jump line="78" column="57" filename="$USER_HOME$/Development/api/data/models/orderitem.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/Development/api/data/models/orderitem.py" />
-      <jump line="80" column="18" filename="$USER_HOME$/Development/api/data/models/orderitem.py" />
-      <jump line="81" column="39" filename="$USER_HOME$/Development/api/data/models/orderitem.py" />
-      <jump line="313" column="0" filename="$USER_HOME$/Development/api/data/models/orderitem.py" />
-      <jump line="45" column="4" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
-      <jump line="33" column="4" filename="$USER_HOME$/Development/api/data/models/rma.py" />
       <jump line="64" column="43" filename="$USER_HOME$/Development/api/data/models/rma.py" />
       <jump line="220" column="4" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
       <jump line="355" column="23" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
@@ -427,19 +458,44 @@
       <jump line="515" column="70" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="544" column="88" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="850" column="4" filename="$USER_HOME$/Development/api/tests/please/make.py" />
+      <jump line="296" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="310" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="311" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="334" column="29" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="337" column="19" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="449" column="34" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="451" column="36" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="452" column="39" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="513" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="514" column="37" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="516" column="5" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="517" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="518" column="13" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="538" column="46" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="542" column="20" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="182" column="10" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="291" column="12" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="718" column="12" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="721" column="81" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="727" column="23" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="729" column="55" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="731" column="56" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="108" column="26" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="42" column="18" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/order_item_builder.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/order_item.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.add_many</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnByaWNlKHJlY29yZC5wcmljZV9pbl9jZW50cykK</text>
       </register>
       <register name="-" type="4">
-        <text>.add_many</text>
+        <text>list(record.item_set) + list(record.shipment_set)</text>
       </register>
       <register name="/" type="4">
-        <text>shipment</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJldHVybmFibGVfb3JkZXIuaWQsIG9ybV9vcmRlci5pZCkKICAgICAgICBzZWxmLmFzc2VydExlbihyZXR1cm5hYmxlX29yZGVyLml0ZW1zLmtleXMoKSwgMikKICAgICAgICBzZWxmLmFzc2VydExlbihyZXR1cm5hYmxlX29yZGVyLml0ZW1zW09SREVSX0lURU1fVFlQRVMuVU5TVVBQT1JURURdLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0TGVuKHJldHVybmFibGVfb3JkZXIuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TVVBQT1JURURfSEFSRFdBUkVdLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByaWNlKHJlY29yZC5wcmljZV9pbl9jZW50cykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -479,9 +535,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shipment</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>shipment</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -489,9 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return_item_set</entry>
-        <entry encoding="base64">XDxjcmVhdGVfcmV0dXJuX2l0ZW1cPg==</entry>
-        <entry>cancel_intangibles</entry>
         <entry encoding="base64">XDxjYW5jZWxfaW50YW5naWJsZXNcPg==</entry>
         <entry>reason</entry>
         <entry encoding="base64">XDxyZWFzb25fY29kZVw+</entry>
@@ -509,6 +562,9 @@
         <entry encoding="base64">XDxfY3JlYXRlX3JldHVybl9pdGVtc1w+</entry>
         <entry encoding="base64">XDxfY3JlYXRlX3JtYVw+</entry>
         <entry>shipment</entry>
+        <entry>is_shipment</entry>
+        <entry>price</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry>14575</entry>
