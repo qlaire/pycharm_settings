@@ -151,8 +151,8 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="57" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1565018103017">
-        <mark key="'" line="1236" column="22" />
+      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1565105473321">
+        <mark key="'" line="544" column="88" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
@@ -249,8 +249,8 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/ca.py" timestamp="1555360504952">
         <mark key="'" line="192" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" timestamp="1565033812472">
-        <mark key="'" line="145" column="8" />
+      <file name="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" timestamp="1565105274826">
+        <mark key="'" line="87" column="8" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/order/logistics.py" timestamp="1563311234353">
         <mark key="'" line="42" column="43" />
@@ -314,34 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="12" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returnable_order.py" />
-      <jump line="42" column="12" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returnable_order.py" />
-      <jump line="144" column="33" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
-      <jump line="145" column="31" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
-      <jump line="91" column="23" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="375" column="12" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="388" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="416" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="417" column="17" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="418" column="28" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="419" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="422" column="12" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="425" column="41" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="428" column="41" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="432" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="473" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="509" column="42" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="510" column="34" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="518" column="9" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="526" column="33" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="542" column="43" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="543" column="65" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="552" column="9" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="564" column="9" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="565" column="38" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="569" column="18" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="574" column="9" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="595" column="9" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
       <jump line="27" column="4" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
       <jump line="32" column="64" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
       <jump line="74" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
@@ -351,7 +323,6 @@
       <jump line="1353" column="40" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1354" column="42" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1356" column="40" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="1365" column="17" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1366" column="50" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1367" column="23" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1396" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
@@ -380,8 +351,6 @@
       <jump line="137" column="4" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
       <jump line="123" column="8" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
       <jump line="46" column="18" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
-      <jump line="144" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
-      <jump line="97" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
       <jump line="70" column="29" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
       <jump line="107" column="23" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
       <jump line="593" column="7" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
@@ -414,6 +383,37 @@
       <jump line="45" column="28" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returnable_order.py" />
       <jump line="162" column="18" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/domain/test_returnable_order.py" />
       <jump line="24" column="33" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/domain/test_returnable_order.py" />
+      <jump line="114" column="41" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
+      <jump line="132" column="21" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
+      <jump line="144" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
+      <jump line="97" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/Development/api/cms/app/server/controllers/rma.py" />
+      <jump line="1365" column="17" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="27" column="16" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="115" column="6" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="116" column="11" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="117" column="53" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="125" column="28" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="133" column="33" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="134" column="20" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="135" column="20" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="161" column="58" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="192" column="48" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="306" column="9" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="386" column="30" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="413" column="60" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="442" column="65" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="443" column="49" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="449" column="70" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="451" column="66" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="489" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="490" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="510" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="511" column="60" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="514" column="18" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="515" column="70" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="544" column="88" filename="$USER_HOME$/Development/api/data/models/order.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -423,7 +423,7 @@
         <text>shipment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWtlX29yZGVyX2l0ZW1cPg==</text>
+        <text>shipment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3JldHVybmFibGVfaXRlbXNfcmV0dXJuc19zdXBwb3J0ZWRfaGFyZHdhcmUoc2VsZik6CiAgICAgICAgaXRlbXMgPSBkZWZhdWx0ZGljdChsaXN0KQogICAgICAgIGl0ZW1zW09SREVSX0lURU1fVFlQRVMuU1VQUE9SVEVEX0hBUkRXQVJFXSA9ICgKICAgICAgICAgICAgW3NlbGYuYmlrZV9vcmRlcl9pdGVtXQogICAgICAgICkKICAgICAgICBpdGVtc1tPUkRFUl9JVEVNX1RZUEVTLlVOU1VQUE9SVEVEXSA9ICgKICAgICAgICAgICAgW3NlbGYudHJlYWRfb3JkZXJfaXRlbV0KICAgICAgICApCiAgICAgICAgb3JkZXIgPSBSZXR1cm5hYmxlT3JkZXIoaWQ9aWQsIGl0ZW1zPWl0ZW1zKQogICAgICAgIHJldHVybmFibGVfaXRlbXMgPSBvcmRlci5yZXR1cm5hYmxlX2l0ZW1zCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmV0dXJuYWJsZV9pdGVtcywgW3NlbGYuYmlrZV9vcmRlcl9pdGVtXSkK</text>
@@ -466,9 +466,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWtlX29yZGVyX2l0ZW1cPg==</last-search>
+      <last-search>shipment</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWtlX29yZGVyX2l0ZW1cPg==</last-pattern>
+      <last-pattern>shipment</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -476,14 +476,10 @@
     </search>
     <history>
       <history-search>
-        <entry>shipment_id</entry>
-        <entry encoding="base64">XDxyZXR1cm5faXRlbV9zZXRcPg==</entry>
         <entry>return_item_set</entry>
         <entry encoding="base64">XDxjcmVhdGVfcmV0dXJuX2l0ZW1cPg==</entry>
         <entry>cancel_intangibles</entry>
         <entry encoding="base64">XDxjYW5jZWxfaW50YW5naWJsZXNcPg==</entry>
-        <entry encoding="base64">XDxfY3JlYXRlX3JldHVybl9pdGVtXD4=</entry>
-        <entry encoding="base64">XDxfY3JlYXRlX3JldHVybl9pdGVtc1w+</entry>
         <entry>reason</entry>
         <entry encoding="base64">XDxyZWFzb25fY29kZVw+</entry>
         <entry>finalize</entry>
@@ -496,6 +492,10 @@
         <entry>quantity</entry>
         <entry>return_quantity</entry>
         <entry encoding="base64">XDxiaWtlX29yZGVyX2l0ZW1cPg==</entry>
+        <entry encoding="base64">XDxfY3JlYXRlX3JldHVybl9pdGVtXD4=</entry>
+        <entry encoding="base64">XDxfY3JlYXRlX3JldHVybl9pdGVtc1w+</entry>
+        <entry encoding="base64">XDxfY3JlYXRlX3JtYVw+</entry>
+        <entry>shipment</entry>
       </history-search>
       <history-cmd>
         <entry>14575</entry>
