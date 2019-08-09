@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1565300200700">
@@ -98,12 +98,12 @@
       <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_zipcode_parser.py" timestamp="1555360008161">
         <mark key="'" line="382" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_order_details.py" timestamp="1565300788411">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_order_details.py" timestamp="1565367526295">
         <mark key="'" line="9" column="21" />
-        <mark key="[" line="56" column="46" />
-        <mark key="]" line="57" column="57" />
-        <mark key="^" line="57" column="57" />
-        <mark key="." line="57" column="57" />
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_order_builder.py" timestamp="1565363015808">
         <mark key="'" line="0" column="0" />
@@ -502,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is_supported=returnable_order.is_supported</text>
+        <text>self.</text>
       </register>
       <register name="-" type="4">
-        <text>is_supported=returnable_order.is_supported</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXNwb25zZVw+</text>
@@ -514,34 +514,34 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2J1aWxkc19yZXR1cm5hYmxlX29yZGVyX3dpdGhfcm1hX2FuZF9vcmRlcihzZWxmKToKICAgICAgICBvcmRlciA9IG1ha2UuYW5fb3JkZXIoKQogICAgICAgIG1ha2UuYW5fcm1hKG9yaWdpbmF0aW5nX29yZGVyPW9yZGVyKQoKICAgICAgICByZXR1cm5hYmxlX29yZGVyID0gZ2V0X3JldHVybmFibGVfb3JkZXIob3JkZXIpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmV0dXJuYWJsZV9vcmRlci5pZCwgb3JkZXIuaWQpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHJldHVybmFibGVfb3JkZXIuaGFzX3JtYSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vY2tfaXNfc3VwcG9ydGVkLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlY29tbS5hcHAuc2VydmVyLnJlc3BvbnNlIGltcG9ydCBSZXNwb25zZQo=</text>
+        <text encoding="base64">ZnJvbSBsaWIub3JtLm1vZGVsIGltcG9ydCBNb2RlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlY29tbS5hcHAuc2VydmVyLnJlc3BvbnNlIGltcG9ydCBSZXNwb25zZQo=</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlY29tbS5yZXR1cm5zLm9yZGVyX3JldHVybnMuZG9tYWluLnJldHVybmFibGVfb3JkZXIgaW1wb3J0IFJldHVybmFibGVPcmRlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBlY29tbS5yZXR1cm5zLm9yZGVyX3JldHVybnMuZG9tYWluLnJldHVybmFibGVfb3JkZXIgaW1wb3J0IFJldHVybmFibGVPcmRlcgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBjcmVhdGVfYXV0b3NwZWMsIHBhdGNoLCBQcm9wZXJ0eU1vY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBjcmVhdGVfYXV0b3NwZWMsIHBhdGNoLCBQcm9wZXJ0eU1vY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2lzX3N1cHBvcnRlZC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAobWFrZS5hbl9vcmRlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2lzX3N1cHBvcnRlZC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
