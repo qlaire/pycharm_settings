@@ -85,6 +85,12 @@
       <file name="$USER_HOME$/Development/api/data/models/warehouse.py" timestamp="1558723296896">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/rmas/commands/return_items.py" timestamp="1564675480607">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/rma/commands/create_rma_for_orderitem.py" timestamp="1565018429184" />
       <file name="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/commands/test_process_return.py" timestamp="1565298425063">
         <mark key="'" line="16" column="0" />
@@ -122,8 +128,8 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1563476907319">
-        <mark key="'" line="675" column="21" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1565624952606">
+        <mark key="'" line="591" column="16" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_dates_for_postal_code.py" timestamp="1555968253807">
         <mark key="'" line="65" column="36" />
@@ -343,6 +349,12 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_schedule_shipment.py" timestamp="1563399716924">
         <mark key="'" line="163" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returnable_subscription_item.py" timestamp="1565624573070">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" timestamp="1563399259300">
         <mark key="'" line="711" column="34" />
         <mark key="[" line="699" column="36" />
@@ -366,10 +378,16 @@
         <mark key="." line="377" column="33" />
         <mark key="^" line="377" column="33" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/zendesk/commands/test_return_order.py" timestamp="1564501926468">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
+        <mark key="^" line="34" column="47" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/peloton_digital_subscription.py" timestamp="1554153510916">
         <mark key="'" line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/order_item.py" timestamp="1565113691109">
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/order_item.py" timestamp="1565624352173">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="17" />
         <mark key="]" line="7" column="12" />
@@ -394,18 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="49" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="449" column="70" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="451" column="66" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="489" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="490" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="510" column="13" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="511" column="60" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="514" column="18" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="515" column="70" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="544" column="88" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="850" column="4" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="296" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="310" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="311" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
       <jump line="334" column="29" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
@@ -494,6 +500,18 @@
       <jump line="725" column="4" filename="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" />
       <jump line="905" column="14" filename="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" />
       <jump line="131" column="26" filename="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="42" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="43" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="301" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="302" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="359" column="38" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="360" column="43" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="382" column="61" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="581" column="65" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="585" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="586" column="40" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="591" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -503,7 +521,7 @@
         <text>self.</text>
       </register>
       <register name="/" type="4">
-        <text>subscription</text>
+        <text>credit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2J1aWxkc19yZXR1cm5hYmxlX29yZGVyX3dpdGhfcm1hX2FuZF9vcmRlcihzZWxmKToKICAgICAgICBvcmRlciA9IG1ha2UuYW5fb3JkZXIoKQogICAgICAgIG1ha2UuYW5fcm1hKG9yaWdpbmF0aW5nX29yZGVyPW9yZGVyKQoKICAgICAgICByZXR1cm5hYmxlX29yZGVyID0gZ2V0X3JldHVybmFibGVfb3JkZXIob3JkZXIpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmV0dXJuYWJsZV9vcmRlci5pZCwgb3JkZXIuaWQpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHJldHVybmFibGVfb3JkZXIuaGFzX3JtYSkK</text>
@@ -546,9 +564,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subscription</last-search>
+      <last-search>credit</last-search>
       <last-offset />
-      <last-pattern>subscription</last-pattern>
+      <last-pattern>credit</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -556,7 +574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bike_order</entry>
         <entry>cancel(</entry>
         <entry>cancel</entry>
         <entry>order_item</entry>
@@ -576,6 +593,7 @@
         <entry>def profile(</entry>
         <entry>transactions</entry>
         <entry>subscription</entry>
+        <entry>credit</entry>
       </history-search>
       <history-cmd>
         <entry>9291</entry>
