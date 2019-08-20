@@ -94,9 +94,6 @@
       <file name="/fragment.py" timestamp="1566227403544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/commands/test_process_return.py" timestamp="1566313608255">
-        <mark key="'" line="36" column="32" />
-      </file>
       <file name="/order_details.py" timestamp="1565300574974">
         <mark key="'" line="3" column="38" />
       </file>
@@ -257,22 +254,22 @@
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/test_subscription_scheduled_for_cancellation.py" timestamp="1555423394092">
         <mark key="'" line="72" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" timestamp="1566316792657">
-        <mark key="'" line="198" column="0" />
-        <mark key="[" line="123" column="76" />
-        <mark key="]" line="123" column="77" />
-        <mark key="." line="123" column="77" />
-        <mark key="^" line="124" column="71" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" timestamp="1566324803598">
+        <mark key="'" line="317" column="48" />
+        <mark key="[" line="343" column="75" />
+        <mark key="]" line="344" column="24" />
+        <mark key="." line="344" column="24" />
+        <mark key="^" line="344" column="24" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/templates/rider/subscriptions/profile.html" timestamp="1565622759067">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/zendesk/responses/return_order.py" timestamp="1566317320378">
+      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/zendesk/responses/return_order.py" timestamp="1566324322530">
         <mark key="'" line="68" column="61" />
-        <mark key="[" line="67" column="31" />
-        <mark key="]" line="68" column="62" />
-        <mark key="^" line="68" column="62" />
-        <mark key="." line="68" column="62" />
+        <mark key="[" line="76" column="30" />
+        <mark key="]" line="76" column="50" />
+        <mark key="^" line="76" column="50" />
+        <mark key="." line="76" column="50" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" timestamp="1560526092521">
         <mark key="'" line="1784" column="28" />
@@ -425,15 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2158" column="16" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="2236" column="31" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="2238" column="17" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="2241" column="16" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="426" column="31" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="430" column="17" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="432" column="17" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="440" column="45" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="441" column="17" filename="$USER_HOME$/Development/api/tests/please/make.py" />
       <jump line="739" column="8" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returnable_subscription_builder.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Development/api/mq/app/handlers/push_notifications.py" />
@@ -525,49 +513,58 @@
       <jump line="153" column="43" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
       <jump line="68" column="61" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/zendesk/responses/return_order.py" />
+      <jump line="128" column="30" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="299" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="63" column="26" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="103" column="26" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="255" column="26" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="278" column="25" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="288" column="56" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="342" column="65" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="317" column="48" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TVVBQT1JURURfSEFSRFdBUkVdICsKICAgICAgICAgICAgICAgIHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TSElQTUVOVF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>failure</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>failure</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnJvd1w+</text>
+        <text>cancelled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X1JNQV9jcmVhdGVkX2l0ZW1zX2RvZXNudF9pbmNsdWRlX3N1YnNjcmlwdGlvbihzZWxmKToKICAgICAgICBvcmRlciA9IG1ha2UuYW5fb3JkZXIoKQogICAgICAgIHJtYSA9IG1ha2UuYW5fcm1hKG9yaWdpbmF0aW5nX29yZGVyPW9yZGVyKQogICAgICAgIHN1Yl9vcmRlcl9pdGVtID0gbWFrZS5hbl9vcmRlcml0ZW0oCiAgICAgICAgICAgIG9yZGVyPW9yZGVyLAogICAgICAgICAgICBvcmRlcml0ZW1fX25hbWU9IlN1YnNjcmlwdGlvbiIsCiAgICAgICAgICAgIG9yZGVyaXRlbV9fX2lzX3N1YnNjcmlwdGlvbj1UcnVlLAogICAgICAgICAgICBvcmRlcml0ZW1fX3N1YnRvdGFsX2luX2NlbnRzPTIwMDAwCiAgICAgICAgKQogICAgICAgIG1ha2UuYV9yZXR1cm5pdGVtKAogICAgICAgICAgICBybWE9cm1hLAogICAgICAgICAgICBvcmRlcl9pdGVtPXN1Yl9vcmRlcl9pdGVtCiAgICAgICAgKQogICAgICAgIHN1YiA9IG1ha2UuYV9zdWJzY3JpcHRpb24oCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fb3JkZXJfaXRlbV9pZD1zdWJfb3JkZXJfaXRlbS5pZCwKICAgICAgICAgICAgc3Vic2NyaXB0aW9uX19zdWJzY3JpcHRpb25fdHlwZT1Nb2RlbC5TdWJzY3JpcHRpb24uQ09OU1VNRVIsCiAgICAgICAgICAgIHN1YnNjcmlwdGlvbl9fY2FuY2VsbGVkX29uPTE1NjU4MjA0NTQKICAgICAgICApCiAgICAgICAgcGF5bWVudCA9IE1vZGVsLlBheW1lbnQuc2F2ZV93aXRoKAogICAgICAgICAgICBwcmljZV9pbl9jZW50cz0zOTAwLAogICAgICAgICAgICByZWZ1bmRlZF9pbl9jZW50cz0zOTAwCiAgICAgICAgKQogICAgICAgIE1vZGVsLlBhcmVudFBheW1lbnQuc2F2ZV93aXRoKAogICAgICAgICAgICBwYXJlbnRfaWQ9c3ViLmlkLAogICAgICAgICAgICBwYXJlbnRfdHlwZV9pZD1zdWIucGFyZW50X3BheW1lbnRfdHlwZSwKICAgICAgICAgICAgcGF5bWVudF9pZD1wYXltZW50LmlkCiAgICAgICAgKQogICAgICAgIHJldHVybmFibGVfb3JkZXIgPSAoCiAgICAgICAgICAgIFJldHVybmFibGVPcmRlckJ1aWxkZXIoKQogICAgICAgICAgICAud2l0aF9vcmRlcl9yZWNvcmQob3JkZXIpCiAgICAgICAgICAgIC53aXRoX3JtYV9yZWNvcmQocm1hKQogICAgICAgICAgICAud2l0aF9zdWJzY3JpcHRpb25fcmVjb3JkKHN1YikKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICApCgogICAgICAgIHJlc3BvbnNlID0gUmV0dXJuT3JkZXJSZXNwb25zZShyZXR1cm5hYmxlX29yZGVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2UuZGF0YVsicmVzdWx0cyJdWzBdWyJoZWFkaW5nIl0sICJSTUEgQ3JlYXRlZCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5kYXRhWyJyZXN1bHRzIl1bMF1bInN0YXR1cyJdLCAic3VjY2VzcyIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5kYXRhWyJyZXN1bHRzIl1bMF1bIml0ZW1zIl0sIFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLmRhdGFbInJlc3VsdHMiXVsyXVsic3RhdHVzIl0sICJmYWlsdXJlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TVVBQT1JURURfSEFSRFdBUkVdICsKICAgICAgICAgICAgICAgIHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TSElQTUVOVF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gTW9kZWwuUGF5bWVudC5zYXZlX3dpdGgoCiAgICAgICAgICAgIHByaWNlX2luX2NlbnRzPTEwMDAKICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TVVBQT1JURURfQUNDRVNTT1JZXSArCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TVVBQT1JURURfSEFSRFdBUkVdICsKICAgICAgICAgICAgICAgIHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TSElQTUVOVF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaXRlbXNbT1JERVJfSVRFTV9UWVBFUy5TVVBQT1JURURfQUNDRVNTT1JZXSArCg==</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfdW5yZXR1cm5hYmxlX2l0ZW1zX2ZpbHRlcihvcmRlcl9pdGVtKToKICAgICAgICByZXR1cm4gCgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfdW5yZXR1cm5hYmxlX2l0ZW1zX2ZpbHRlcihvcmRlcl9pdGVtKToKICAgICAgICByZXR1cm4gCgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkKCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -577,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcnJvd1w+</last-search>
+      <last-search>cancelled</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnJvd1w+</last-pattern>
+      <last-pattern>cancelled</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -587,7 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxpdGVtX3JlZnVuZF9hbW91bnRzXD4=</entry>
         <entry>refunded_in_cents</entry>
         <entry>refund_unit_price</entry>
@@ -603,10 +599,11 @@
         <entry encoding="base64">XDxiaWtlX2l0ZW1cPg==</entry>
         <entry encoding="base64">XDxwcm9kdWN0X25hbWVcPg==</entry>
         <entry>Items not returned</entry>
-        <entry>subscription</entry>
         <entry encoding="base64">XDxfZ2V0X3JldHVybmVkX2l0ZW1zXD4=</entry>
         <entry>updated</entry>
         <entry encoding="base64">XDxhcnJvd1w+</entry>
+        <entry>subscription</entry>
+        <entry>cancelled</entry>
       </history-search>
       <history-cmd>
         <entry>3156</entry>
