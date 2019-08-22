@@ -22,12 +22,6 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/__init__.py" timestamp="1555360759582">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returnable_order.py" timestamp="1566413671581">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/partners/shipping/ux_ship.py" timestamp="1560795347566">
         <mark key="'" line="552" column="36" />
       </file>
@@ -84,6 +78,9 @@
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/zendesk/commands/return_order.py" timestamp="1564516419404">
         <mark key="'" line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" timestamp="1566505957672">
+        <mark key="'" line="70" column="4" />
       </file>
       <file name="/Python Console" timestamp="1566316706381">
         <mark key="[" line="0" column="0" />
@@ -161,8 +158,10 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/orders/order_service.py" timestamp="1565286510580">
         <mark key="'" line="70" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1565623257134">
+      <file name="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" timestamp="1566506114759">
         <mark key="'" line="13" column="6" />
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="34" column="82" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/handlers/email/prepare_for_delivery/test_prepare_for_delivery_emails.py" timestamp="1563399557541">
         <mark key="'" line="250" column="47" />
@@ -247,11 +246,11 @@
       <file name="$USER_HOME$/Development/api/errors/ecomm.py" timestamp="1554390553010">
         <mark key="'" line="574" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/commands/process_return.py" timestamp="1566421238872">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="64" column="40" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/commands/process_return.py" timestamp="1566506202590">
+        <mark key="[" line="97" column="34" />
+        <mark key="]" line="97" column="58" />
+        <mark key="^" line="97" column="33" />
+        <mark key="." line="97" column="34" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/rma/commands/test_process_rma_for_order_with_items.py" timestamp="1566244479204">
         <mark key="[" line="41" column="0" />
@@ -399,6 +398,11 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/app.py" timestamp="1554391712404">
         <mark key="'" line="734" column="31" />
       </file>
+      <file name="$USER_HOME$/Development/api/data/models/return_item.py" timestamp="1565987927488">
+        <mark key="'" line="129" column="35" />
+        <mark key="[" line="129" column="35" />
+        <mark key="]" line="129" column="53" />
+      </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/riders.py" timestamp="1565623122858">
         <mark key="'" line="905" column="14" />
       </file>
@@ -438,9 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="38" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_order_builder.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/rma.py" />
-      <jump line="102" column="42" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returnable_order_builder.py" />
       <jump line="37" column="35" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
       <jump line="24" column="48" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
       <jump line="76" column="30" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
@@ -538,19 +539,22 @@
       <jump line="54" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/domain/test_returnable_order.py" />
       <jump line="137" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/commands/test_process_return.py" />
       <jump line="87" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/commands/test_process_return.py" />
+      <jump line="13" column="6" filename="$USER_HOME$/Development/api/ecomm/subscriptions/data/subscription_repository.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/Development/api/ecomm/subscriptions/domain/device_subscription.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEVICE_SUBSCRIPTION.TYPE</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>DEVICE_SUBSCRIPTION.TYPE</text>
       </register>
       <register name="/" type="4">
-        <text>is_supported</text>
+        <text encoding="base64">XDxUWVBFXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gTW9kZWwuUGF5bWVudC5zYXZlX3dpdGgoCiAgICAgICAgICAgIHByaWNlX2luX2NlbnRzPTEwMDAsCiAgICAgICAgICAgIHJlZnVuZGVkX2luX2NlbnRzPTEwMDAKICAgICAgICApCiAgICAgICAgTW9kZWwuUGFyZW50UGF5bWVudC5zYXZlX3dpdGgoCiAgICAgICAgICAgIHBhcmVudF9pZD1zZWxmLnN1YnNjcmlwdGlvbi5pZCwKICAgICAgICAgICAgcGFyZW50X3R5cGVfaWQ9c2VsZi5zdWJzY3JpcHRpb24ucGFyZW50X3BheW1lbnRfdHlwZSwKICAgICAgICAgICAgcGF5bWVudF9pZD1wYXltZW50LmlkCiAgICAgICAgKQo=</text>
+      <register name="0" type="4">
+        <text>SUBSCRIPTION_TYPE.DEVICE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -590,9 +594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_supported</last-search>
+      <last-search encoding="base64">XDxUWVBFXD4=</last-search>
       <last-offset />
-      <last-pattern>is_supported</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -600,8 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X3JldHVybmVkX2l0ZW1zXD4=</entry>
-        <entry>updated</entry>
         <entry encoding="base64">XDxhcnJvd1w+</entry>
         <entry>cancelled</entry>
         <entry encoding="base64">XDxTVUJfUkVGVU5EX0VSUk9SX01FU1NBR0VcPg==</entry>
@@ -620,6 +622,8 @@
         <entry>charge</entry>
         <entry>subscription</entry>
         <entry>is_supported</entry>
+        <entry>subscription_type</entry>
+        <entry encoding="base64">XDxUWVBFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>3156</entry>
