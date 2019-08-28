@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1565627404719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_item_builder.py" timestamp="1564682922281">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/api/tests/cms/app/server/controllers/test_warehouse.py" timestamp="1564421790435">
         <mark key="'" line="624" column="12" />
         <mark key="[" line="681" column="9" />
@@ -29,6 +35,10 @@
         <mark key="^" line="748" column="7" />
         <mark key="." line="748" column="7" />
       </file>
+      <file name="/returnable_order_builder.py" timestamp="1565984884190">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="59" column="71" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/peloton_postgres.py" timestamp="1564161269480">
         <mark key="'" line="230" column="32" />
       </file>
@@ -50,6 +60,12 @@
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/fulfillment_configurations/device_subscription.py" timestamp="1565622881174">
         <mark key="'" line="60" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/domain/test_order_item.py" timestamp="1564691826387">
+        <mark key="[" line="17" column="89" />
+        <mark key="]" line="17" column="90" />
+        <mark key="." line="17" column="90" />
+        <mark key="^" line="17" column="92" />
+      </file>
       <file name="$USER_HOME$/Development/api/cms/components/ecomm/warehouse/warehouse_index.py" timestamp="1564413461379">
         <mark key="'" line="48" column="46" />
         <mark key="[" line="48" column="57" />
@@ -62,6 +78,16 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/cms/app/server/controllers/rma.py" timestamp="1565276849417">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api/mq/app/handlers/email/prepare_for_delivery/prepare_for_delivery_emails.py" timestamp="1566920161303">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="54" column="13" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/app/rma/domain/rma.py" timestamp="1566920399850">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="52" column="45" />
+        <mark key="^" line="52" column="45" />
+        <mark key="." line="52" column="45" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/mq/app/workers/test_workouts.py" timestamp="1566928856107">
         <mark key="'" line="3" column="30" />
@@ -86,6 +112,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/rmas/commands/return_items.py" timestamp="1564675480607">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returned_order.py" timestamp="1567009404011">
         <mark key="'" line="25" column="8" />
@@ -131,6 +163,12 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/domain/returnable_item.py" timestamp="1564678019559">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1566572301667">
         <mark key="'" line="1391" column="8" />
         <mark key="[" line="912" column="0" />
@@ -140,9 +178,6 @@
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_dates_for_postal_code.py" timestamp="1555968253807">
         <mark key="'" line="65" column="36" />
-      </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/rma/commands/process_rma_for_order_with_items.py" timestamp="1566583374873">
-        <mark key="'" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/queries/query_handler.py" timestamp="1544114583308">
         <mark key="'" line="10" column="0" />
@@ -193,12 +228,11 @@
       <file name="$USER_HOME$/Development/api/lib/unittest.py" timestamp="1555530592536">
         <mark key="'" line="395" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returned_order_builder.py" timestamp="1567020905490">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="184" column="57" />
-        <mark key="]" line="184" column="38" />
-        <mark key="^" line="184" column="38" />
-        <mark key="." line="184" column="38" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returned_order_builder.py" timestamp="1567021915575">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="61" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
@@ -208,12 +242,12 @@
         <mark key="[" line="1258" column="0" />
         <mark key="]" line="1265" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" timestamp="1567020827440">
-        <mark key="'" line="421" column="36" />
-        <mark key="[" line="63" column="78" />
-        <mark key="]" line="64" column="9" />
-        <mark key="^" line="64" column="9" />
-        <mark key="." line="64" column="9" />
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" timestamp="1567022576882">
+        <mark key="'" line="385" column="36" />
+        <mark key="[" line="350" column="37" />
+        <mark key="]" line="350" column="67" />
+        <mark key="." line="350" column="37" />
+        <mark key="^" line="350" column="36" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/docs/ecomm_api.yaml" timestamp="1553868137905">
         <mark key="'" line="0" column="0" />
@@ -251,8 +285,18 @@
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/us.py" timestamp="1556042514093">
         <mark key="'" line="208" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api/ecomm/zendesk/commands/reset_member_password.py" timestamp="1565892190828">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="5" />
+      </file>
       <file name="$USER_HOME$/Development/api/mq/app/workers/ecomm/ecommerce.py" timestamp="1554153232310">
         <mark key="'" line="355" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_subscription_item_builder.py" timestamp="1565627623712">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+        <mark key="." line="24" column="57" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/shipping/quotes/uk.py" timestamp="1555957461996">
         <mark key="'" line="41" column="53" />
@@ -298,21 +342,13 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/app/rma/domain/test_rma.py" timestamp="1566920449708">
         <mark key="'" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" timestamp="1567020786673">
-        <mark key="'" line="552" column="12" />
-        <mark key="[" line="618" column="78" />
-        <mark key="]" line="619" column="9" />
-        <mark key="." line="619" column="9" />
-        <mark key="^" line="619" column="9" />
-      </file>
       <file name="$USER_HOME$/Development/api/cms/templates/rider/subscriptions/profile.html" timestamp="1565622759067">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/zendesk/responses/return_order.py" timestamp="1567007391734">
-        <mark key="[" line="170" column="24" />
-        <mark key="]" line="170" column="78" />
-        <mark key="." line="170" column="24" />
-        <mark key="^" line="164" column="77" />
+      <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/zendesk/responses/return_order.py" timestamp="1567022571344">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="58" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-1820590504/-497732817/data/models/user.py" timestamp="1560526092521">
         <mark key="'" line="1784" column="28" />
@@ -330,6 +366,10 @@
       </file>
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/repositories/lob_mapper.py" timestamp="1548190641751">
         <mark key="'" line="68" column="8" />
+      </file>
+      <file name="/test_return_order.py" timestamp="1567022244667">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="87" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/rma/rma_service.py" timestamp="1566941424944">
         <mark key="'" line="583" column="4" />
@@ -354,6 +394,12 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-1227933812/webtest/utils.py" timestamp="1554391637412">
         <mark key="'" line="36" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/commands/get_returnable_order.py" timestamp="1565361301482">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="79" />
       </file>
       <file name="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/domain/test_returned_order.py" timestamp="1566853565676">
         <mark key="'" line="39" column="12" />
@@ -383,11 +429,11 @@
         <mark key="^" line="193" column="57" />
       </file>
       <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1567005837279">
-        <mark key="'" line="742" column="36" />
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="435" column="69" />
-        <mark key="^" line="436" column="89" />
-        <mark key="." line="436" column="89" />
+        <mark key="'" line="743" column="36" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="436" column="69" />
+        <mark key="^" line="437" column="89" />
+        <mark key="." line="437" column="89" />
       </file>
       <file name="$USER_HOME$/Development/api/ecomm/app/server/controllers/order/logistics.py" timestamp="1563311234353">
         <mark key="'" line="42" column="43" />
@@ -461,6 +507,12 @@
         <mark key="." line="149" column="64" />
         <mark key="^" line="149" column="64" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/ecomm/zendesk/commands/test_return_order.py" timestamp="1564501926468">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
+        <mark key="^" line="34" column="47" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/subscriptions/domain/peloton_digital_subscription.py" timestamp="1554153510916">
         <mark key="'" line="121" column="12" />
       </file>
@@ -489,11 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1561" column="8" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="769" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="791" column="33" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/Development/api/data/models/product.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/Development/api/data/models/product.py" />
       <jump line="115" column="4" filename="$USER_HOME$/Development/api/data/models/product_option.py" />
       <jump line="285" column="8" filename="$USER_HOME$/Development/api/data/models/product_option.py" />
       <jump line="738" column="11" filename="$USER_HOME$/Development/api/tests/please/make.py" />
@@ -535,7 +582,6 @@
       <jump line="1258" column="15" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="11" column="52" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returned_order_builder.py" />
       <jump line="25" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="736" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
       <jump line="632" column="57" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
       <jump line="636" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
       <jump line="695" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
@@ -589,49 +635,55 @@
       <jump line="456" column="40" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
       <jump line="457" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
       <jump line="458" column="36" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
+      <jump line="635" column="57" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="685" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="690" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="731" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="736" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/Development/api/ecomm/app/server/controllers/zendesk/responses/return_order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLm1vZGVscy5zaGFyZWQucHJvZHVjdF9saW5lcyBpbXBvcnQgQklLRV9SRVRVUk4K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;No self scheduling available&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Peloton - FSL&quot;</text>
+        <text>&quot;https://www.deliveryscheduler.com&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text encoding="base64">XDxtb2NrX25lZWRzX3NoaXBwaW5nX2xhYmVsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLmFfcGF5bWVudCgKICAgICAgICAgICAgb3JkZXI9b3JkZXIsCiAgICAgICAgICAgIHBheW1lbnRfX3ByaWNlX2luX2NlbnRzPTI1MDAwLAogICAgICAgICAgICBwYXltZW50X19wYWlkX2luX2NlbnRzPTI1MDAwLAogICAgICAgICAgICBwYXltZW50X19iaWxsaW5nX3BhcnRuZXI9InN0cmlwZSIsCiAgICAgICAgICAgIHBheW1lbnRfX2JpbGxpbmdfcGFydG5lcl9pZD0iY2hfMTExMTExIiwKICAgICAgICAgICAgcGF5bWVudF9fc3RhdHVzPSJjb21wbGV0ZWQiKQo=</text>
+      <register name="0" type="4">
+        <text>&quot;No self scheduling available&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLm1vZGVscy5zaGFyZWQucHJvZHVjdF9saW5lcyBpbXBvcnQgQklLRV9SRVRVUk4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpc19saW5rIjogVHJ1ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVjb21tLmFwcC5hcHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgImlzX2xpbmsiOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiU2hpcHBvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJodHRwczovL3d3dy50ZXN0LmNvbSIKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLm1vZGVscy5zaGFyZWQucHJvZHVjdF9saW5lcyBpbXBvcnQgQklLRV9SRVRVUk4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiaGVhZGluZyI6ICJTaGlwbWVudHMiLAogICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgImlzX2xpbmsiOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiU2hpcHBvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJodHRwczovL3d3dy50ZXN0LmNvbSIKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiBOb25lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIk5vIHNlbGYgc2NoZWR1bGluZyBhdmFpbGFibGUiCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICJzdGF0dXMiOiAic3VjY2VzcyIKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpc19saW5rIjogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2NyZWF0ZV9yZXR1cm5fbGFiZWwucmV0dXJuX3ZhbHVlLmxhYmVsX3VybCA9ICJodHRwczovL3d3dy50ZXN0LmNvbSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLmFfcHJvZHVjdF9mb3Jfb3JkZXIoCiAgICAgICAgICAgIG9yZGVyPW9yZGVyLAogICAgICAgICAgICBwcm9kdWN0X3NsdWc9ImJpa2UiLAogICAgICAgICAgICBwcm9kdWN0X19uYW1lPSJCaWtlIiwKICAgICAgICAgICAgb3JkZXJpdGVtX19zdWJ0b3RhbF9pbl9jZW50cz0yMDAwMCwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZWNvbW0uYXBwLnJtYS5jb21tYW5kcy5jcmVhdGVfcmV0dXJuX3NoaXBwaW5nX2xhYmVsLmNyZWF0ZV9zaGlwcGluZ19sYWJlbCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLmFfcHJvZHVjdF9mb3Jfb3JkZXIoCiAgICAgICAgICAgIG9yZGVyPW9yZGVyLAogICAgICAgICAgICBwcm9kdWN0X3NsdWc9ImJpa2UiLAogICAgICAgICAgICBwcm9kdWN0X19uYW1lPSJCaWtlIiwKICAgICAgICAgICAgb3JkZXJpdGVtX19zdWJ0b3RhbF9pbl9jZW50cz0yMDAwMCwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZWNvbW0uYXBwLnJtYS5jb21tYW5kcy5jcmVhdGVfcmV0dXJuX3NoaXBwaW5nX2xhYmVsLmNyZWF0ZV9zaGlwcGluZ19sYWJlbCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLmFfcGF5bWVudCgKICAgICAgICAgICAgb3JkZXI9b3JkZXIsCiAgICAgICAgICAgIHBheW1lbnRfX3ByaWNlX2luX2NlbnRzPTIwMDAwLAogICAgICAgICAgICBwYXltZW50X19wYWlkX2luX2NlbnRzPTIwMDAwLAogICAgICAgICAgICBwYXltZW50X19iaWxsaW5nX3BhcnRuZXI9InN0cmlwZSIsCiAgICAgICAgICAgIHBheW1lbnRfX2JpbGxpbmdfcGFydG5lcl9pZD0iY2hfMTExMTExIiwKICAgICAgICAgICAgcGF5bWVudF9fc3RhdHVzPSJjb21wbGV0ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJldHVybmVkX29yZGVyLmV4dGVuZGVkX3dhcnJhbnR5LmlkLCBleHRlbmRlZF93YXJyYW50eS5pZCkKICAgICAgICBzZWxmLmFzc2VydElzSW5zdGFuY2UocmV0dXJuZWRfb3JkZXIuZXh0ZW5kZWRfd2FycmFudHksIFJldHVybmFibGVXYXJyYW50eSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlciA9IG1ha2UuYW5fb3JkZXIob3JkZXJfX3NoaXBwaW5nX2NvdW50cnk9IlVTIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19uZWVkc19zaGlwcGluZ19sYWJlbCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiUGVsb3RvbiAtIEZTTCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiTm8gc2VsZiBzY2hlZHVsaW5nIGF2YWlsYWJsZSIKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgKICAgICAgICAiZWNvbW0ucmV0dXJucy5vcmRlcl9yZXR1cm5zLmRhdGEucmV0dXJuZWRfb3JkZXJfYnVpbGRlci5SZXR1cm5lZE9yZGVyIgogICAgICAgICsgIi5uZWVkc19zaGlwcGluZ19sYWJlbCIsCiAgICAgICAgbmV3X2NhbGxhYmxlPVByb3BlcnR5TW9jawogICAgKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -641,9 +693,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search encoding="base64">XDxtb2NrX25lZWRzX3NoaXBwaW5nX2xhYmVsXD4=</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern encoding="base64">XDxtb2NrX25lZWRzX3NoaXBwaW5nX2xhYmVsXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -651,7 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>product</entry>
         <entry>a_product</entry>
         <entry>product_line</entry>
         <entry>is_bike_return</entry>
@@ -671,6 +722,7 @@
         <entry>Mock</entry>
         <entry>import pdb</entry>
         <entry>pdb</entry>
+        <entry encoding="base64">XDxtb2NrX25lZWRzX3NoaXBwaW5nX2xhYmVsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>599</entry>
