@@ -235,8 +235,8 @@
       <file name="$USER_HOME$/Development/blackboard/blackboard-slate-api-py/bb_slate_api/appservices/transaction_context_manager.py" timestamp="1547666883375">
         <mark key="'" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1566941734987">
-        <mark key="'" line="829" column="52" />
+      <file name="$USER_HOME$/Development/api/data/models/order.py" timestamp="1567003434030">
+        <mark key="'" line="1281" column="48" />
         <mark key="[" line="1524" column="15" />
         <mark key="]" line="1524" column="67" />
       </file>
@@ -416,8 +416,8 @@
         <mark key="." line="193" column="57" />
         <mark key="^" line="193" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1566941945922">
-        <mark key="'" line="995" column="8" />
+      <file name="$USER_HOME$/Development/api/data/models/shipment.py" timestamp="1567003454364">
+        <mark key="'" line="297" column="8" />
         <mark key="[" line="434" column="0" />
         <mark key="]" line="435" column="69" />
         <mark key="^" line="436" column="89" />
@@ -526,24 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="890" column="11" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="893" column="69" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="896" column="12" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="992" column="27" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="1315" column="17" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="1317" column="17" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="1327" column="55" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="1328" column="67" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="1330" column="24" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="1332" column="24" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="144" column="47" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="147" column="29" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="154" column="37" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="155" column="48" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="161" column="25" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="162" column="29" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="163" column="19" filename="$USER_HOME$/Development/api/tests/please/make.py" />
-      <jump line="167" column="33" filename="$USER_HOME$/Development/api/tests/please/make.py" />
       <jump line="172" column="35" filename="$USER_HOME$/Development/api/tests/please/make.py" />
       <jump line="659" column="20" filename="$USER_HOME$/Development/api/tests/please/make.py" />
       <jump line="1310" column="33" filename="$USER_HOME$/Development/api/tests/please/make.py" />
@@ -589,7 +571,6 @@
       <jump line="145" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returned_order_builder.py" />
       <jump line="1496" column="25" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1518" column="22" filename="$USER_HOME$/Development/api/data/models/order.py" />
-      <jump line="521" column="34" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="525" column="39" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="30" column="4" filename="$USER_HOME$/Development/api/data/models/rma.py" />
       <jump line="43" column="4" filename="$USER_HOME$/Development/api/data/models/rma.py" />
@@ -626,6 +607,25 @@
       <jump line="79" column="68" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returned_order_builder.py" />
       <jump line="107" column="50" filename="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returned_order_builder.py" />
       <jump line="995" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="1154" column="29" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1561" column="8" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="520" column="8" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="521" column="55" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1148" column="19" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1149" column="19" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1150" column="23" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1161" column="36" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1163" column="36" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1165" column="32" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1167" column="32" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1182" column="19" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1184" column="19" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1186" column="23" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1280" column="14" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1281" column="48" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="1050" column="21" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
+      <jump line="297" column="8" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -635,7 +635,7 @@
         <text>partner_flag</text>
       </register>
       <register name="/" type="4">
-        <text>partner_flag</text>
+        <text>contains_bike</text>
       </register>
       <register name="0" type="4">
         <text>any(s.can_submit_survey() for s in self.shipment_set)</text>
@@ -678,9 +678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partner_flag</last-search>
+      <last-search>contains_bike</last-search>
       <last-offset />
-      <last-pattern>partner_flag</last-pattern>
+      <last-pattern>contains_bike</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -688,8 +688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can_be_delivered</entry>
-        <entry>postal_code</entry>
         <entry>can_schedule</entry>
         <entry encoding="base64">XDxyZXBsYWNlbWVudF9vcmRlcl9pZFw+</entry>
         <entry encoding="base64">XDxtb2NrX2FwcFw+</entry>
@@ -708,6 +706,8 @@
         <entry>shipment_set</entry>
         <entry encoding="base64">XDxyZXBsYWNlbWVudF9vcmRlcl9wYXJ0bmVyX2ZsYWdcPg==</entry>
         <entry>partner_flag</entry>
+        <entry>bike_shipment</entry>
+        <entry>contains_bike</entry>
       </history-search>
       <history-cmd>
         <entry>649</entry>
