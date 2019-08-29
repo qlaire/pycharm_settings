@@ -6,6 +6,13 @@
       <file name="/a.dummy" timestamp="1565627404719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" timestamp="1567092048577">
+        <mark key="'" line="5" column="5" />
+        <mark key="[" line="246" column="50" />
+        <mark key="]" line="246" column="50" />
+        <mark key="^" line="308" column="38" />
+        <mark key="." line="246" column="50" />
+      </file>
       <file name="$USER_HOME$/Development/api/ecomm/returns/order_returns/data/returnable_item_builder.py" timestamp="1564682922281">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="28" />
@@ -54,8 +61,12 @@
       <file name="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/data/test_postal_code_warehouse_builder.py" timestamp="1555537271437">
         <mark key="'" line="53" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" timestamp="1567090474667">
-        <mark key="'" line="199" column="48" />
+      <file name="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" timestamp="1567091474802">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="323" column="64" />
       </file>
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/fulfillment_configurations/device_subscription.py" timestamp="1565622881174">
         <mark key="'" line="60" column="8" />
@@ -440,7 +451,9 @@
       <file name="$USER_HOME$/Development/api/cms/app/server/controllers/order.py" timestamp="1564421186353">
         <mark key="'" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1567090453574" />
+      <file name="$USER_HOME$/Development/api/data/services/enablement.py" timestamp="1567091015288">
+        <mark key="'" line="187" column="4" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/642138530/-497732817/data/models/warehouse.py" timestamp="1556218333037">
         <mark key="'" line="19" column="37" />
       </file>
@@ -538,39 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="52" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returned_order_builder.py" />
-      <jump line="25" column="29" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="632" column="57" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="636" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="695" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="700" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="675" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="757" column="30" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
-      <jump line="185" column="32" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/returns/order_returns/data/test_returned_order_builder.py" />
-      <jump line="107" column="47" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="140" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="151" column="77" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="156" column="32" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="193" column="39" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="222" column="22" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="252" column="45" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="265" column="32" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="287" column="43" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="292" column="65" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="329" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="345" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="374" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="391" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="21" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="203" column="34" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="213" column="26" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="256" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="304" column="31" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
-      <jump line="286" column="8" filename="$USER_HOME$/Development/api/data/models/product_option.py" />
-      <jump line="349" column="15" filename="$USER_HOME$/Development/api/data/models/product.py" />
-      <jump line="53" column="13" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" />
       <jump line="1447" column="19" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1503" column="24" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="552" column="12" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/responses/test_return_order.py" />
@@ -637,50 +617,83 @@
       <jump line="1496" column="17" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1498" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
       <jump line="1499" column="12" filename="$USER_HOME$/Development/api/data/models/order.py" />
+      <jump line="226" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="333" column="17" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="40" column="12" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="43" column="48" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="60" column="16" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="124" column="16" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
       <jump line="199" column="48" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="39" column="12" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="47" column="38" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="49" column="39" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="52" column="21" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="53" column="24" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="58" column="11" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="61" column="53" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="64" column="61" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="187" column="4" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
+      <jump line="59" column="19" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="121" column="8" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Development/api/cms/app/utils/warehouse_postal_code_parser.py" />
+      <jump line="321" column="52" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="106" column="77" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="108" column="80" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="123" column="80" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="143" column="77" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="145" column="80" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="163" column="77" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="165" column="80" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
+      <jump line="5" column="5" filename="$USER_HOME$/Development/api/tests/cms/app/utils/test_warehouse_postal_code_parser.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>delivery_date</text>
+        <text>_with_time_zone</text>
       </register>
       <register name="-" type="4">
-        <text>delivery_date</text>
+        <text>_with_time_zone</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19wb3N0YWxfY29kZV90aW1lX3pvbmVfZW5hYmxlZFw+</text>
+        <text encoding="base64">XDxtb2NrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;No self scheduling available&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydElzTm9uZShwLnBvc3RhbF9jb2RlLnNlcnZpY2Vfd2FyZWhvdXNlX2lkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpc19saW5rIjogVHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgImlzX2xpbmsiOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiU2hpcHBvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJodHRwczovL3d3dy50ZXN0LmNvbSIKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dhdGhlcl9leGlzdGluZ19tYXBwaW5nc19ub3RfZXhpc3Rpbmcoc2VsZik6CiAgICAgICAgZGVmYXVsdF9kYXRhID0gewogICAgICAgICAgICAic2VydmljZV93YXJlaG91c2VfY29kZSI6ICJ4cG9fd2FyZWhvdXNlMiIsCiAgICAgICAgICAgICJ3YXJlaG91c2VfY29kZSI6ICJ4cG9fd2FyZWhvdXNlMSIsCiAgICAgICAgICAgICJwb3N0YWxfY29kZSI6ICJBQkMiLAogICAgICAgICAgICAiY291bnRyeSI6IENPVU5UUklFUy5VUwogICAgICAgIH0KCiAgICAgICAgcCA9IFBvc3RhbENvZGVNYXBwaW5nKGRlZmF1bHRfZGF0YSkKICAgICAgICBzZWxmLmFzc2VydFRydWUocC5wb3N0YWxfY29kZS5pc19uZXcpCiAgICAgICAgc2VsZi5hc3NlcnRJc05vbmUocC5wb3N0YWxfY29kZS53YXJlaG91c2VfaWQpCiAgICAgICAgc2VsZi5hc3NlcnRJc05vbmUocC5wb3N0YWxfY29kZS5zZXJ2aWNlX3dhcmVob3VzZV9pZCkKICAgICAgICBzZWxmLmFzc2VydFRydWUocC5zaGlwbWVudF9xdW90ZV9wcmljZXMuaXNfbmV3KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiaGVhZGluZyI6ICJTaGlwbWVudHMiLAogICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgImlzX2xpbmsiOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiU2hpcHBvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJodHRwczovL3d3dy50ZXN0LmNvbSIKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiBOb25lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIk5vIHNlbGYgc2NoZWR1bGluZyBhdmFpbGFibGUiCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICJzdGF0dXMiOiAic3VjY2VzcyIKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(SCHEDULED_DELIVERY_DATE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NyZWF0ZV9yZXR1cm5fbGFiZWwucmV0dXJuX3ZhbHVlLmxhYmVsX3VybCA9ICJodHRwczovL3d3dy50ZXN0LmNvbSIK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dhdGhlcl9leGlzdGluZ19tYXBwaW5nc19uZXdfc2hpcG1lbnRfcXVvdGUoc2VsZik6CiAgICAgICAgd2FyZWhvdXNlMSA9IE1vZGVsLldhcmVob3VzZS5zYXZlX3dpdGgoCiAgICAgICAgICAgIGNvZGU9J3RoZV9kb2NrcycsCiAgICAgICAgICAgIHBhcnRuZXJfZmxhZz1QRUxPVE9OCiAgICAgICAgKQogICAgICAgIHBvc3RhbF9jb2RlID0gTW9kZWwuUG9zdGFsQ29kZS5zYXZlX3dpdGgoCiAgICAgICAgICAgIGNvZGU9IkFCQyIsCiAgICAgICAgICAgIGNvdW50cnk9Q09VTlRSSUVTLlVTCiAgICAgICAgKQogICAgICAgIGRlZmF1bHRfZGF0YSA9IHsKICAgICAgICAgICAgInNlcnZpY2Vfd2FyZWhvdXNlX2NvZGUiOiAic2VydmljZV90ZWNocyIsCiAgICAgICAgICAgICJ3YXJlaG91c2VfY29kZSI6ICJ0aGVfZG9ja3MiLAogICAgICAgICAgICAicG9zdGFsX2NvZGUiOiAiQUJDIiwKICAgICAgICAgICAgImNvdW50cnkiOiBDT1VOVFJJRVMuVVMKICAgICAgICB9CgogICAgICAgIHAgPSBQb3N0YWxDb2RlTWFwcGluZyhkZWZhdWx0X2RhdGEpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwLnBvc3RhbF9jb2RlLmlkLCBwb3N0YWxfY29kZS5pZCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHAucG9zdGFsX2NvZGUuY291bnRyeSwgcG9zdGFsX2NvZGUuY291bnRyeSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHAucG9zdGFsX2NvZGUud2FyZWhvdXNlX2lkLCB3YXJlaG91c2UxLmlkKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShwLnNoaXBtZW50X3F1b3RlX3ByaWNlcy5pc19uZXcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZWNvbW0uYXBwLnJtYS5jb21tYW5kcy5jcmVhdGVfcmV0dXJuX3NoaXBwaW5nX2xhYmVsLmNyZWF0ZV9zaGlwcGluZ19sYWJlbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICB3YXJlaG91c2UyID0gTW9kZWwuV2FyZWhvdXNlLnNhdmVfd2l0aCgKICAgICAgICAgICAgY29kZT0nc2VydmljZV90ZWNocycsCiAgICAgICAgICAgIHBhcnRuZXJfZmxhZz1QRUxPVE9OCiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZWNvbW0uYXBwLnJtYS5jb21tYW5kcy5jcmVhdGVfcmV0dXJuX3NoaXBwaW5nX2xhYmVsLmNyZWF0ZV9zaGlwcGluZ19sYWJlbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHAucG9zdGFsX2NvZGUuc2VydmljZV93YXJlaG91c2VfaWQsIHdhcmVob3VzZTIuaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJldHVybmVkX29yZGVyLmV4dGVuZGVkX3dhcnJhbnR5LmlkLCBleHRlbmRlZF93YXJyYW50eS5pZCkKICAgICAgICBzZWxmLmFzc2VydElzSW5zdGFuY2UocmV0dXJuZWRfb3JkZXIuZXh0ZW5kZWRfd2FycmFudHksIFJldHVybmFibGVXYXJyYW50eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19uZWVkc19zaGlwcGluZ19sYWJlbCk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dhdGhlcl9leGlzdGluZ19tYXBwaW5nc19hbGxfZXhpc3Rpbmcoc2VsZik6CiAgICAgICAgd2FyZWhvdXNlMSA9IE1vZGVsLldhcmVob3VzZS5zYXZlX3dpdGgoCiAgICAgICAgICAgIGNvZGU9J3RoZV9kb2NrcycsCiAgICAgICAgICAgIHBhcnRuZXJfZmxhZz1QRUxPVE9OCiAgICAgICAgKQogICAgICAgIHdhcmVob3VzZTIgPSBNb2RlbC5XYXJlaG91c2Uuc2F2ZV93aXRoKAogICAgICAgICAgICBjb2RlPSdzZXJ2aWNlX3RlY2hzJywKICAgICAgICAgICAgcGFydG5lcl9mbGFnPVBFTE9UT04KICAgICAgICApCiAgICAgICAgc2hpcG1lbnRfcXVvdGVfcHJpY2VzID0gTW9kZWwuU2hpcG1lbnRRdW90ZVByaWNlcy5zYXZlX3dpdGgoCiAgICAgICAgICAgIGN1cnJlbmN5PSJVU0QiCiAgICAgICAgKQogICAgICAgIHBvc3RhbF9jb2RlID0gTW9kZWwuUG9zdGFsQ29kZS5zYXZlX3dpdGgoCiAgICAgICAgICAgIGNvZGU9IkFCQyIsCiAgICAgICAgICAgIGNvdW50cnk9Q09VTlRSSUVTLlVTCiAgICAgICAgKQogICAgICAgIHBvc3RhbF9jb2RlLnNoaXBtZW50X3F1b3RlX3ByaWNlc19pZCA9IHNoaXBtZW50X3F1b3RlX3ByaWNlcy5pZAogICAgICAgIHBvc3RhbF9jb2RlLnNhdmUoKQoKICAgICAgICBkZWZhdWx0X2RhdGEgPSB7CiAgICAgICAgICAgICJzZXJ2aWNlX3dhcmVob3VzZV9jb2RlIjogInNlcnZpY2VfdGVjaHMiLAogICAgICAgICAgICAid2FyZWhvdXNlX2NvZGUiOiAidGhlX2RvY2tzIiwKICAgICAgICAgICAgInBvc3RhbF9jb2RlIjogIkFCQyIsCiAgICAgICAgICAgICJjb3VudHJ5IjogQ09VTlRSSUVTLlVTCiAgICAgICAgfQoKICAgICAgICBwID0gUG9zdGFsQ29kZU1hcHBpbmcoZGVmYXVsdF9kYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocC5wb3N0YWxfY29kZS5pZCwgcG9zdGFsX2NvZGUuaWQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwLnBvc3RhbF9jb2RlLmNvdW50cnksIHBvc3RhbF9jb2RlLmNvdW50cnkpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwLnBvc3RhbF9jb2RlLndhcmVob3VzZV9pZCwgd2FyZWhvdXNlMS5pZCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHAucG9zdGFsX2NvZGUuc2VydmljZV93YXJlaG91c2VfaWQsIHdhcmVob3VzZTIuaWQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChwLnNoaXBtZW50X3F1b3RlX3ByaWNlcy5pZCwgc2hpcG1lbnRfcXVvdGVfcHJpY2VzLmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgKICAgICAgICAiZWNvbW0ucmV0dXJucy5vcmRlcl9yZXR1cm5zLmRhdGEucmV0dXJuZWRfb3JkZXJfYnVpbGRlci5SZXR1cm5lZE9yZGVyIgogICAgICAgICsgIi5uZWVkc19zaGlwcGluZ19sYWJlbCIsCiAgICAgICAgbmV3X2NhbGxhYmxlPVByb3BlcnR5TW9jawogICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5oYXNfcmVzcG9uZGVkOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgcmVzcG9uc2VzID0gWwogICAgICAgICAgICBxLnJlc3BvbnNlX2Zvcl9zaGlwcGluZ19wYXJ0bmVyCiAgICAgICAgICAgIGZvciBxIGluIHNlbGYucXVlc3Rpb25zX3dpdGhfcmVzcG9uc2VzCiAgICAgICAgICAgIGlmIHEucmVzcG9uc2VfZm9yX3NoaXBwaW5nX3BhcnRuZXIgaXMgbm90IE5vbmUKICAgICAgICBdCgogICAgICAgIHJldHVybiAiICIuam9pbihyZXNwb25zZXMpCgogICAgZGVmIGdldF9zdXJ2ZXlfbGluayhzZWxmKToK</text>
@@ -690,9 +703,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19wb3N0YWxfY29kZV90aW1lX3pvbmVfZW5hYmxlZFw+</last-search>
+      <last-search encoding="base64">XDxtb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19wb3N0YWxfY29kZV90aW1lX3pvbmVfZW5hYmxlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtb2NrXD4=</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -700,10 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>next(</entry>
-        <entry encoding="base64">XDxtb2NrX3JlcGxhY2VtZW50X29yZGVyX3NoaXBwaW5nX3BhcnRuZXJcPg==</entry>
-        <entry>rma</entry>
-        <entry>success</entry>
         <entry>is_equipment</entry>
         <entry encoding="base64">XDxwb3N0YWxfY29kZVw+</entry>
         <entry>can_schedule_delivery</entry>
@@ -719,7 +728,11 @@
         <entry>deliver</entry>
         <entry>partner_delivery_date</entry>
         <entry>delivery</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxpc19wb3N0YWxfY29kZV90aW1lX3pvbmVfZW5hYmxlZFw+</entry>
+        <entry>sushi</entry>
+        <entry>service_warehouse</entry>
+        <entry encoding="base64">XDxtb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>599</entry>
