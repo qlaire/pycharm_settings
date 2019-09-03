@@ -185,8 +185,8 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1566572301667">
-        <mark key="'" line="1391" column="8" />
+      <file name="$USER_HOME$/Development/api/data/models/subscription.py" timestamp="1567525766175">
+        <mark key="'" line="1283" column="19" />
         <mark key="[" line="912" column="0" />
         <mark key="]" line="931" column="9" />
         <mark key="." line="2172" column="68" />
@@ -252,7 +252,7 @@
         <mark key="]" line="1448" column="36" />
         <mark key="." line="1448" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" timestamp="1567106259640">
+      <file name="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_return_order.py" timestamp="1567525988410">
         <mark key="'" line="385" column="36" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="60" column="9" />
@@ -545,48 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="14" filename="$USER_HOME$/Development/api/tests/ecomm/app/graphql/test_order.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/graphql/test_order.py" />
-      <jump line="220" column="41" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_slots_for_order.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_slots_for_order.py" />
-      <jump line="219" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_slots_for_order.py" />
-      <jump line="264" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_slots_for_order.py" />
-      <jump line="305" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_slots_for_order.py" />
-      <jump line="317" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_get_available_delivery_slots_for_order.py" />
-      <jump line="449" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="524" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="581" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="668" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="755" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="824" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="948" column="56" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="1031" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="1242" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="1299" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="1371" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="1443" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="1515" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/commands/test_reserve_delivery_slot_for_order.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" />
-      <jump line="279" column="0" filename="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" />
-      <jump line="348" column="0" filename="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" />
-      <jump line="352" column="0" filename="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" />
-      <jump line="424" column="0" filename="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" />
-      <jump line="101" column="39" filename="$USER_HOME$/Development/api/tests/mq/app/workers/ecomm_workers/test_field_service_lightning.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/domain/test_status_event.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/domain/test_status_event.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/domain/test_status_event.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/domain/test_status_event.py" />
-      <jump line="237" column="8" filename="$USER_HOME$/Development/api/tests/ecomm/shipping/logistics/domain/test_status_event.py" />
-      <jump line="308" column="36" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_order.py" />
-      <jump line="784" column="19" filename="$USER_HOME$/Development/api/data/models/shipment.py" />
-      <jump line="412" column="0" filename="$USER_HOME$/Development/api/tests/data/models/test_shipment.py" />
-      <jump line="831" column="24" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/order/test_logistics.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
-      <jump line="166" column="11" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
-      <jump line="168" column="13" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
-      <jump line="215" column="13" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
-      <jump line="217" column="21" filename="$USER_HOME$/Development/api/data/services/enablement.py" />
       <jump line="360" column="28" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_order.py" />
       <jump line="303" column="30" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_order.py" />
       <jump line="89" column="27" filename="$USER_HOME$/Development/api/tests/ecomm/app/server/controllers/zendesk/test_order.py" />
@@ -645,6 +603,48 @@
       <jump line="49" column="13" filename="$USER_HOME$/Development/api/mq/app/handlers/email/prepare_for_delivery/prepare_for_delivery_emails.py" />
       <jump line="51" column="4" filename="$USER_HOME$/Development/api/ecomm/app/checkout/checkout_service.py" />
       <jump line="115" column="8" filename="$USER_HOME$/Development/api/data/models/ios_subscription.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1753" column="17" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2052" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2053" column="30" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2059" column="13" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2060" column="13" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2063" column="26" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2065" column="56" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2066" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2067" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2071" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2072" column="30" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2074" column="60" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2075" column="45" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2076" column="60" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2104" column="42" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2105" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2106" column="25" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2107" column="15" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2109" column="29" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="2110" column="50" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="55" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="301" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="302" column="9" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="303" column="9" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="363" column="22" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="364" column="27" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="389" column="6" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="416" column="16" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="417" column="30" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="419" column="60" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="420" column="34" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="421" column="49" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="661" column="26" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="948" column="12" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1284" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1539" column="54" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1541" column="33" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="647" column="11" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
+      <jump line="1283" column="19" filename="$USER_HOME$/Development/api/data/models/subscription.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -654,7 +654,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>finalize</text>
+        <text>credit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnBvc3RhbF9jb2RlID0gbWFrZS5hX3Bvc3RhbGNvZGUoCiAgICAgICAgICAgIHBvc3RhbGNvZGVfX2Nhbl9zaGlwX3RvPVRydWUsCiAgICAgICAgICAgIHBvc3RhbGNvZGVfX2Nhbl9zZWxmX3NjaGVkdWxlPVRydWUsCiAgICAgICAgICAgIHBvc3RhbGNvZGVfX2NvZGU9JzEwMDAxJywKICAgICAgICAgICAgcG9zdGFsY29kZV9fY291bnRyeT0nVVMnLAogICAgICAgICAgICBwb3N0YWxjb2RlX193YXJlaG91c2VfaWQ9bWFrZS5hX3dhcmVob3VzZShwYXJ0bmVyX2ZsYWc9InV4IikuaWQsCiAgICAgICAgICAgIHBvc3RhbGNvZGVfX3NoaXBtZW50X3F1b3RlX3ByaWNlc19pZD1xdW90ZV9wcmljZTEuaWQKICAgICAgICApCg==</text>
@@ -697,9 +697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finalize</last-search>
+      <last-search>credit</last-search>
       <last-offset />
-      <last-pattern>finalize</last-pattern>
+      <last-pattern>credit</last-pattern>
       <last-replace>fixture_note_response</last-replace>
       <last-substitute>fixture_create_response</last-substitute>
       <last-dir>1</last-dir>
@@ -707,10 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subtotal_paid</entry>
-        <entry>equipment_shipping_paid</entry>
-        <entry>accessories_shipping</entry>
-        <entry>coupon_savings</entry>
         <entry>deposit_payment</entry>
         <entry>total_paid</entry>
         <entry>tax</entry>
@@ -727,6 +723,10 @@
         <entry>pps</entry>
         <entry>confirm</entry>
         <entry>finalize</entry>
+        <entry>trial</entry>
+        <entry>waiver</entry>
+        <entry>free</entry>
+        <entry>credit</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
